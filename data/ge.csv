@@ -1,0 +1,4247 @@
+item,price,high_alch,low_alch
+3rd age amulet,123281634.0,30300.0,20200.0
+3rd age axe,2147483646.0,33000.0,22000.0
+3rd age bow,2147446801.0,90000.0,60000.0
+3rd age cloak,832970261.0,51000.0,34000.0
+3rd age druidic cloak,1835222146.0,120000.0,80000.0
+3rd age druidic robe bottoms,2147483563.0,120000.0,80000.0
+3rd age druidic robe top,2147483646.0,120000.0,80000.0
+3rd age druidic staff,1392074091.0,120000.0,80000.0
+3rd age felling axe,2147438023.0,33000.0,22000.0
+3rd age full helmet,82763498.0,54000.0,36000.0
+3rd age kiteshield,201606810.0,108000.0,72000.0
+3rd age longsword,2147421460.0,90000.0,60000.0
+3rd age mage hat,38617742.0,30240.0,20160.0
+3rd age pickaxe,2147483647.0,58770.0,39180.0
+3rd age platebody,360618001.0,120000.0,80000.0
+3rd age platelegs,191191924.0,120000.0,80000.0
+3rd age plateskirt,101680710.0,120000.0,80000.0
+3rd age range coif,32096054.0,30240.0,20160.0
+3rd age range legs,44001879.0,30360.0,20240.0
+3rd age range top,67115160.0,30480.0,20320.0
+3rd age robe,70179270.0,30360.0,20240.0
+3rd age robe top,280312448.0,30480.0,20320.0
+3rd age vambraces,33506445.0,30300.0,20200.0
+3rd age wand,1008479125.0,90000.0,60000.0
+A powdered wig,11897.0,1200.0,800.0
+Abyssal ashes,2624.0,1.0,1.0
+Abyssal bludgeon,30537798.0,156000.0,104000.0
+Abyssal bracelet(5),2292.0,2520.0,1680.0
+Abyssal dagger,2477872.0,69000.0,46000.0
+Abyssal dagger (p),2570655.0,69001.0,46000.0
+Abyssal dagger (p+),2618117.0,69001.0,46001.0
+Abyssal dagger (p++),2505167.0,69002.0,46001.0
+Abyssal whip,1647363.0,72000.0,48000.0
+Accursed sceptre (au),3021203.0,1.0,1.0
+Accursed sceptre (u),2981798.0,1.0,1.0
+Achey tree logs,265.0,2.0,1.0
+Acorn,152.0,3.0,2.0
+Adamant 2h sword,3488.0,3840.0,2560.0
+Adamant arrow,18.0,48.0,32.0
+Adamant arrow(p),149.0,48.0,32.0
+Adamant arrow(p+),396.0,48.0,32.0
+Adamant arrow(p++),18.0,48.0,32.0
+Adamant arrowtips,117.0,24.0,16.0
+Adamant axe,452.0,768.0,512.0
+Adamant battleaxe,2351.0,2496.0,1664.0
+Adamant bolts,29.0,34.0,23.0
+Adamant bolts (p),210.0,34.0,23.0
+Adamant bolts (p+),453.0,34.0,23.0
+Adamant bolts (p++),878.0,34.0,23.0
+Adamant bolts(unf),136.0,1.0,1.0
+Adamant boots,1064.0,1152.0,768.0
+Adamant brutal,304.0,57.0,38.0
+Adamant cane,4992.0,864.0,576.0
+Adamant chainbody,2559.0,2880.0,1920.0
+Adamant claws,1502.0,720.0,480.0
+Adamant crossbow,1941.0,1060.0,706.0
+Adamant crossbow (u),1532.0,1039.0,693.0
+Adamant dagger,288.0,480.0,320.0
+Adamant dagger(p),397.0,480.0,320.0
+Adamant dagger(p+),1896.0,480.0,320.0
+Adamant dagger(p++),3455.0,480.0,320.0
+Adamant dart,20.0,39.0,26.0
+Adamant dart tip,191.0,21.0,14.0
+Adamant dart(p),21.0,39.0,26.0
+Adamant dart(p+),286.0,39.0,26.0
+Adamant dart(p++),966.0,39.0,26.0
+Adamant dragon mask,12051.0,6000.0,4000.0
+Adamant felling axe,93589.0,768.0,512.0
+Adamant full helm,1814.0,2112.0,1408.0
+Adamant full helm (g),8874.0,2112.0,1408.0
+Adamant full helm (t),3815.0,2112.0,1408.0
+Adamant gold-trimmed set (lg),64333.0,4800.0,3200.0
+Adamant gold-trimmed set (sk),57610.0,4800.0,3200.0
+Adamant halberd,14744.0,3840.0,2560.0
+Adamant hasta,947.0,1248.0,832.0
+Adamant hasta(p),5048.0,1248.0,832.0
+Adamant hasta(p+),6691.0,1248.0,832.0
+Adamant hasta(p++),7119.0,1248.0,832.0
+Adamant helm (h1),4214.0,2112.0,1408.0
+Adamant helm (h2),2452.0,2112.0,1408.0
+Adamant helm (h3),6202.0,2112.0,1408.0
+Adamant helm (h4),2321.0,2112.0,1408.0
+Adamant helm (h5),2323.0,2112.0,1408.0
+Adamant javelin,58.0,96.0,64.0
+Adamant javelin heads,338.0,264.0,176.0
+Adamant javelin(p),203.0,96.0,64.0
+Adamant javelin(p+),202.0,96.0,64.0
+Adamant javelin(p++),395.0,96.0,64.0
+Adamant kiteshield,2909.0,3264.0,2176.0
+Adamant kiteshield (g),12708.0,3264.0,2176.0
+Adamant kiteshield (t),4105.0,3264.0,2176.0
+Adamant knife,336.0,39.0,26.0
+Adamant knife(p),742.0,39.0,26.0
+Adamant knife(p+),779.0,39.0,26.0
+Adamant knife(p++),1555.0,39.0,26.0
+Adamant longsword,1599.0,1920.0,1280.0
+Adamant mace,683.0,864.0,576.0
+Adamant med helm,840.0,1152.0,768.0
+Adamant pickaxe,1568.0,1920.0,1280.0
+Adamant platebody,9512.0,9984.0,6656.0
+Adamant platebody (g),20178.0,9984.0,6656.0
+Adamant platebody (h1),9354.0,9984.0,6656.0
+Adamant platebody (h2),9124.0,9984.0,6656.0
+Adamant platebody (h3),9739.0,9984.0,6656.0
+Adamant platebody (h4),9482.0,9984.0,6656.0
+Adamant platebody (h5),9422.0,9984.0,6656.0
+Adamant platebody (t),9441.0,9984.0,6656.0
+Adamant platelegs,3494.0,3840.0,2560.0
+Adamant platelegs (g),5749.0,3840.0,2560.0
+Adamant platelegs (t),4120.0,3840.0,2560.0
+Adamant plateskirt,3513.0,3840.0,2560.0
+Adamant plateskirt (g),3492.0,3840.0,2560.0
+Adamant plateskirt (t),3582.0,3840.0,2560.0
+Adamant scimitar,1445.0,1536.0,1024.0
+Adamant seeds,231.0,180.0,120.0
+Adamant set (lg),18319.0,4800.0,3200.0
+Adamant set (sk),20573.0,4800.0,3200.0
+Adamant shield (h1),3002.0,3264.0,2176.0
+Adamant shield (h2),3079.0,3264.0,2176.0
+Adamant shield (h3),2892.0,3264.0,2176.0
+Adamant shield (h4),2910.0,3264.0,2176.0
+Adamant shield (h5),2794.0,3264.0,2176.0
+Adamant spear,861.0,1248.0,832.0
+Adamant spear(p),856.0,1248.0,832.0
+Adamant spear(p+),2089.0,1248.0,832.0
+Adamant spear(p++),6859.0,1248.0,832.0
+Adamant sq shield,1946.0,2304.0,1536.0
+Adamant sword,1059.0,1248.0,832.0
+Adamant thrownaxe,338.0,105.0,70.0
+Adamant trimmed set (lg),32987.0,4800.0,3200.0
+Adamant trimmed set (sk),34465.0,4800.0,3200.0
+Adamant warhammer,2657.0,2472.0,1648.0
+Adamantite bar,1899.0,384.0,256.0
+Adamantite limbs,1720.0,960.0,640.0
+Adamantite nails,117.0,27.0,18.0
+Adamantite ore,1033.0,240.0,160.0
+Admiral pie,143.0,186.0,124.0
+Afro,80336.0,410.0,273.0
+Agility mix(1),490.0,30.0,20.0
+Agility mix(2),246.0,60.0,40.0
+Agility potion(1),92.0,30.0,20.0
+Agility potion(2),176.0,60.0,40.0
+Agility potion(3),154.0,90.0,60.0
+Agility potion(4),331.0,120.0,80.0
+Ahrim's armour set,7221250.0,120000.0,80000.0
+Ahrim's hood,261071.0,7800.0,5200.0
+Ahrim's hood 0,233068.0,7800.0,5200.0
+Ahrim's robeskirt,2910500.0,28200.0,18800.0
+Ahrim's robeskirt 0,2789479.0,28200.0,18800.0
+Ahrim's robetop,3714238.0,30000.0,20000.0
+Ahrim's robetop 0,3576496.0,30000.0,20000.0
+Ahrim's staff,208913.0,51000.0,34000.0
+Ahrim's staff 0,142274.0,51000.0,34000.0
+Air battlestaff,9023.0,9300.0,6200.0
+Air orb,1198.0,180.0,120.0
+Air rune,5.0,2.0,1.0
+Air talisman,118.0,2.0,1.0
+Air tiara,17.0,60.0,40.0
+Airtight pot,1435.0,6.0,4.0
+Aldarium,55538.0,60.0,40.0
+Ale of the gods,440228.0,510.0,340.0
+Ale yeast,1044.0,1.0,1.0
+Amethyst,3559.0,2340.0,1560.0
+Amethyst arrow,178.0,294.0,196.0
+Amethyst arrow(p),363.0,294.0,196.0
+Amethyst arrow(p+),583.0,294.0,196.0
+Amethyst arrow(p++),1081.0,294.0,196.0
+Amethyst arrowtips,236.0,147.0,98.0
+Amethyst bolt tips,215.0,96.0,64.0
+Amethyst broad bolts,239.0,144.0,96.0
+Amethyst dart,190.0,240.0,160.0
+Amethyst dart tip,456.0,120.0,80.0
+Amethyst dart(p),493.0,240.0,160.0
+Amethyst dart(p+),612.0,240.0,160.0
+Amethyst dart(p++),1023.0,240.0,160.0
+Amethyst javelin,237.0,252.0,168.0
+Amethyst javelin heads,741.0,912.0,608.0
+Amethyst javelin(p),903.0,252.0,168.0
+Amethyst javelin(p+),999.0,252.0,168.0
+Amethyst javelin(p++),1460.0,252.0,168.0
+Amulet mould,479.0,3.0,2.0
+Amulet of accuracy,1245.0,60.0,40.0
+Amulet of avarice,411440.0,27000.0,18000.0
+Amulet of bounty,676.0,540.0,360.0
+Amulet of chemistry,1570.0,630.0,420.0
+Amulet of defence,969.0,765.0,510.0
+Amulet of defence (t),5553.0,765.0,510.0
+Amulet of eternal glory,49025019.0,10575.0,7050.0
+Amulet of fury,2779226.0,121200.0,80800.0
+Amulet of glory,12260.0,10575.0,7050.0
+Amulet of glory (t),60580.0,10575.0,7050.0
+Amulet of glory (t4),52482.0,10575.0,7050.0
+Amulet of glory (t6),77167.0,10575.0,7050.0
+Amulet of glory(4),12127.0,10575.0,7050.0
+Amulet of glory(6),11499.0,10575.0,7050.0
+Amulet of magic,734.0,540.0,360.0
+Amulet of magic (t),19162.0,540.0,360.0
+Amulet of power,2245.0,2115.0,1410.0
+Amulet of power (t),680716.0,2415.0,1610.0
+Amulet of rancour,95309983.0,240000.0,160000.0
+Amulet of strength,1423.0,1215.0,810.0
+Amulet of the damned (full),34264.0,34800.0,23200.0
+Amulet of torture,22869342.0,121200.0,80800.0
+Amylase crystal,1023.0,12.0,8.0
+Ancestral hat,42433306.0,27000.0,18000.0
+Ancestral robe bottom,99135491.0,48000.0,32000.0
+Ancestral robe top,130049904.0,72000.0,48000.0
+Ancestral robes set,273373794.0,87000.0,58000.0
+Anchovies,43.0,9.0,6.0
+Anchovy pizza,718.0,36.0,24.0
+Ancient blessing,7243.0,48.0,32.0
+Ancient bracers,75376.0,2400.0,1600.0
+Ancient brew(1),620.0,75.0,50.0
+Ancient brew(2),1090.0,90.0,60.0
+Ancient brew(3),1491.0,105.0,70.0
+Ancient brew(4),2229.0,120.0,80.0
+Ancient ceremonial boots,23168.0,24000.0,16000.0
+Ancient ceremonial gloves,23207.0,24000.0,16000.0
+Ancient ceremonial legs,47261.0,48000.0,32000.0
+Ancient ceremonial mask,29554.0,30000.0,20000.0
+Ancient ceremonial top,58945.0,60000.0,40000.0
+Ancient chaps,334179.0,3600.0,2400.0
+Ancient cloak,40252.0,1200.0,800.0
+Ancient coif,108256.0,1200.0,800.0
+Ancient crozier,6444.0,3000.0,2000.0
+Ancient crystal,150560.0,150000.0,100000.0
+Ancient d'hide body,170782.0,7800.0,5200.0
+Ancient d'hide boots,551926.0,5580.0,3720.0
+Ancient d'hide shield,369981.0,17000.0,11333.0
+Ancient dragonhide set,725330.0,5700.0,3800.0
+Ancient effigy,7972440.0,4800000.0,3200000.0
+Ancient emblem,500754.0,300000.0,200000.0
+Ancient essence,10.0,1.0,1.0
+Ancient full helm,56413.0,21120.0,14080.0
+Ancient godsword,35037404.0,750000.0,500000.0
+Ancient hilt,35238519.0,300000.0,200000.0
+Ancient kiteshield,58490.0,32640.0,21760.0
+Ancient mace,5901.0,600.0,400.0
+Ancient medallion,3990945.0,2400000.0,1600000.0
+Ancient mitre,23529.0,3000.0,2000.0
+Ancient mix(1),767.0,75.0,50.0
+Ancient mix(2),1395.0,90.0,60.0
+Ancient page 1,2650.0,240.0,160.0
+Ancient page 2,2598.0,240.0,160.0
+Ancient page 3,3185.0,240.0,160.0
+Ancient page 4,2300.0,240.0,160.0
+Ancient platebody,43138.0,39000.0,26000.0
+Ancient platelegs,42208.0,38400.0,25600.0
+Ancient plateskirt,38595.0,38400.0,25600.0
+Ancient relic,15967942.0,9600000.0,6400000.0
+Ancient robe legs,44215.0,4200.0,2800.0
+Ancient robe top,54442.0,4200.0,2800.0
+Ancient rune armour set (lg),236257.0,48000.0,32000.0
+Ancient rune armour set (sk),248912.0,48000.0,32000.0
+Ancient staff,72910.0,60000.0,40000.0
+Ancient statuette,1996210.0,1200000.0,800000.0
+Ancient stole,3533.0,1500.0,1000.0
+Ancient totem,998450.0,600000.0,400000.0
+Ancient wyvern shield,32265668.0,1200000.0,800000.0
+Anglerfish,1693.0,270.0,180.0
+Anguish ornament kit,5505365.0,3000.0,2000.0
+Ankou gloves,4741537.0,1.0,1.0
+Ankou mask,16727645.0,1.0,1.0
+Ankou socks,6536135.0,1.0,1.0
+Ankou top,31609412.0,1.0,1.0
+Ankou's leggings,10042721.0,1.0,1.0
+Annakarl teleport (tablet),1817.0,1.0,1.0
+Anti-dragon shield,111.0,12.0,8.0
+Anti-poison supermix(1),468.0,86.0,57.0
+Anti-poison supermix(2),948.0,129.0,86.0
+Anti-venom(1),3072.0,66.0,44.0
+Anti-venom(2),6075.0,132.0,88.0
+Anti-venom(3),7850.0,198.0,132.0
+Anti-venom(4),11129.0,264.0,176.0
+Anti-venom+(1),3484.0,66.0,44.0
+Anti-venom+(2),6816.0,133.0,88.0
+Anti-venom+(3),10639.0,199.0,133.0
+Anti-venom+(4),13680.0,266.0,177.0
+Antidote+ mix(1),1151.0,86.0,57.0
+Antidote+ mix(2),1522.0,129.0,86.0
+Antidote+(1),748.0,86.0,57.0
+Antidote+(2),1313.0,129.0,86.0
+Antidote+(3),2022.0,172.0,115.0
+Antidote+(4),2142.0,216.0,144.0
+Antidote++(1),1817.0,86.0,57.0
+Antidote++(2),3327.0,129.0,86.0
+Antidote++(3),5646.0,172.0,115.0
+Antidote++(4),7993.0,216.0,144.0
+Antifire mix(1),171.0,79.0,52.0
+Antifire mix(2),150.0,118.0,79.0
+Antifire potion(1),205.0,79.0,52.0
+Antifire potion(2),434.0,118.0,79.0
+Antifire potion(3),714.0,158.0,105.0
+Antifire potion(4),1033.0,198.0,132.0
+Antipoison mix(1),246.0,86.0,57.0
+Antipoison mix(2),159.0,129.0,86.0
+Antipoison(1),58.0,86.0,57.0
+Antipoison(2),113.0,129.0,86.0
+Antipoison(3),216.0,172.0,115.0
+Antipoison(4),304.0,216.0,144.0
+Ape atoll teleport (tablet),3005.0,1.0,1.0
+Apple mush,533.0,7.0,5.0
+Apple pie,88.0,18.0,12.0
+Apple sapling,396.0,1.0,1.0
+Apple tree seed,31.0,7.0,5.0
+Apples(5),642.0,1.0,1.0
+Apprentice wand,757344.0,900.0,600.0
+Aranea boots,8780052.0,90000.0,60000.0
+Araxyte venom sack,1611.0,300.0,200.0
+Arcane prayer scroll,1258574.0,48000.0,32000.0
+Arcane sigil,146775923.0,450000.0,300000.0
+Arcane spirit shield,146669545.0,1200000.0,800000.0
+Arceuus banner,1818.0,42.0,28.0
+Arceuus hood,2480.0,1.0,1.0
+Arceuus library teleport (tablet),1951.0,1.0,1.0
+Arceuus scarf,6007.0,6000.0,4000.0
+Archer helm,43033.0,36000.0,24000.0
+Archer icon,3318436.0,1.0,1.0
+Archers ring,2957866.0,6000.0,4000.0
+Archery ticket,11.0,15.0,10.0
+Arctic pine logs,484.0,21.0,14.0
+Arctic pyre logs,2448.0,120.0,80.0
+Ardougne teleport (tablet),454.0,1.0,1.0
+Arena book,1217.0,1.0,1.0
+Armadyl bracers,69460.0,2400.0,1600.0
+Armadyl chainskirt,30282096.0,173940.0,115960.0
+Armadyl chaps,374661.0,3600.0,2400.0
+Armadyl chestplate,40435854.0,174000.0,116000.0
+Armadyl cloak,47479.0,1200.0,800.0
+Armadyl coif,100595.0,1200.0,800.0
+Armadyl crossbow,55858297.0,594000.0,396000.0
+Armadyl crozier,5127.0,3000.0,2000.0
+Armadyl d'hide body,168744.0,7800.0,5200.0
+Armadyl d'hide boots,673003.0,5580.0,3720.0
+Armadyl d'hide shield,618479.0,17000.0,11333.0
+Armadyl dragonhide set,774849.0,5700.0,3800.0
+Armadyl full helm,27638.0,21120.0,14080.0
+Armadyl godsword,11079746.0,750000.0,500000.0
+Armadyl godsword ornament kit,140534.0,3000.0,2000.0
+Armadyl helmet,10046527.0,173400.0,115600.0
+Armadyl hilt,10427910.0,300000.0,200000.0
+Armadyl kiteshield,36602.0,32640.0,21760.0
+Armadyl mitre,22369.0,3000.0,2000.0
+Armadyl page 1,3738.0,240.0,160.0
+Armadyl page 2,2601.0,240.0,160.0
+Armadyl page 3,2897.0,240.0,160.0
+Armadyl page 4,2873.0,240.0,160.0
+Armadyl platebody,40113.0,39000.0,26000.0
+Armadyl platelegs,39710.0,38400.0,25600.0
+Armadyl plateskirt,37842.0,38400.0,25600.0
+Armadyl robe legs,33795.0,4200.0,2800.0
+Armadyl robe top,49474.0,4200.0,2800.0
+Armadyl rune armour set (lg),177597.0,48000.0,32000.0
+Armadyl rune armour set (sk),175302.0,48000.0,32000.0
+Armadyl stole,13248.0,1500.0,1000.0
+Armadylean plate,10429636.0,1.0,1.0
+Armageddon cape fabric,51446057.0,1.0,1.0
+Armageddon rug,24352379.0,1.0,1.0
+Armageddon teleport scroll,19324311.0,1.0,1.0
+Armageddon weapon scroll,99335915.0,1.0,1.0
+Arrow shaft,1.0,1.0,1.0
+Asgarnian ale,79.0,1.0,1.0
+Asgarnian ale (flatpack),9082.0,6.0,4.0
+Asgarnian ale(4),35421.0,1.0,1.0
+Asgarnian ale(m),18647.0,1.0,1.0
+Asgarnian ale(m4),5104.0,1.0,1.0
+Asgarnian hops,267.0,3.0,2.0
+Asgarnian seed,5.0,1.0,1.0
+Ashes,82.0,1.0,1.0
+Assorted flowers,256.0,60.0,40.0
+Astral rune,164.0,30.0,20.0
+Asyn remains,4740.0,1.0,1.0
+Atlatl dart,203.0,294.0,196.0
+Attack mix(1),161.0,3.0,2.0
+Attack mix(2),75.0,5.0,3.0
+Attack potion(1),3.0,3.0,2.0
+Attack potion(2),6.0,5.0,3.0
+Attack potion(3),6.0,7.0,4.0
+Attack potion(4),14.0,9.0,6.0
+Avantoe,2394.0,28.0,19.0
+Avantoe potion (unf),2512.0,28.0,19.0
+Avantoe seed,873.0,4.0,3.0
+Avernic defender hilt,41557504.0,1500000.0,1000000.0
+Awakener's orb,1015733.0,45000.0,30000.0
+Axeman's folly,2087.0,1.0,1.0
+Axeman's folly(4),17439.0,1.0,1.0
+Axeman's folly(m),45773.0,1.0,1.0
+Axeman's folly(m4),235562.0,1.0,1.0
+Baby impling jar,1629.0,30.0,20.0
+Babydragon bones,1189.0,1.0,1.0
+Bag of salt,19.0,6.0,4.0
+Bagged bluebells,16785.0,9000.0,6000.0
+Bagged daffodils,10837.0,6000.0,4000.0
+Bagged dead tree,1497.0,600.0,400.0
+Bagged flower,5959.0,3000.0,2000.0
+Bagged magic tree,53003.0,30000.0,20000.0
+Bagged maple tree,17855.0,9000.0,6000.0
+Bagged marigolds,11338.0,6000.0,4000.0
+Bagged nice tree,3049.0,1200.0,800.0
+Bagged oak tree,6695.0,3000.0,2000.0
+Bagged plant 1,1779.0,600.0,400.0
+Bagged plant 2,6269.0,3000.0,2000.0
+Bagged plant 3,12164.0,6000.0,4000.0
+Bagged roses,17515.0,9000.0,6000.0
+Bagged sunflower,6650.0,3000.0,2000.0
+Bagged willow tree,12535.0,6000.0,4000.0
+Bagged yew tree,21670.0,12000.0,8000.0
+Baked potato,226.0,2.0,1.0
+Ball of wool,49.0,1.0,1.0
+Ballista limbs,29672.0,30000.0,20000.0
+Ballista spring,29691.0,30000.0,20000.0
+Banana,83.0,1.0,1.0
+Banana sapling,202.0,1.0,1.0
+Banana stew,34.0,180.0,120.0
+Banana tree seed,29.0,12.0,8.0
+Bananas(5),508.0,1.0,1.0
+Bandana eyepatch (blue),481.0,60.0,40.0
+Bandana eyepatch (brown),1753.0,60.0,40.0
+Bandana eyepatch (red),498.0,60.0,40.0
+Bandana eyepatch (white),653.0,60.0,40.0
+Bandit's brew,2231.0,300.0,200.0
+Bandos boots,190625.0,173406.0,115604.0
+Bandos bracers,77747.0,2400.0,1600.0
+Bandos chaps,277918.0,3600.0,2400.0
+Bandos chestplate,25160959.0,174006.0,116004.0
+Bandos cloak,93542.0,1200.0,800.0
+Bandos coif,100105.0,1200.0,800.0
+Bandos crozier,5277.0,3000.0,2000.0
+Bandos d'hide body,156589.0,7800.0,5200.0
+Bandos d'hide boots,360185.0,5580.0,3720.0
+Bandos d'hide shield,331803.0,17000.0,11333.0
+Bandos dragonhide set,709895.0,5700.0,3800.0
+Bandos full helm,28400.0,21120.0,14080.0
+Bandos godsword,12063500.0,750000.0,500000.0
+Bandos godsword ornament kit,3387850.0,3000.0,2000.0
+Bandos hilt,11360233.0,300000.0,200000.0
+Bandos kiteshield,33520.0,32640.0,21760.0
+Bandos mitre,21589.0,3000.0,2000.0
+Bandos page 1,1461.0,240.0,160.0
+Bandos page 2,1628.0,240.0,160.0
+Bandos page 3,1566.0,240.0,160.0
+Bandos page 4,1520.0,240.0,160.0
+Bandos platebody,124059.0,39000.0,26000.0
+Bandos platelegs,38227.0,38400.0,25600.0
+Bandos plateskirt,38185.0,38400.0,25600.0
+Bandos robe legs,37523.0,4200.0,2800.0
+Bandos robe top,40310.0,4200.0,2800.0
+Bandos rune armour set (lg),269783.0,48000.0,32000.0
+Bandos rune armour set (sk),268530.0,48000.0,32000.0
+Bandos stole,5238.0,1500.0,1000.0
+Bandos tassets,16547816.0,173946.0,115964.0
+Bandosian components,8105735.0,1.0,1.0
+Barb bolttips,73.0,57.0,38.0
+Barb-tail harpoon,391.0,21.0,14.0
+Barbarian teleport (tablet),1044.0,1.0,1.0
+Barbed bolts,77.0,120.0,80.0
+Bark,93.0,1.0,1.0
+Barley,763.0,2.0,1.0
+Barley malt,1100.0,2.0,1.0
+Barley seed,6.0,1.0,1.0
+Barrel,890.0,1.0,1.0
+Barrows teleport (tablet),2679.0,1.0,1.0
+Basalt,755.0,18.0,12.0
+Basilisk jaw,23695202.0,300000.0,200000.0
+Basket,4.0,1.0,1.0
+Bass,96.0,24.0,16.0
+Bastion potion(1),5892.0,54.0,36.0
+Bastion potion(2),11744.0,108.0,72.0
+Bastion potion(3),18357.0,162.0,108.0
+Bastion potion(4),25099.0,216.0,144.0
+Bat bones,546.0,1.0,1.0
+Batta tin,113.0,6.0,4.0
+Battlefront teleport (tablet),1838.0,1.0,1.0
+Battlemage potion(1),5980.0,54.0,36.0
+Battlemage potion(2),12213.0,108.0,72.0
+Battlemage potion(3),15164.0,162.0,108.0
+Battlemage potion(4),23296.0,216.0,144.0
+Battlestaff,8283.0,4200.0,2800.0
+Beanie,17657.0,360.0,240.0
+Bear feet,37802.0,600.0,400.0
+Bear fur,139.0,6.0,4.0
+Beer,79.0,1.0,1.0
+Beer barrel (flatpack),58.0,6.0,4.0
+Beer glass,51.0,1.0,1.0
+Beer tankard,297.0,12.0,8.0
+Beginner wand,200838.0,720.0,480.0
+Belladonna seed,152.0,106.0,70.0
+Bellator ring,44942527.0,1.0,1.0
+Berserker helm,84680.0,36000.0,24000.0
+Berserker icon,4944628.0,1.0,1.0
+Berserker necklace,2739206.0,121200.0,80800.0
+Berserker necklace ornament kit,5586.0,3000.0,2000.0
+Berserker ring,4832903.0,6000.0,4000.0
+Big bones,749.0,1.0,1.0
+Big fishing net,579.0,12.0,8.0
+Big pirate hat,677938.0,900.0,600.0
+Binding necklace,808.0,855.0,570.0
+Bird house,1100.0,3.0,2.0
+Bird nest (empty),7655.0,271.0,181.0
+Bird snare,13.0,3.0,2.0
+Black 2h sword,933.0,1152.0,768.0
+Black axe,711.0,230.0,153.0
+Black battleaxe,860.0,748.0,499.0
+Black bead,2308.0,2.0,1.0
+Black beret,91772.0,48.0,32.0
+Black boater,14761.0,135.0,90.0
+Black boots,506.0,345.0,230.0
+Black brutal,736.0,21.0,14.0
+Black cane,20264.0,360.0,240.0
+Black cape,468.0,4.0,2.0
+Black cavalier,63642.0,120.0,80.0
+Black chainbody,2187.0,864.0,576.0
+Black chinchompa,3882.0,144.0,96.0
+Black claws,6836.0,216.0,144.0
+Black d'hide body,7382.0,8088.0,5392.0
+Black d'hide body (g),22447.0,8088.0,5392.0
+Black d'hide body (t),12978.0,8088.0,5392.0
+Black d'hide chaps,4421.0,3732.0,2488.0
+Black d'hide chaps (g),213239.0,3732.0,2488.0
+Black d'hide chaps (t),41843.0,3732.0,2488.0
+Black d'hide shield,22053.0,17000.0,11333.0
+Black d'hide vambraces,2385.0,2592.0,1728.0
+Black dagger,284.0,144.0,96.0
+Black dagger(p),68.0,144.0,96.0
+Black dagger(p+),2560.0,144.0,96.0
+Black dagger(p++),3619.0,144.0,96.0
+Black dart,3100.0,1.0,1.0
+Black dart(p),41.0,10.0,7.0
+Black dart(p+),28.0,10.0,7.0
+Black dart(p++),64.0,10.0,7.0
+Black demon mask,46121.0,2400.0,1600.0
+Black desert robe,647.0,18.0,12.0
+Black desert shirt,428.0,24.0,16.0
+Black dragon leather,5224.0,66.0,44.0
+Black dragon mask,74103.0,6000.0,4000.0
+Black dragonhide,5016.0,90.0,60.0
+Black dragonhide set,15836.0,3000.0,2000.0
+Black elegant legs,6848.0,1200.0,800.0
+Black elegant shirt,8838.0,1200.0,800.0
+Black felling axe,8072.0,230.0,153.0
+Black flowers,39594.0,60.0,40.0
+Black full helm,641.0,633.0,422.0
+Black full helm (g),86854.0,633.0,422.0
+Black full helm (t),29889.0,633.0,422.0
+Black gold-trimmed set (lg),510513.0,2700.0,1800.0
+Black gold-trimmed set (sk),410263.0,2700.0,1800.0
+Black halberd,3855.0,1152.0,768.0
+Black headband,6061.0,24.0,16.0
+Black helm (h1),3888.0,633.0,422.0
+Black helm (h2),3855.0,633.0,422.0
+Black helm (h3),4130.0,633.0,422.0
+Black helm (h4),3644.0,633.0,422.0
+Black helm (h5),4679.0,633.0,422.0
+Black kiteshield,1002.0,979.0,652.0
+Black kiteshield (g),140108.0,979.0,652.0
+Black kiteshield (t),12663.0,979.0,652.0
+Black knife,52.0,11.0,7.0
+Black knife(p),283.0,10.0,7.0
+Black knife(p+),171.0,10.0,7.0
+Black knife(p++),1141.0,10.0,7.0
+Black leprechaun hat,7550.0,3000.0,2000.0
+Black locks,1773.0,1920.0,1280.0
+Black longsword,302.0,576.0,384.0
+Black mace,857.0,259.0,172.0
+Black mask,809103.0,1800.0,1200.0
+Black mask (10),783578.0,1800.0,1200.0
+Black med helm,181.0,345.0,230.0
+Black nails,1581.0,7.0,4.0
+Black pickaxe,1868.0,87.0,58.0
+Black platebody,2334.0,2304.0,1536.0
+Black platebody (g),162813.0,2304.0,1536.0
+Black platebody (h1),2799.0,2304.0,1536.0
+Black platebody (h2),2685.0,2304.0,1536.0
+Black platebody (h3),2269.0,2304.0,1536.0
+Black platebody (h4),2435.0,2304.0,1536.0
+Black platebody (h5),2576.0,2304.0,1536.0
+Black platebody (t),30484.0,2304.0,1536.0
+Black platelegs,1279.0,1152.0,768.0
+Black platelegs (g),69696.0,1152.0,768.0
+Black platelegs (t),18554.0,1152.0,768.0
+Black plateskirt,1140.0,1152.0,768.0
+Black plateskirt (g),5691.0,1152.0,768.0
+Black plateskirt (t),3286.0,1152.0,768.0
+Black robe,1418.0,7.0,5.0
+Black salamander,323.0,120.0,80.0
+Black scimitar,1599.0,460.0,307.0
+Black set (lg),7609.0,2700.0,1800.0
+Black set (sk),10429.0,2700.0,1800.0
+Black shield (h1),2385.0,979.0,652.0
+Black shield (h2),2377.0,979.0,652.0
+Black shield (h3),2460.0,979.0,652.0
+Black shield (h4),2072.0,979.0,652.0
+Black shield (h5),3084.0,979.0,652.0
+Black skirt,10.0,1.0,1.0
+Black skirt (g),39993.0,1.0,1.0
+Black skirt (t),32756.0,1.0,1.0
+Black spear,2352.0,390.0,260.0
+Black spear(p),7219.0,450.0,300.0
+Black spear(p+),11040.0,450.0,300.0
+Black spear(p++),10177.0,450.0,300.0
+Black spiky vambraces,5068.0,2592.0,1728.0
+Black sq shield,525.0,691.0,460.0
+Black sword,188.0,374.0,249.0
+Black tourmaline core,6997644.0,24900.0,16600.0
+Black toy horsey,276.0,60.0,40.0
+Black trimmed set (lg),107882.0,2700.0,1800.0
+Black trimmed set (sk),91870.0,2700.0,1800.0
+Black unicorn mask,24864.0,600.0,400.0
+Black warhammer,396.0,588.0,392.0
+Black warlock (item),435.0,42.0,28.0
+Black warlock mix (1),4250.0,42.0,28.0
+Black warlock mix (2),700.0,42.0,28.0
+Black wizard hat (g),275606.0,1.0,1.0
+Black wizard hat (t),116693.0,1.0,1.0
+Black wizard robe (g),220827.0,9.0,6.0
+Black wizard robe (t),68181.0,9.0,6.0
+Blackbird red,332.0,180.0,120.0
+Blacksmith's helm,57309.0,1800.0,1200.0
+Blade of saeldor (inactive),158365301.0,3000000.0,2000000.0
+Blamish bark shell,2520.0,90.0,60.0
+Blamish blue shell (pointed),2947.0,90.0,60.0
+Blamish blue shell (round),1302.0,90.0,60.0
+Blamish myre shell (pointed),239.0,90.0,60.0
+Blamish myre shell (round),259.0,90.0,60.0
+Blamish ochre shell (pointed),242.0,90.0,60.0
+Blamish ochre shell (round),148.0,90.0,60.0
+Blamish red shell (pointed),722.0,90.0,60.0
+Blamish red shell (round),315.0,90.0,60.0
+Blessed spirit shield,724445.0,720000.0,480000.0
+Blighted ancient ice sack,781.0,1.0,1.0
+Blighted anglerfish,473.0,1.0,1.0
+Blighted entangle sack,50.0,1.0,1.0
+Blighted karambwan,272.0,1.0,1.0
+Blighted manta ray,1544.0,1.0,1.0
+Blighted overload (1),2978.0,1.0,1.0
+Blighted overload (2),5211.0,1.0,1.0
+Blighted overload (3),7826.0,1.0,1.0
+Blighted overload (4),24701.0,1.0,1.0
+Blighted super restore(4),5489.0,1.0,1.0
+Blighted teleport spell sack,106.0,1.0,1.0
+Blighted vengeance sack,199.0,1.0,1.0
+Blood essence,71425.0,60000.0,40000.0
+Blood moon chestplate,6140330.0,174006.0,116004.0
+Blood moon chestplate (broken),5342473.0,174006.0,116004.0
+Blood moon helm,1083485.0,61800.0,41200.0
+Blood moon helm (broken),341183.0,61800.0,41200.0
+Blood moon tassets,11945933.0,173946.0,115964.0
+Blood moon tassets (broken),11365076.0,173946.0,115964.0
+Blood pint,192.0,1.0,1.0
+Blood rune,286.0,240.0,160.0
+Blood shard,14838338.0,1.0,1.0
+Blood talisman,163263.0,1.0,1.0
+Blood tiara,184927.0,1.0,1.0
+Blood'n'tar snelm,154.0,180.0,120.0
+Bloodbark body,192518.0,1.0,1.0
+Bloodbark boots,37222.0,1.0,1.0
+Bloodbark gauntlets,42811.0,1.0,1.0
+Bloodbark helm,86845.0,1.0,1.0
+Bloodbark legs,186832.0,1.0,1.0
+Bloody bracer,973.0,1.0,1.0
+Blue beret,17335.0,48.0,32.0
+Blue boater,6545.0,135.0,90.0
+Blue boots,1542.0,120.0,80.0
+Blue cape,156.0,19.0,12.0
+Blue d'hide body,5087.0,5616.0,3744.0
+Blue d'hide body (g),5069.0,5616.0,3744.0
+Blue d'hide body (t),5170.0,5616.0,3744.0
+Blue d'hide chaps,2271.0,2592.0,1728.0
+Blue d'hide chaps (g),5046.0,2592.0,1728.0
+Blue d'hide chaps (t),2127.0,2592.0,1728.0
+Blue d'hide shield,4406.0,4500.0,3000.0
+Blue d'hide vambraces,1528.0,1800.0,1200.0
+Blue dark bow paint,287895.0,1.0,1.0
+Blue dragon leather,2143.0,42.0,28.0
+Blue dragon mask,5632.0,6000.0,4000.0
+Blue dragon scale,16.0,30.0,20.0
+Blue dragonhide,1956.0,84.0,56.0
+Blue dragonhide set,10330.0,3000.0,2000.0
+Blue dye,499.0,3.0,2.0
+Blue elegant blouse,84156.0,1200.0,800.0
+Blue elegant legs,11716.0,1200.0,800.0
+Blue elegant shirt,10565.0,1200.0,800.0
+Blue elegant skirt,21391.0,1200.0,800.0
+Blue feather,44.0,9.0,6.0
+Blue firelighter,74.0,9.0,6.0
+Blue flowers,105.0,60.0,40.0
+Blue halloween mask,6779.0,9.0,6.0
+Blue hat,816.0,96.0,64.0
+Blue headband,4233.0,24.0,16.0
+Blue moon chestplate,2737658.0,174006.0,116004.0
+Blue moon chestplate (broken),1473892.0,174006.0,116004.0
+Blue moon helm,589074.0,61800.0,41200.0
+Blue moon helm (broken),95237.0,61800.0,41200.0
+Blue moon spear,725483.0,60000.0,40000.0
+Blue moon tassets,8126576.0,173946.0,115964.0
+Blue moon tassets (broken),6155831.0,173946.0,115964.0
+Blue partyhat,21107.0,1.0,1.0
+Blue robe bottoms,726.0,108.0,72.0
+Blue robe top,1356.0,108.0,72.0
+Blue skirt,97.0,1.0,1.0
+Blue skirt (g),28899.0,1.0,1.0
+Blue skirt (t),16731.0,1.0,1.0
+Blue spiky vambraces,2023.0,1800.0,1200.0
+Blue wizard hat,369.0,1.0,1.0
+Blue wizard hat (g),187361.0,1.0,1.0
+Blue wizard hat (t),59264.0,1.0,1.0
+Blue wizard robe,2497.0,9.0,6.0
+Blue wizard robe (g),111672.0,9.0,6.0
+Blue wizard robe (t),37566.0,9.0,6.0
+Bluegill,48.0,1.0,1.0
+Blurberry special,4081.0,18.0,12.0
+Bob's black shirt,33077.0,1.0,1.0
+Bob's blue shirt,21497.0,1.0,1.0
+Bob's green shirt,17882.0,1.0,1.0
+Bob's purple shirt,29607.0,1.0,1.0
+Bob's red shirt,20691.0,1.0,1.0
+Body rune,6.0,1.0,1.0
+Body talisman,2365.0,2.0,1.0
+Body tiara,14.0,60.0,40.0
+Bolt mould,10.0,15.0,10.0
+Bolt of cloth,1054.0,300.0,200.0
+Bolt rack,114.0,30.0,20.0
+Bone bolts,4.0,1.0,1.0
+Bone club,793.0,360.0,240.0
+Bone dagger,4804.0,1200.0,800.0
+Bone dagger (p),4687.0,1200.0,800.0
+Bone dagger (p+),5347.0,1200.0,800.0
+Bone dagger (p++),10334.0,1200.0,800.0
+Bone fragments,618.0,1.0,1.0
+Bone spear,959.0,360.0,240.0
+Bones,60.0,1.0,1.0
+Bones to bananas (tablet),572.0,1.0,1.0
+Bones to peaches (tablet),588.0,1.0,1.0
+Book of balance page set,19901.0,4200.0,2800.0
+Book of darkness page set,28682.0,4500.0,3000.0
+Book of law page set,29296.0,4500.0,3000.0
+Book of war page set,18593.0,4500.0,3000.0
+Bookcase (flatpack),33.0,6.0,4.0
+Boots of brimstone,663563.0,12000.0,8000.0
+Boots of darkness,9650.0,6000.0,4000.0
+Boots of stone,559.0,120.0,80.0
+Botanical pie,1385.0,18.0,12.0
+Bottle of wine,825.0,300.0,200.0
+Bottled dragonbreath,13796.0,300.0,200.0
+Bottled dragonbreath (unpowered),11417.0,300.0,200.0
+Bottomless compost bucket,667366.0,27000.0,18000.0
+Bounty supply crate,10409.0,1.0,1.0
+Bounty supply crate (anglerfish),11625.0,1.0,1.0
+Bounty supply crate (manta ray),13168.0,1.0,1.0
+Bow of faerdhinen (inactive),160134144.0,3000000.0,2000000.0
+Bow string,99.0,6.0,4.0
+Bowl,20.0,2.0,1.0
+Bowl of hot water,273.0,6.0,4.0
+Bowl of water,78.0,2.0,1.0
+Bowl wig,41842.0,1.0,1.0
+Box trap,38.0,19.0,12.0
+Bracelet mould,460.0,3.0,2.0
+Bracelet of clay,574.0,759.0,506.0
+Bracelet of ethereum (uncharged),44278.0,43200.0,28800.0
+Bracelet of slaughter,2815.0,1500.0,1000.0
+Brandy,94.0,3.0,2.0
+Brass key,425.0,1.0,1.0
+Brass necklace,183.0,18.0,12.0
+Bread,144.0,7.0,4.0
+Bread dough,223.0,2.0,1.0
+Briefcase,274475.0,399.0,266.0
+Brimstone ring,3115012.0,6000.0,4000.0
+Brine sabre,439157.0,15600.0,10400.0
+Broad arrowheads,57.0,33.0,22.0
+Broad bolts,51.0,33.0,22.0
+Broken bark snelm,81.0,180.0,120.0
+Broken dragon hasta,39700.0,37440.0,24960.0
+Broken zombie axe,1604339.0,1.0,1.0
+Broken zombie helmet,424865.0,1.0,1.0
+Bronze 2h sword,212.0,48.0,32.0
+Bronze arrow,3.0,1.0,1.0
+Bronze arrow(p),65.0,1.0,1.0
+Bronze arrow(p+),18.0,1.0,1.0
+Bronze arrow(p++),38.0,1.0,1.0
+Bronze arrowtips,4.0,1.0,1.0
+Bronze axe,96.0,9.0,6.0
+Bronze bar,124.0,4.0,3.0
+Bronze battleaxe,59.0,31.0,20.0
+Bronze bolts,3.0,1.0,1.0
+Bronze bolts (p),76.0,1.0,1.0
+Bronze bolts (p+),296.0,1.0,1.0
+Bronze bolts (p++),808.0,1.0,1.0
+Bronze bolts (unf),23.0,1.0,1.0
+Bronze boots,1274.0,14.0,9.0
+Bronze brutal,145.0,3.0,2.0
+Bronze chainbody,42.0,36.0,24.0
+Bronze claws,181.0,9.0,6.0
+Bronze crossbow,635.0,43.0,29.0
+Bronze crossbow (u),118.0,24.0,16.0
+Bronze dagger,81.0,6.0,4.0
+Bronze dagger(p),249.0,6.0,4.0
+Bronze dagger(p+),2109.0,6.0,4.0
+Bronze dagger(p++),3948.0,6.0,4.0
+Bronze dart,14.0,1.0,1.0
+Bronze dart tip,44.0,1.0,1.0
+Bronze dart(p),29.0,1.0,1.0
+Bronze dart(p+),38.0,1.0,1.0
+Bronze dart(p++),53.0,1.0,1.0
+Bronze dragon mask,5791.0,6000.0,4000.0
+Bronze felling axe,1076.0,9.0,6.0
+Bronze full helm,85.0,26.0,17.0
+Bronze full helm (g),55733.0,28.0,19.0
+Bronze full helm (t),7595.0,28.0,19.0
+Bronze gold-trimmed set (lg),221453.0,120.0,80.0
+Bronze gold-trimmed set (sk),191791.0,120.0,80.0
+Bronze halberd,630.0,48.0,32.0
+Bronze hasta,167.0,15.0,10.0
+Bronze hasta(p),4089.0,15.0,10.0
+Bronze hasta(p+),5439.0,15.0,10.0
+Bronze hasta(p++),5381.0,15.0,10.0
+Bronze javelin,17.0,2.0,1.0
+Bronze javelin heads,42.0,15.0,10.0
+Bronze javelin(p),10.0,2.0,1.0
+Bronze javelin(p+),11.0,2.0,1.0
+Bronze javelin(p++),14.0,2.0,1.0
+Bronze kiteshield,103.0,40.0,27.0
+Bronze kiteshield (g),49361.0,38.0,25.0
+Bronze kiteshield (t),5512.0,38.0,25.0
+Bronze knife,32.0,1.0,1.0
+Bronze knife(p),59.0,1.0,1.0
+Bronze knife(p+),50.0,1.0,1.0
+Bronze knife(p++),208.0,1.0,1.0
+Bronze limbs,48.0,12.0,8.0
+Bronze locks,1114.0,480.0,320.0
+Bronze longsword,73.0,24.0,16.0
+Bronze mace,104.0,10.0,7.0
+Bronze med helm,76.0,14.0,9.0
+Bronze nails,4.0,1.0,1.0
+Bronze pickaxe,63.0,1.0,1.0
+Bronze platebody,61.0,96.0,64.0
+Bronze platebody (g),64853.0,96.0,64.0
+Bronze platebody (t),4670.0,96.0,64.0
+Bronze platelegs,354.0,48.0,32.0
+Bronze platelegs (g),14667.0,48.0,32.0
+Bronze platelegs (t),3981.0,48.0,32.0
+Bronze plateskirt,41.0,48.0,32.0
+Bronze plateskirt (g),3390.0,48.0,32.0
+Bronze plateskirt (t),3469.0,48.0,32.0
+Bronze scimitar,54.0,19.0,12.0
+Bronze set (lg),524.0,120.0,80.0
+Bronze set (sk),484.0,120.0,80.0
+Bronze spear,320.0,15.0,10.0
+Bronze spear(p),1277.0,15.0,10.0
+Bronze spear(p+),764.0,15.0,10.0
+Bronze spear(p++),67.0,15.0,10.0
+Bronze sq shield,31.0,28.0,19.0
+Bronze sword,52.0,15.0,10.0
+Bronze thrownaxe,17.0,1.0,1.0
+Bronze trimmed set (lg),57048.0,120.0,80.0
+Bronze trimmed set (sk),51221.0,120.0,80.0
+Bronze warhammer,57.0,28.0,18.0
+Bronze wire,366.0,12.0,8.0
+Broodoo shield (10) (combat),2353.0,1800.0,1200.0
+Broodoo shield (10) (disease),2317.0,1800.0,1200.0
+Broodoo shield (10) (poison),4084.0,1800.0,1200.0
+Broodoo shield (combat),5621.0,1800.0,1200.0
+Broodoo shield (disease),6038.0,1800.0,1200.0
+Broodoo shield (poison),6355.0,1800.0,1200.0
+Brown apron,98.0,1.0,1.0
+Brown headband,2570.0,24.0,16.0
+Brown toy horsey,303.0,60.0,40.0
+Bruise blue snelm,1014.0,180.0,120.0
+Bryophyta's essence,11132755.0,4200.0,2800.0
+Bryophyta's staff (uncharged),11132268.0,39000.0,26000.0
+Bucket,6.0,1.0,1.0
+Bucket helm,52404.0,8400.0,5600.0
+Bucket helm (g),7261808.0,8400.0,5600.0
+Bucket of milk,48.0,3.0,2.0
+Bucket of sand,15.0,1.0,1.0
+Bucket of sap,488.0,18.0,12.0
+Bucket of water,39.0,3.0,2.0
+Bucket of wax,608.0,3.0,2.0
+Bullseye lantern,2069.0,252.0,168.0
+Bullseye lantern (empty),788.0,240.0,160.0
+Bullseye lantern (unf),283.0,180.0,120.0
+Burning amulet(5),3203.0,750.0,500.0
+Burning claw,8149203.0,1.0,1.0
+Burning claws,16596532.0,1.0,1.0
+Burnt bones,329.0,1.0,1.0
+Burnt page,1595.0,120.0,80.0
+Butterfly jar,111.0,1.0,1.0
+Butterfly net,24.0,12.0,8.0
+Cabbage,67.0,1.0,1.0
+Cabbage round shield,13454.0,1800.0,1200.0
+Cabbage seed,2.0,1.0,1.0
+Cabbages(10),1330.0,1.0,1.0
+Cactus seed,103.0,59.0,39.0
+Cactus spine,2195.0,1.0,1.0
+Cadantine,3345.0,39.0,26.0
+Cadantine blood potion (unf),18717.0,99.0,66.0
+Cadantine potion (unf),3553.0,39.0,26.0
+Cadantine seed,3534.0,4.0,2.0
+Cadava berries,147.0,1.0,1.0
+Cadavaberry seed,3.0,5.0,3.0
+Cake,178.0,30.0,20.0
+Cake tin,87.0,6.0,4.0
+Calcified moth,6217.0,,
+Calcite,77.0,18.0,12.0
+Calquat fruit,163.0,32.0,21.0
+Calquat keg,236.0,1.0,1.0
+Calquat sapling,602.0,1.0,1.0
+Calquat tree seed,153.0,204.0,136.0
+Camelot teleport (tablet),367.0,1.0,1.0
+Candle,57.0,1.0,1.0
+Candle lantern (black),6618.0,9.0,6.0
+Candle lantern (white),445.0,9.0,6.0
+Cannon barrels,177401.0,112500.0,75000.0
+Cannon base,192722.0,112500.0,75000.0
+Cannon furnace,199204.0,112500.0,75000.0
+Cannon stand,179050.0,112500.0,75000.0
+Cannonball,195.0,3.0,2.0
+Cape of skulls,5220016.0,3000.0,2000.0
+Carrallanger teleport (tablet),1379.0,1.0,1.0
+Carved oak bench (flatpack),11.0,6.0,4.0
+Carved oak magic wardrobe (flatpack),11.0,6.0,4.0
+Carved oak table (flatpack),2.0,6.0,4.0
+Carved teak bench (flatpack),109.0,6.0,4.0
+Carved teak magic wardrobe (flatpack),33.0,6.0,4.0
+Carved teak table (flatpack),313.0,6.0,4.0
+Casket,2434.0,30.0,20.0
+Castle wars bracelet(3),1090.0,1005.0,670.0
+Cat mask,19776.0,1440.0,960.0
+Catalytic talisman,3482.0,1.0,1.0
+Catalytic tiara,1153.0,1.0,1.0
+Catherby teleport (tablet),1337.0,1.0,1.0
+Cavalier mask,121315.0,120.0,80.0
+Cave eel,102.0,9.0,6.0
+Cave goblin wire,2330.0,12.0,8.0
+Caviar,223.0,30.0,20.0
+Celastrus bark,8691.0,270.0,180.0
+Celastrus sapling,75560.0,1.0,1.0
+Celastrus seed,73272.0,324.0,216.0
+Cemetery teleport (tablet),2464.0,1.0,1.0
+Chaos rune,102.0,54.0,36.0
+Chaos talisman,161.0,2.0,1.0
+Chaos tiara,374.0,60.0,40.0
+Charcoal,336.0,27.0,18.0
+Charge dragonstone jewellery scroll,177.0,1.0,1.0
+Cheese,51.0,2.0,1.0
+Cheese+tom batta,2414.0,1.0,1.0
+Chef's delight,459.0,1.0,1.0
+Chef's delight (flatpack),16028.0,6.0,4.0
+Chef's delight(4),12568.0,1.0,1.0
+Chef's delight(m),40098.0,1.0,1.0
+Chef's delight(m4),223991.0,1.0,1.0
+Chef's hat,332.0,1.0,1.0
+Chichilihui rosé,128.0,60.0,40.0
+Chilhuac red,954.0,240.0,160.0
+Chilli con carne,39.0,7.0,5.0
+Chilli potato,136.0,7.0,5.0
+Chinchompa,1394.0,84.0,56.0
+Chisel,60.0,1.0,1.0
+Chitin,5000.0,1.0,1.0
+Choc saturday,52.0,18.0,12.0
+Choc-ice,203.0,18.0,12.0
+Chocchip crunchies,2182.0,1.0,1.0
+Chocolate bar,68.0,6.0,4.0
+Chocolate bomb,1070.0,1.0,1.0
+Chocolate cake,187.0,42.0,28.0
+Chocolate dust,97.0,1.0,1.0
+Chopped garlic,297.0,4.0,2.0
+Chopped onion,78.0,1.0,1.0
+Chopped tomato,54.0,1.0,1.0
+Chopped tuna,250.0,62.0,41.0
+Chopped ugthanki,11.0,3.0,2.0
+Christmas cracker,259960.0,1.0,1.0
+Chromium ingot,68717.0,30000.0,20000.0
+Chugging barrel (disassembled),13466811.0,600.0,400.0
+Cider,120.0,1.0,1.0
+Cider barrel (flatpack),12486.0,6.0,4.0
+Cider(4),10535.0,1.0,1.0
+Cider(m4),84232.0,1.0,1.0
+Circular hide,20138.0,36.0,24.0
+Citizen shoes,716.0,3.0,2.0
+Citizen top,609.0,3.0,2.0
+Citizen trousers,481.0,3.0,2.0
+Civitas illa fortis teleport,539.0,1.0,1.0
+Claws of callisto,51646.0,1.0,1.0
+Clay,100.0,1.0,1.0
+Cleaning cloth,611.0,36.0,24.0
+Cleaver,17029.0,15360.0,10240.0
+Climbing boots,787.0,7.0,4.0
+Climbing boots (g),47169.0,45000.0,30000.0
+Clockwork,945.0,300.0,200.0
+Clothes pouch,152786.0,1.0,1.0
+Clothes pouch blueprint,169283.0,1.0,1.0
+Clue box,210241.0,6.0,4.0
+Coal,163.0,27.0,18.0
+Cocktail glass,191.0,1.0,1.0
+Cocktail guide,26.0,1.0,1.0
+Cocktail shaker,30.0,1.0,1.0
+Coconut,2635.0,52.0,34.0
+Coconut milk,298.0,1.0,1.0
+Cod,46.0,6.0,4.0
+Coif,86.0,120.0,80.0
+Colossal wyrm teleport scroll,44771.0,6.0,4.0
+Combat bracelet,12349.0,12624.0,8416.0
+Combat bracelet(4),12487.0,12624.0,8416.0
+Combat bracelet(6),12540.0,12624.0,8416.0
+Combat mix(1),306.0,31.0,20.0
+Combat mix(2),248.0,63.0,42.0
+Combat potion set,1083.0,42.0,28.0
+Combat potion(1),56.0,31.0,20.0
+Combat potion(2),125.0,63.0,42.0
+Combat potion(3),225.0,96.0,64.0
+Combat potion(4),311.0,129.0,86.0
+Common kebbit fur,1001.0,7.0,4.0
+Common tench,525.0,1.0,1.0
+Comp ogre bow,792.0,108.0,72.0
+Compost,20.0,12.0,8.0
+Compost potion(1),13.0,18.0,12.0
+Compost potion(2),48.0,36.0,24.0
+Compost potion(3),1.0,54.0,36.0
+Compost potion(4),1.0,72.0,48.0
+Condensed gold,10416838.0,4800000.0,3200000.0
+Cooked barb-tailed kebbit,735.0,2.0,1.0
+Cooked chicken,95.0,2.0,1.0
+Cooked chompy,111.0,78.0,52.0
+Cooked chompy (roasted),11654.0,51.0,34.0
+Cooked crab meat,1488.0,30.0,20.0
+Cooked dashing kebbit,1802.0,2.0,1.0
+Cooked graahk,754.0,2.0,1.0
+Cooked jubbly,1405.0,90.0,60.0
+Cooked karambwan,531.0,150.0,100.0
+Cooked kyatt,265.0,2.0,1.0
+Cooked larupia,608.0,2.0,1.0
+Cooked meat,91.0,2.0,1.0
+Cooked moonlight antelope,2991.0,2.0,1.0
+Cooked mystery meat,167.0,1.0,1.0
+Cooked oomlie wrap,4302.0,21.0,14.0
+Cooked pyre fox,448.0,2.0,1.0
+Cooked rabbit,284.0,2.0,1.0
+Cooked slimy eel,51.0,1.0,1.0
+Cooked sunlight antelope,831.0,2.0,1.0
+Cooked sweetcorn,184.0,5.0,3.0
+Cooked wild kebbit,823.0,2.0,1.0
+Cooking apple,45.0,1.0,1.0
+Copper ore,18.0,1.0,1.0
+Cornflour,46796.0,1.0,1.0
+Corrupted armadyl godsword,2500000.0,1.0,1.0
+Corrupted dark bow,1000000.0,1.0,1.0
+Corrupted dragon claws,2500000.0,1.0,1.0
+Corrupted scythe of vitur (uncharged),2500000.0,1.0,1.0
+Corrupted tumeken's shadow (uncharged),2500000.0,1.0,1.0
+Corrupted twisted bow,2500000.0,1.0,1.0
+Corrupted voidwaker,2500000.0,1.0,1.0
+Corrupted volatile nightmare staff,1000000.0,1.0,1.0
+Cosmic rune,114.0,30.0,20.0
+Cosmic talisman,182.0,2.0,1.0
+Cosmic tiara,70.0,60.0,40.0
+Cowhide,243.0,1.0,1.0
+Craw's bow (u),20052438.0,72000.0,48000.0
+Cream boots,1241.0,120.0,80.0
+Cream hat,1393.0,96.0,64.0
+Cream robe bottoms,239.0,108.0,72.0
+Cream robe top,832.0,108.0,72.0
+Crier bell,4348.0,3000.0,2000.0
+Crier coat,4691.0,3000.0,2000.0
+Crier hat,2820.0,3000.0,2000.0
+Crossbow,332.0,42.0,28.0
+Crossbow string,472.0,1.0,1.0
+Crude chair (flatpack),1614.0,6.0,4.0
+Crunchy tray,390.0,6.0,4.0
+Crushed nest,7833.0,120.0,80.0
+Crushed superior dragon bones,25203.0,30.0,20.0
+Crystal armour seed,8373551.0,300000.0,200000.0
+Crystal ball (flatpack),261.0,6.0,4.0
+Crystal grail,345467.0,18000.0,12000.0
+Crystal key,26281.0,90.0,60.0
+Crystal of power (flatpack),6368.0,6.0,4.0
+Crystal tool seed,25278961.0,300000.0,200000.0
+Crystal weapon seed,324416.0,1.0,1.0
+Cup of hot water,309.0,6.0,4.0
+Cup of tea,107.0,6.0,4.0
+Cup of water,34.0,6.0,4.0
+Cured yak-hide,709.0,60.0,40.0
+Curry,454.0,12.0,8.0
+Curry leaf,31.0,11.0,7.0
+Curry sapling,405.0,1.0,1.0
+Curry tree seed,31.0,23.0,15.0
+Cursed amulet of magic,20212.0,1.0,1.0
+Cyclops head,4872.0,3000.0,2000.0
+Dagannoth bones,15335.0,90.0,60.0
+Dagannoth hide,321.0,36.0,24.0
+Dagon'hai hat,337618.0,10200.0,6800.0
+Dagon'hai robe bottom,660582.0,54000.0,36000.0
+Dagon'hai robe top,1345841.0,84000.0,56000.0
+Dagon'hai robes set,2431317.0,130200.0,86800.0
+Damaged monkey tail,90.0,1.0,1.0
+Dareeyak teleport (tablet),889.0,1.0,1.0
+Dark bow,1100220.0,72001.0,48000.0
+Dark bow tie,888125.0,3000.0,2000.0
+Dark cavalier,4471.0,120.0,80.0
+Dark crab,1428.0,192.0,128.0
+Dark fishing bait,6.0,1.0,1.0
+Dark infinity colour kit,10544.0,3000.0,2000.0
+Dark kebbit fur,55.0,126.0,84.0
+Dark trousers,1475503.0,3600.0,2400.0
+Dark tuxedo cuffs,757102.0,1800.0,1200.0
+Dark tuxedo jacket,3177272.0,6000.0,4000.0
+Dark tuxedo shoes,1098529.0,1800.0,1200.0
+Dashing kebbit fur,41.0,162.0,108.0
+Death rune,187.0,108.0,72.0
+Death talisman,7290.0,2.0,1.0
+Death tiara,6534.0,60.0,40.0
+Deerstalker,21874.0,1380.0,920.0
+Defence mix(1),23.0,36.0,24.0
+Defence mix(2),78.0,54.0,36.0
+Defence potion(1),171.0,36.0,24.0
+Defence potion(2),257.0,54.0,36.0
+Defence potion(3),441.0,72.0,48.0
+Defence potion(4),731.0,90.0,60.0
+Demon feet,63740.0,600.0,400.0
+Desert boots,277.0,12.0,8.0
+Desert camo legs,7544.0,12.0,8.0
+Desert camo top,6519.0,12.0,8.0
+Desert devil fur,1153.0,10.0,6.0
+Desert goat horn,46.0,7.0,4.0
+Desert legs,1381.0,15.0,10.0
+Desert robe,210.0,24.0,16.0
+Desert robes,991.0,15.0,10.0
+Desert shirt,377.0,24.0,16.0
+Desert top,761.0,9.0,6.0
+Desert top (overcoat),1122.0,21.0,14.0
+Devout boots,1934807.0,12000.0,8000.0
+Dexterous prayer scroll,9338202.0,48000.0,32000.0
+Dharok's armour set,4826361.0,240000.0,160000.0
+Dharok's greataxe,2464576.0,124800.0,83200.0
+Dharok's greataxe 0,2393128.0,124800.0,83200.0
+Dharok's helm,432017.0,61800.0,41200.0
+Dharok's helm 0,398574.0,61800.0,41200.0
+Dharok's platebody,940270.0,168000.0,112000.0
+Dharok's platebody 0,873031.0,168000.0,112000.0
+Dharok's platelegs,970886.0,165000.0,110000.0
+Dharok's platelegs 0,906453.0,165000.0,110000.0
+Diamond,1753.0,1200.0,800.0
+Diamond amulet,2083.0,2115.0,1410.0
+Diamond amulet (u),1927.0,2115.0,1410.0
+Diamond bolt tips,162.0,79.0,53.0
+Diamond bolts,214.0,115.0,76.0
+Diamond bolts (e),65.0,126.0,84.0
+Diamond bracelet,2104.0,2295.0,1530.0
+Diamond dragon bolts,2884.0,510.0,340.0
+Diamond dragon bolts (e),2912.0,528.0,352.0
+Diamond necklace,2014.0,2205.0,1470.0
+Diamond ring,1929.0,2115.0,1410.0
+Digsite teleport,16502.0,6.0,4.0
+Dinh's bulwark,14604179.0,336000.0,224000.0
+Disk of returning,18501.0,72.0,48.0
+Divine bastion potion(1),7442.0,1.0,1.0
+Divine bastion potion(2),14301.0,1.0,1.0
+Divine bastion potion(3),21639.0,1.0,1.0
+Divine bastion potion(4),29741.0,1.0,1.0
+Divine battlemage potion(1),5194.0,1.0,1.0
+Divine battlemage potion(2),10330.0,1.0,1.0
+Divine battlemage potion(3),15268.0,1.0,1.0
+Divine battlemage potion(4),27249.0,1.0,1.0
+Divine magic potion(1),727.0,24.0,16.0
+Divine magic potion(2),1181.0,54.0,36.0
+Divine magic potion(3),1992.0,102.0,68.0
+Divine magic potion(4),3254.0,150.0,100.0
+Divine ranging potion(1),1528.0,24.0,16.0
+Divine ranging potion(2),2977.0,54.0,36.0
+Divine ranging potion(3),4507.0,102.0,68.0
+Divine ranging potion(4),5758.0,150.0,100.0
+Divine super attack potion(1),411.0,24.0,16.0
+Divine super attack potion(2),911.0,54.0,36.0
+Divine super attack potion(3),1743.0,102.0,68.0
+Divine super attack potion(4),2300.0,150.0,100.0
+Divine super combat potion(1),5049.0,24.0,16.0
+Divine super combat potion(2),10122.0,54.0,36.0
+Divine super combat potion(3),15170.0,102.0,68.0
+Divine super combat potion(4),20153.0,150.0,100.0
+Divine super defence potion(1),833.0,24.0,16.0
+Divine super defence potion(2),1388.0,54.0,36.0
+Divine super defence potion(3),2053.0,102.0,68.0
+Divine super defence potion(4),4925.0,150.0,100.0
+Divine super strength potion(1),1563.0,24.0,16.0
+Divine super strength potion(2),2835.0,54.0,36.0
+Divine super strength potion(3),4864.0,102.0,68.0
+Divine super strength potion(4),6337.0,150.0,100.0
+Dodgy necklace,1202.0,630.0,420.0
+Doogle leaves,225.0,1.0,1.0
+Dorgeshuun crossbow,2045.0,1200.0,800.0
+Double eye patch,26883.0,1.0,1.0
+Draconic visage,4810175.0,450000.0,300000.0
+Dragon 2h sword,132299.0,132000.0,88000.0
+Dragon armour set (lg),167573067.0,300000.0,200000.0
+Dragon armour set (sk),128889211.0,300000.0,200000.0
+Dragon arrow,1803.0,480.0,320.0
+Dragon arrow(p),1922.0,480.0,320.0
+Dragon arrow(p+),1802.0,480.0,320.0
+Dragon arrow(p++),2664.0,480.0,320.0
+Dragon arrowtips,1805.0,300.0,200.0
+Dragon axe,54569.0,33000.0,22000.0
+Dragon battleaxe,119266.0,120000.0,80000.0
+Dragon bitter,228.0,1.0,1.0
+Dragon bitter (flatpack),330.0,6.0,4.0
+Dragon bitter(4),8846.0,1.0,1.0
+Dragon bitter(m),633.0,1.0,1.0
+Dragon bitter(m4),17818.0,1.0,1.0
+Dragon bolts,2679.0,255.0,170.0
+Dragon bolts (p),1413.0,258.0,172.0
+Dragon bolts (p+),1524.0,261.0,174.0
+Dragon bolts (p++),2542.0,264.0,176.0
+Dragon bolts (unf),2707.0,84.0,56.0
+Dragon bones,3813.0,96.0,64.0
+Dragon boots,158761.0,12000.0,8000.0
+Dragon boots ornament kit,27147.0,3000.0,2000.0
+Dragon cane,20818.0,18000.0,12000.0
+Dragon chainbody,207011.0,150000.0,100000.0
+Dragon chainbody ornament kit,30273.0,3000.0,2000.0
+Dragon claws,69275198.0,123000.0,82000.0
+Dragon crossbow,1456519.0,32400.0,21600.0
+Dragon crossbow (u),1279507.0,18000.0,12000.0
+Dragon dagger,17482.0,18000.0,12000.0
+Dragon dagger(p),18731.0,14400.0,9600.0
+Dragon dagger(p+),16291.0,14400.0,9600.0
+Dragon dagger(p++),22979.0,14400.0,9600.0
+Dragon dart,2999.0,300.0,200.0
+Dragon dart tip,3459.0,150.0,100.0
+Dragon dart(p),2217.0,300.0,200.0
+Dragon dart(p+),2324.0,300.0,200.0
+Dragon dart(p++),3972.0,300.0,200.0
+Dragon defender ornament kit,62427.0,3000.0,2000.0
+Dragon felling axe,2127989.0,33000.0,22000.0
+Dragon full helm,81619338.0,90000.0,60000.0
+Dragon full helm ornament kit,9663.0,3000.0,2000.0
+Dragon halberd,149279.0,150000.0,100000.0
+Dragon harpoon,1909667.0,33000.0,22000.0
+Dragon hasta,44112.0,37440.0,24960.0
+Dragon hasta(p),54000.0,37440.0,24960.0
+Dragon hasta(p+),53698.0,37440.0,24960.0
+Dragon hasta(p++),48482.0,37440.0,24960.0
+Dragon hunter crossbow,56835966.0,48000.0,32000.0
+Dragon hunter lance,64556060.0,180000.0,120000.0
+Dragon hunter wand,16790458.0,180000.0,120000.0
+Dragon impling jar,446271.0,30.0,20.0
+Dragon javelin,830.0,270.0,180.0
+Dragon javelin heads,969.0,1170.0,780.0
+Dragon javelin(p),1239.0,270.0,180.0
+Dragon javelin(p+),1301.0,270.0,180.0
+Dragon javelin(p++),1581.0,270.0,180.0
+Dragon kiteshield,83920337.0,960000.0,640000.0
+Dragon kiteshield ornament kit,7855491.0,3000.0,2000.0
+Dragon knife,9109.0,100.0,66.0
+Dragon knife(p),9741.0,99.0,66.0
+Dragon knife(p+),10380.0,99.0,66.0
+Dragon knife(p++),10167.0,99.0,66.0
+Dragon legs/skirt ornament kit,10572.0,3000.0,2000.0
+Dragon limbs,1397012.0,21000.0,14000.0
+Dragon longsword,59395.0,60000.0,40000.0
+Dragon mace,29501.0,30000.0,20000.0
+Dragon med helm,58938.0,60000.0,40000.0
+Dragon metal lump,288187.0,90000.0,60000.0
+Dragon metal shard,1817938.0,720000.0,480000.0
+Dragon metal slice,71975241.0,60000.0,40000.0
+Dragon necklace,11649.0,11025.0,7350.0
+Dragon pickaxe,686360.0,58770.0,39180.0
+Dragon pickaxe upgrade kit,608148.0,960.0,640.0
+Dragon platebody,2463154.0,1200000.0,800000.0
+Dragon platebody ornament kit,12121355.0,3000.0,2000.0
+Dragon platelegs,161392.0,162000.0,108000.0
+Dragon plateskirt,161347.0,162000.0,108000.0
+Dragon scale dust,68.0,31.0,20.0
+Dragon scimitar,59853.0,60000.0,40000.0
+Dragon scimitar ornament kit,318643.0,3000.0,2000.0
+Dragon spear,44731.0,37440.0,24960.0
+Dragon spear(p),43098.0,37440.0,24960.0
+Dragon spear(p+),47240.0,37440.0,24960.0
+Dragon spear(p++),46755.0,37440.0,24960.0
+Dragon sq shield,307099.0,300000.0,200000.0
+Dragon sq shield ornament kit,5842.0,3000.0,2000.0
+Dragon sword,208342.0,43200.0,28800.0
+Dragon thrownaxe,354.0,450.0,300.0
+Dragon warhammer,20515102.0,72000.0,48000.0
+Dragonbone necklace,92685.0,48000.0,32000.0
+Dragonfire shield,4954039.0,1200000.0,800000.0
+Dragonfire ward,16162013.0,1200000.0,800000.0
+Dragonfruit,1010.0,57.0,38.0
+Dragonfruit pie,538.0,42.0,28.0
+Dragonfruit sapling,210622.0,1.0,1.0
+Dragonfruit tree seed,207092.0,258.0,172.0
+Dragonstone,11422.0,6000.0,4000.0
+Dragonstone amulet,11733.0,10575.0,7050.0
+Dragonstone amulet (u),11541.0,10575.0,7050.0
+Dragonstone armour set,5532087.0,48000.0,32000.0
+Dragonstone bolt tips,1000.0,400.0,266.0
+Dragonstone bolts,1114.0,580.0,386.0
+Dragonstone bolts (e),508.0,637.0,425.0
+Dragonstone boots,365404.0,7500.0,5000.0
+Dragonstone bracelet,11897.0,11475.0,7650.0
+Dragonstone dragon bolts,3584.0,597.0,398.0
+Dragonstone dragon bolts (e),2420.0,690.0,460.0
+Dragonstone full helm,1546497.0,21120.0,14080.0
+Dragonstone gauntlets,537740.0,7500.0,5000.0
+Dragonstone platebody,1340043.0,39000.0,26000.0
+Dragonstone platelegs,1333445.0,38400.0,25600.0
+Dragonstone ring,11866.0,10575.0,7050.0
+Drake bones,5297.0,96.0,64.0
+Drake's claw,616982.0,60000.0,40000.0
+Drake's tooth,60140.0,60000.0,40000.0
+Draynor manor teleport (tablet),1876.0,1.0,1.0
+Drift net,2798.0,12.0,8.0
+Druid's robe,609.0,18.0,12.0
+Druid's robe top,1031.0,24.0,16.0
+Drunk dragon,57.0,18.0,12.0
+Dual macuahuitl,10235866.0,174006.0,116004.0
+Dual sai,6671.0,3600.0,2400.0
+Dust,17.0,1.0,1.0
+Dust battlestaff,17732.0,9300.0,6200.0
+Dust rune,9.0,12.0,8.0
+Dwarf cannon set,769984.0,360000.0,240000.0
+Dwarf weed,1840.0,42.0,28.0
+Dwarf weed potion (unf),2044.0,42.0,28.0
+Dwarf weed seed,459.0,3.0,2.0
+Dwarven helmet,35604.0,36000.0,24000.0
+Dwarven stout,95.0,1.0,1.0
+Dwarven stout(4),16707.0,1.0,1.0
+Dwarven stout(m),18912.0,1.0,1.0
+Dwarven stout(m4),259954.0,1.0,1.0
+Dwellberries,83.0,2.0,1.0
+Dwellberry seed,3.0,15.0,10.0
+Dynamite,718.0,30.0,20.0
+Earmuffs,391.0,120.0,80.0
+Earth battlestaff,9030.0,9300.0,6200.0
+Earth impling jar,1800.0,30.0,20.0
+Earth orb,841.0,180.0,120.0
+Earth rune,5.0,2.0,1.0
+Earth talisman,322.0,2.0,1.0
+Earth tiara,8.0,60.0,40.0
+Easter egg,7339.0,6.0,4.0
+Echo ahrim's ornament kit,369649.0,1.0,1.0
+Echo crystal,3384846.0,300.0,200.0
+Echo home teleport scroll,169017.0,1.0,1.0
+Echo venator bow ornament kit,262672.0,1.0,1.0
+Echo virtus ornament kit,369637.0,1.0,1.0
+Eclectic impling jar,5336.0,30.0,20.0
+Eclipse atlatl,3652232.0,96000.0,64000.0
+Eclipse moon chestplate,1339234.0,174006.0,116004.0
+Eclipse moon chestplate (broken),473361.0,174006.0,116004.0
+Eclipse moon helm,1006668.0,61800.0,41200.0
+Eclipse moon helm (broken),145495.0,61800.0,41200.0
+Eclipse moon tassets,1472369.0,173946.0,115964.0
+Eclipse moon tassets (broken),553502.0,173946.0,115964.0
+Eclipse red,960.0,600.0,400.0
+Edible seaweed,15.0,1.0,1.0
+Efaritay's aid,2766.0,855.0,570.0
+Efh salt,65.0,6.0,4.0
+Egg,30.0,2.0,1.0
+Egg and tomato,169.0,7.0,4.0
+Egg potato,275.0,7.0,4.0
+Egg whisk,60.0,30.0,20.0
+Elder chaos hood,444148.0,300.0,200.0
+Elder chaos robe,432742.0,420.0,280.0
+Elder chaos top,580364.0,480.0,320.0
+Elder maul,115039845.0,300006.0,200004.0
+Eldritch orb,283799189.0,2400000.0,1600000.0
+Elemental helmet,398.0,12.0,8.0
+Elemental shield,1086.0,12.0,8.0
+Elemental sphere (flatpack),906.0,6.0,4.0
+Elemental talisman,2655.0,300.0,200.0
+Elemental tiara,1210.0,1.0,1.0
+Elidinis' ward,4603976.0,1.0,1.0
+Elven boots,10011.0,6000.0,4000.0
+Elven dawn,219.0,3.0,2.0
+Elven gloves,12546.0,6000.0,4000.0
+Elven legwear,7335.0,3000.0,2000.0
+Elven signet,3048418.0,18000.0,12000.0
+Elven skirt (white),8459.0,3000.0,2000.0
+Elven skirt (yellow),7124.0,3000.0,2000.0
+Elven top (white vest),6664.0,3000.0,2000.0
+Elven top (white),7585.0,3000.0,2000.0
+Elven top (yellow vest),6158.0,3000.0,2000.0
+Elven top (yellow),6974.0,3000.0,2000.0
+Elysian sigil,741711678.0,450000.0,300000.0
+Elysian spirit shield,729731625.0,1200000.0,800000.0
+Emerald,429.0,300.0,200.0
+Emerald amulet,839.0,765.0,510.0
+Emerald amulet (u),644.0,765.0,510.0
+Emerald bolt tips,56.0,19.0,13.0
+Emerald bolts,105.0,31.0,21.0
+Emerald bolts (e),27.0,35.0,23.0
+Emerald bracelet,807.0,915.0,610.0
+Emerald dragon bolts,1228.0,480.0,320.0
+Emerald dragon bolts (e),1768.0,498.0,332.0
+Emerald necklace,680.0,855.0,570.0
+Emerald ring,690.0,765.0,510.0
+Empty candle lantern,6.0,6.0,4.0
+Empty cup,4.0,1.0,1.0
+Empty fishbowl,33.0,1.0,1.0
+Empty oil lamp,5.0,15.0,10.0
+Empty oil lantern,8.0,72.0,48.0
+Empty plant pot,10.0,1.0,1.0
+Empty sack,2.0,1.0,1.0
+Enchant diamond,365.0,1.0,1.0
+Enchant dragonstone,255.0,1.0,1.0
+Enchant emerald or jade,507.0,1.0,1.0
+Enchant onyx,521.0,1.0,1.0
+Enchant ruby or topaz,678.0,1.0,1.0
+Enchant sapphire or opal,118.0,1.0,1.0
+Enchanted hat,8413.0,9000.0,6000.0
+Enchanted robe,57292.0,48000.0,32000.0
+Enchanted top,77685.0,72000.0,48000.0
+Energy mix(1),283.0,21.0,14.0
+Energy mix(2),311.0,43.0,28.0
+Energy potion(1),126.0,21.0,14.0
+Energy potion(2),249.0,43.0,28.0
+Energy potion(3),252.0,66.0,44.0
+Energy potion(4),363.0,87.0,58.0
+Enhanced crystal teleport seed,2364412.0,60000.0,40000.0
+Enhanced crystal weapon seed,163071878.0,300000.0,200000.0
+Enhanced quetzal whistle blueprint,8140.0,3000.0,2000.0
+Ensouled abyssal head,4326.0,351.0,234.0
+Ensouled aviansie head,3620.0,331.0,221.0
+Ensouled bear head,597.0,156.0,104.0
+Ensouled bloodveld head,2781.0,296.0,197.0
+Ensouled chaos druid head,571.0,179.0,119.0
+Ensouled dagannoth head,2117.0,273.0,182.0
+Ensouled demon head,3660.0,316.0,210.0
+Ensouled dog head,2517.0,171.0,114.0
+Ensouled dragon head,7236.0,390.0,260.0
+Ensouled elf head,1336.0,214.0,143.0
+Ensouled giant head,729.0,191.0,127.0
+Ensouled goblin head,402.0,31.0,20.0
+Ensouled hellhound head,4326.0,1.0,1.0
+Ensouled horror head,1708.0,241.0,161.0
+Ensouled imp head,1674.0,93.0,62.0
+Ensouled kalphite head,1575.0,259.0,173.0
+Ensouled minotaur head,508.0,136.0,91.0
+Ensouled monkey head,577.0,62.0,41.0
+Ensouled ogre head,927.0,202.0,135.0
+Ensouled scorpion head,548.0,148.0,98.0
+Ensouled troll head,1576.0,230.0,153.0
+Ensouled tzhaar head,3051.0,304.0,202.0
+Ensouled unicorn head,821.0,160.0,106.0
+Equa leaves,200.0,1.0,1.0
+Essence impling jar,2551.0,30.0,20.0
+Eternal boots,7807124.0,45000.0,30000.0
+Eternal crystal,7244629.0,27000.0,18000.0
+Eternal gem,8588465.0,5700.0,3800.0
+Evil chicken feet,499319.0,1.0,1.0
+Evil chicken head,372236.0,1.0,1.0
+Evil chicken legs,562125.0,1.0,1.0
+Evil chicken wings,349520.0,1.0,1.0
+Expeditious bracelet,1269.0,690.0,460.0
+Explorer backpack,23429.0,930.0,620.0
+Extended anti-venom+(1),5120.0,1.0,1.0
+Extended anti-venom+(2),9810.0,1.0,1.0
+Extended anti-venom+(3),14713.0,1.0,1.0
+Extended anti-venom+(4),21272.0,1.0,1.0
+Extended antifire mix(1),400.0,96.0,64.0
+Extended antifire mix(2),283.0,144.0,96.0
+Extended antifire(1),79.0,66.0,44.0
+Extended antifire(2),189.0,132.0,88.0
+Extended antifire(3),211.0,198.0,132.0
+Extended antifire(4),283.0,264.0,176.0
+Extended super antifire mix(1),725.0,96.0,64.0
+Extended super antifire mix(2),6953.0,144.0,96.0
+Extended super antifire(1),5486.0,408.0,272.0
+Extended super antifire(2),11042.0,432.0,288.0
+Extended super antifire(3),17988.0,456.0,304.0
+Extended super antifire(4),23778.0,480.0,320.0
+Eye of newt,4.0,1.0,1.0
+Facemask,534.0,120.0,80.0
+Fake beard,395.0,1.0,1.0
+Falador teleport (tablet),386.0,1.0,1.0
+Fancy hedge (bagged),27024.0,15000.0,10000.0
+Fancy teak dresser (flatpack),346.0,6.0,4.0
+Fancy tiara,13480.0,4800.0,3200.0
+Fangs of venenatis,53578.0,1.0,1.0
+Farseer helm,39148.0,36000.0,24000.0
+Fat snail,2020.0,9.0,6.0
+Fat snail meat,1987.0,18.0,12.0
+Fayrg bones,6664.0,1.0,1.0
+Feather,3.0,1.0,1.0
+Fedora,9524.0,180.0,120.0
+Feldip hills teleport,2847.0,6.0,4.0
+Feldip weasel fur,54.0,8.0,5.0
+Felling axe handle,1990797.0,1.0,1.0
+Fenkenstrain's castle teleport (tablet),2167.0,1.0,1.0
+Fez,1105.0,12.0,8.0
+Fibula piece,18779.0,36.0,24.0
+Fiendish ashes,299.0,1.0,1.0
+Filled plant pot,4.0,1.0,1.0
+Fine cloth,7216.0,300.0,200.0
+Fire battlestaff,9053.0,9300.0,6200.0
+Fire element staff crown,26430.0,1.0,1.0
+Fire orb,1149.0,180.0,120.0
+Fire rune,5.0,2.0,1.0
+Fire talisman,3096.0,2.0,1.0
+Fire tiara,28.0,60.0,40.0
+Fish chunks,20.0,12.0,8.0
+Fish food,488.0,1.0,1.0
+Fish offcuts,30.0,1.0,1.0
+Fish pie,758.0,60.0,40.0
+Fishing bait,5.0,1.0,1.0
+Fishing guild teleport (tablet),1228.0,1.0,1.0
+Fishing mix(1),73.0,60.0,40.0
+Fishing mix(2),112.0,90.0,60.0
+Fishing potion(1),30.0,60.0,40.0
+Fishing potion(2),80.0,90.0,60.0
+Fishing potion(3),39.0,120.0,80.0
+Fishing potion(4),79.0,150.0,100.0
+Fishing rod,96.0,3.0,2.0
+Fiyr remains,7759.0,1.0,1.0
+Flamtaer bracelet,1041.0,780.0,520.0
+Flamtaer hammer,5424.0,6000.0,4000.0
+Flared trousers,2756740.0,1200.0,800.0
+Flattened hide,8598.0,36.0,24.0
+Flax,2.0,3.0,2.0
+Flighted ogre arrow,135.0,1.0,1.0
+Fly fishing rod,79.0,3.0,2.0
+Forester's ration,40.0,1.0,1.0
+Forgotten brew(1),739.0,1.0,1.0
+Forgotten brew(2),1098.0,1.0,1.0
+Forgotten brew(3),1517.0,1.0,1.0
+Forgotten brew(4),1812.0,1.0,1.0
+Four-poster bed (flatpack),6439.0,6.0,4.0
+Fox fur,614.0,6.0,4.0
+Fremennik beige shirt,528.0,150.0,100.0
+Fremennik black cloak,2161.0,150.0,100.0
+Fremennik blue cloak,880.0,150.0,100.0
+Fremennik blue shirt,683.0,150.0,100.0
+Fremennik boots,632.0,300.0,200.0
+Fremennik brown cloak,42.0,150.0,100.0
+Fremennik brown shirt,50.0,150.0,100.0
+Fremennik cyan cloak,891.0,150.0,100.0
+Fremennik gloves,104.0,300.0,200.0
+Fremennik green cloak,1081.0,150.0,100.0
+Fremennik grey cloak,928.0,150.0,100.0
+Fremennik grey shirt,519.0,150.0,100.0
+Fremennik hat,1203.0,300.0,200.0
+Fremennik kilt,5178692.0,36000.0,24000.0
+Fremennik pink cloak,1127.0,150.0,100.0
+Fremennik purple cloak,42.0,150.0,100.0
+Fremennik red cloak,1375.0,150.0,100.0
+Fremennik red shirt,944.0,150.0,100.0
+Fremennik robe,718.0,300.0,200.0
+Fremennik skirt,555.0,300.0,200.0
+Fremennik teal cloak,556.0,150.0,100.0
+Fremennik yellow cloak,787.0,150.0,100.0
+Fried mushrooms,72.0,25.0,16.0
+Fried onions,30.0,4.0,2.0
+Frog slippers,80376.0,600.0,400.0
+Frog-leather body,668.0,600.0,400.0
+Frog-leather boots,879.0,120.0,80.0
+Frog-leather chaps,353.0,540.0,360.0
+Frozen tear,134.0,300.0,200.0
+Frozen whip mix,897864.0,1.0,1.0
+Fruit batta,3685.0,1.0,1.0
+Fruit blast,2290.0,18.0,12.0
+Frying pan,1273.0,996.0,664.0
+Fur,459.0,6.0,4.0
+Fury ornament kit,426042.0,3000.0,2000.0
+Gadderhammer,2606.0,1800.0,1200.0
+Games necklace(8),783.0,630.0,420.0
+Garden pie,101.0,14.0,9.0
+Gardening boots,5487.0,15.0,10.0
+Gardening trowel,193.0,7.0,4.0
+Garlic,53.0,1.0,1.0
+Garlic powder,195.0,6.0,4.0
+Ghorrock teleport (tablet),1321.0,1.0,1.0
+Ghrazi rapier,39436412.0,3000000.0,2000000.0
+Gianne dough,75.0,1.0,1.0
+Gianne's cook book,33.0,1.0,1.0
+Giant boot,86387.0,8400.0,5600.0
+Giant egg sac(full),35600.0,6.0,4.0
+Giant frog legs,6349.0,60.0,40.0
+Giant seaweed,208.0,1.0,1.0
+Gilded 2h sword,6627658.0,38400.0,25600.0
+Gilded armour set (lg),74097818.0,48000.0,32000.0
+Gilded armour set (sk),38522674.0,48000.0,32000.0
+Gilded axe,6827769.0,21000.0,14000.0
+Gilded bench (flatpack),417082.0,6.0,4.0
+Gilded boots,2320104.0,7500.0,5000.0
+Gilded cape rack (flatpack),56099.0,6.0,4.0
+Gilded chainbody,3108382.0,30000.0,20000.0
+Gilded clock (flatpack),15025.0,6.0,4.0
+Gilded coif,928504.0,1200.0,800.0
+Gilded d'hide body,3524927.0,30000.0,20000.0
+Gilded d'hide chaps,12489433.0,24000.0,16000.0
+Gilded d'hide vambraces,9074974.0,24000.0,16000.0
+Gilded dragonhide set,25303135.0,7500.0,5000.0
+Gilded dresser (flatpack),73555.0,6.0,4.0
+Gilded four-poster (flatpack),111714.0,6.0,4.0
+Gilded full helm,16674016.0,21120.0,14080.0
+Gilded hasta,1791168.0,12480.0,8320.0
+Gilded kiteshield,14266115.0,32640.0,21760.0
+Gilded magic wardrobe (flatpack),28600.0,6.0,4.0
+Gilded med helm,1754015.0,11520.0,7680.0
+Gilded pickaxe,6234932.0,30000.0,20000.0
+Gilded platebody,24880798.0,39000.0,26000.0
+Gilded platelegs,16594718.0,38400.0,25600.0
+Gilded plateskirt,2074216.0,38400.0,25600.0
+Gilded scimitar,20210399.0,15360.0,10240.0
+Gilded spade,5018216.0,600.0,400.0
+Gilded spear,4280597.0,12480.0,8320.0
+Gilded sq shield,1699211.0,23040.0,15360.0
+Gilded wardrobe (flatpack),105651.0,6.0,4.0
+Gin,168.0,3.0,2.0
+Glacial temotli,88421.0,49800.0,33200.0
+Glassblowing pipe,59.0,1.0,1.0
+Gloves of darkness,10865.0,6000.0,4000.0
+Gloves of silence,1305.0,360.0,240.0
+Gnome goggles,94021.0,600.0,400.0
+Gnome scarf,588424.0,600.0,400.0
+Gnome spice,113.0,1.0,1.0
+Gnomeball,27206.0,1.0,1.0
+Gnomebowl mould,523.0,6.0,4.0
+Gnomish firelighter,20828.0,600.0,400.0
+Goading potion(1),28346.0,90.0,60.0
+Goading potion(2),57743.0,120.0,80.0
+Goading potion(3),66625.0,150.0,100.0
+Goading potion(4),86756.0,180.0,120.0
+Goat horn dust,96.0,7.0,4.0
+Goblin book,400.0,1.0,1.0
+Goblin mail,665.0,24.0,16.0
+Goblin mask,41213.0,1200.0,800.0
+Godsword blade,478402.0,450000.0,300000.0
+Godsword shard 1,149766.0,150000.0,100000.0
+Godsword shard 2,149906.0,150000.0,100000.0
+Godsword shard 3,150033.0,150000.0,100000.0
+Gold amulet,164.0,210.0,140.0
+Gold amulet (u),167.0,210.0,140.0
+Gold bar,117.0,180.0,120.0
+Gold bracelet,266.0,330.0,220.0
+Gold elegant blouse,27070.0,1200.0,800.0
+Gold elegant legs,3115.0,1200.0,800.0
+Gold elegant shirt,3714.0,1200.0,800.0
+Gold elegant skirt,20129.0,1200.0,800.0
+Gold headband,2643.0,24.0,16.0
+Gold leaf,135030.0,60000.0,40000.0
+Gold locks,18012.0,19200.0,12800.0
+Gold necklace,174.0,270.0,180.0
+Gold ore,154.0,90.0,60.0
+Gold ring,154.0,210.0,140.0
+Gold seal,751.0,18.0,12.0
+Gold tiara,43.0,60.0,40.0
+Golden apron,271139.0,1.0,1.0
+Golden chef's hat,552186.0,1.0,1.0
+Golden scarab,999.0,18.0,12.0
+Golden statuette,1286.0,18.0,12.0
+Golovanova fruit top,690.0,1.0,1.0
+Gourmet impling jar,4253.0,30.0,20.0
+Gout tuber,573072.0,120.0,80.0
+Graahk fur,403.0,72.0,48.0
+Graahk headdress,2106.0,450.0,300.0
+Graahk legs,1119.0,90.0,60.0
+Graahk top,1216.0,90.0,60.0
+Grain,38.0,1.0,1.0
+Grand seed pod,222574.0,150.0,100.0
+Granite (2kg),15.0,1.0,1.0
+Granite (500g),76.0,1.0,1.0
+Granite (5kg),533.0,1.0,1.0
+Granite body,56925.0,48000.0,32000.0
+Granite boots,451095.0,7500.0,5000.0
+Granite clamp,780900.0,3000.0,2000.0
+Granite gloves,113927.0,20400.0,13600.0
+Granite hammer,536234.0,38400.0,25600.0
+Granite helm,27695.0,27600.0,18400.0
+Granite legs,41640.0,39600.0,26400.0
+Granite longsword,23754.0,19200.0,12800.0
+Granite maul,971521.0,30000.0,20000.0
+Granite ring,26594.0,9000.0,6000.0
+Granite shield,35727.0,33600.0,22400.0
+Grape seed,1095.0,44.0,29.0
+Grapes,30.0,1.0,1.0
+Greater demon mask,9556.0,2400.0,1600.0
+Greater siren,128.0,1.0,1.0
+Green boater,15924.0,135.0,90.0
+Green boots,1213.0,120.0,80.0
+Green cape,732.0,19.0,12.0
+Green d'hide body,4300.0,4680.0,3120.0
+Green d'hide body (g),9647.0,4680.0,3120.0
+Green d'hide body (t),5862.0,4680.0,3120.0
+Green d'hide chaps,2209.0,2340.0,1560.0
+Green d'hide chaps (g),58296.0,2340.0,1560.0
+Green d'hide chaps (t),12916.0,2340.0,1560.0
+Green d'hide shield,3003.0,3300.0,2200.0
+Green d'hide vambraces,1360.0,1500.0,1000.0
+Green dark bow paint,213122.0,1.0,1.0
+Green dragon leather,1631.0,30.0,20.0
+Green dragon mask,6545.0,6000.0,4000.0
+Green dragonhide,1468.0,81.0,54.0
+Green dragonhide set,8520.0,3000.0,2000.0
+Green dye,664.0,3.0,2.0
+Green elegant blouse,87466.0,1200.0,800.0
+Green elegant legs,7753.0,1200.0,800.0
+Green elegant shirt,21668.0,1200.0,800.0
+Green elegant skirt,17489.0,1200.0,800.0
+Green firelighter,89.0,9.0,6.0
+Green halloween mask,8339.0,9.0,6.0
+Green hat,923.0,96.0,64.0
+Green headband,4372.0,24.0,16.0
+Green partyhat,6287.0,1.0,1.0
+Green robe bottoms,1208.0,108.0,72.0
+Green robe top,1416.0,108.0,72.0
+Green spiky vambraces,1802.0,1500.0,1000.0
+Greenman's ale,373.0,1.0,1.0
+Greenman's ale (flatpack),13864.0,6.0,4.0
+Greenman's ale(m),51570.0,1.0,1.0
+Greenmans ale(4),19254.0,1.0,1.0
+Greenmans ale(m4),184560.0,1.0,1.0
+Grey boots,1422.0,300.0,200.0
+Grey gloves,1560.0,300.0,200.0
+Grey hat,1560.0,300.0,200.0
+Grey robe bottoms,825.0,300.0,200.0
+Grey robe top,657.0,300.0,200.0
+Grey toy horsey,323.0,60.0,40.0
+Grey wolf fur,71.0,30.0,20.0
+Grimy avantoe,2338.0,10.0,7.0
+Grimy cadantine,3305.0,13.0,8.0
+Grimy dwarf weed,1837.0,14.0,9.0
+Grimy guam leaf,453.0,7.0,5.0
+Grimy harralander,667.0,9.0,6.0
+Grimy huasca,8873.0,15.0,10.0
+Grimy irit leaf,1278.0,10.0,6.0
+Grimy kwuarm,3165.0,12.0,8.0
+Grimy lantadyme,1656.0,13.0,9.0
+Grimy marrentill,246.0,8.0,5.0
+Grimy ranarr weed,5930.0,18.0,12.0
+Grimy snapdragon,7834.0,12.0,8.0
+Grimy tarromin,285.0,9.0,6.0
+Grimy toadflax,3135.0,11.0,7.0
+Grimy torstol,2876.0,15.0,10.0
+Grog,424.0,1.0,1.0
+Ground guam,44.0,1.0,1.0
+Grubby key,40366.0,19.0,12.0
+Guam leaf,485.0,1.0,1.0
+Guam potion (unf),574.0,1.0,1.0
+Guam seed,24.0,1.0,1.0
+Guam tar,3.0,1.0,1.0
+Guardian boots,7036193.0,183000.0,122000.0
+Guthan's armour set,1579533.0,240000.0,160000.0
+Guthan's chainskirt,312536.0,165000.0,110000.0
+Guthan's chainskirt 0,267461.0,165000.0,110000.0
+Guthan's helm,268847.0,61800.0,41200.0
+Guthan's helm 0,215829.0,61800.0,41200.0
+Guthan's platebody,526976.0,168000.0,112000.0
+Guthan's platebody 0,315139.0,168000.0,112000.0
+Guthan's warspear,405989.0,60000.0,40000.0
+Guthan's warspear 0,242860.0,60000.0,40000.0
+Guthix armour set (lg),188467.0,48000.0,32000.0
+Guthix armour set (sk),203500.0,48000.0,32000.0
+Guthix balance(1),284.0,120.0,80.0
+Guthix balance(2),494.0,120.0,80.0
+Guthix balance(3),116.0,120.0,80.0
+Guthix balance(4),609.0,120.0,80.0
+Guthix bracers,26851.0,3600.0,2400.0
+Guthix chaps,277372.0,3600.0,2400.0
+Guthix cloak,37512.0,1200.0,800.0
+Guthix coif,61319.0,1200.0,800.0
+Guthix crozier,7099.0,3000.0,2000.0
+Guthix d'hide body,162302.0,7800.0,5200.0
+Guthix d'hide boots,323603.0,5580.0,3720.0
+Guthix d'hide shield,395817.0,17000.0,11333.0
+Guthix dragonhide set,582245.0,5400.0,3600.0
+Guthix full helm,33730.0,21120.0,14080.0
+Guthix kiteshield,43622.0,32640.0,21760.0
+Guthix mitre,22503.0,3000.0,2000.0
+Guthix mjolnir,7278.0,375.0,250.0
+Guthix page 1,1847.0,120.0,80.0
+Guthix page 2,1974.0,120.0,80.0
+Guthix page 3,1814.0,120.0,80.0
+Guthix page 4,1892.0,120.0,80.0
+Guthix platebody,46686.0,39000.0,26000.0
+Guthix platelegs,40835.0,38400.0,25600.0
+Guthix plateskirt,38157.0,38400.0,25600.0
+Guthix rest(1),750.0,30.0,20.0
+Guthix rest(2),1516.0,30.0,20.0
+Guthix rest(3),2875.0,30.0,20.0
+Guthix rest(4),4148.0,30.0,20.0
+Guthix robe legs,36036.0,4200.0,2800.0
+Guthix robe top,49821.0,4200.0,2800.0
+Guthix stole,3267.0,1500.0,1000.0
+Guthixian temple teleport,4395.0,1.0,1.0
+Hair,415.0,1.0,1.0
+Half full wine jug,14548.0,1.0,1.0
+Half moon spectacles,31958.0,11670.0,7780.0
+Halloween mask set,27829.0,4.0,3.0
+Ham boots,3979.0,45.0,30.0
+Ham cloak,2041.0,45.0,30.0
+Ham gloves,1407.0,45.0,30.0
+Ham hood,522.0,45.0,30.0
+Ham joint,2547088.0,900.0,600.0
+Ham logo,1456.0,45.0,30.0
+Ham robe,367.0,45.0,30.0
+Ham shirt,86.0,45.0,30.0
+Hammer,70.0,1.0,1.0
+Hammerstone hops,380.0,2.0,1.0
+Hammerstone seed,5.0,1.0,1.0
+Hard leather,292.0,1.0,1.0
+Hard leather shield,188.0,300.0,200.0
+Hardleather body,11.0,102.0,68.0
+Harmonised orb,390726121.0,2400000.0,1600000.0
+Harmony island teleport (tablet),2434.0,1.0,1.0
+Harpoon,77.0,3.0,2.0
+Harralander,705.0,12.0,8.0
+Harralander potion (unf),825.0,12.0,8.0
+Harralander seed,34.0,2.0,1.0
+Harralander tar,2.0,1.0,1.0
+Hat eyepatch,65269.0,60.0,40.0
+Headless arrow,10.0,1.0,1.0
+Heavy ballista,1509273.0,570000.0,380000.0
+Heavy frame,509899.0,30000.0,20000.0
+Helm of neitiznot,50207.0,30000.0,20000.0
+Herring,19.0,6.0,4.0
+Highwayman mask,90333.0,24.0,16.0
+Hill giant club,1852198.0,36000.0,24000.0
+Holy blessing,10017.0,48.0,32.0
+Holy book page set,18378.0,4200.0,2800.0
+Holy elixir,603492.0,450000.0,300000.0
+Holy mould,31.0,3.0,2.0
+Holy sandals,1824640.0,1200.0,800.0
+Holy symbol,489.0,180.0,120.0
+Holy wraps,862169.0,5760.0,3840.0
+Honourable blessing,6785.0,48.0,32.0
+Hood of darkness,14266.0,6000.0,4000.0
+Hosidius banner,1755.0,42.0,28.0
+Hosidius hood,2241.0,1.0,1.0
+Hosidius scarf,5448.0,6000.0,4000.0
+Huasca,9446.0,45.0,30.0
+Huasca potion (unf),18547.0,15.0,10.0
+Huasca seed,119398.0,42.0,28.0
+Hueycoatl hide,824526.0,66.0,44.0
+Hueycoatl hide body,2576747.0,8088.0,5392.0
+Hueycoatl hide chaps,1694887.0,3732.0,2488.0
+Hueycoatl hide coif,1688239.0,1200.0,800.0
+Hueycoatl hide vambraces,844062.0,2592.0,1728.0
+Hunter potion(1),1222.0,3.0,2.0
+Hunter potion(2),2284.0,5.0,3.0
+Hunter potion(3),2211.0,7.0,4.0
+Hunter potion(4),2497.0,9.0,6.0
+Hunter spear tips,5.0,3.0,2.0
+Hunter's spear,269.0,210.0,140.0
+Hunters' crossbow,2348.0,780.0,520.0
+Hunters' sunlight crossbow,6740.0,780.0,520.0
+Hunting mix(1),144.0,3.0,2.0
+Hunting mix(2),832.0,5.0,3.0
+Hydra bones,10338.0,96.0,64.0
+Hydra leather,9096683.0,60000.0,40000.0
+Hydra tail,109155.0,60000.0,40000.0
+Hydra's claw,58306503.0,90000.0,60000.0
+Ice element staff crown,26453.0,1.0,1.0
+Ice plateau teleport (tablet),1284.0,1.0,1.0
+Icy basalt,1011.0,54.0,36.0
+Imbued heart,106338547.0,300000.0,200000.0
+Immature tecu salamander,189.0,120.0,80.0
+Imp mask,7594.0,1200.0,800.0
+Imperial rosé,428.0,240.0,160.0
+Impling jar,783.0,1.0,1.0
+Incomplete heavy ballista,163646.0,30000.0,20000.0
+Incomplete light ballista,60757.0,30000.0,20000.0
+Infernal ashes,4511.0,1.0,1.0
+Infinity boots,400924.0,7200.0,4800.0
+Infinity bottoms,3337573.0,54000.0,36000.0
+Infinity gloves,1596154.0,7200.0,4800.0
+Infinity hat,1413207.0,10200.0,6800.0
+Infinity top,2204480.0,84000.0,56000.0
+Initiate cuisse,6060.0,4800.0,3200.0
+Initiate harness m,23279.0,12000.0,8000.0
+Initiate hauberk,7370.0,6000.0,4000.0
+Initiate sallet,3565.0,3600.0,2400.0
+Inoculation bracelet,1319.0,1536.0,1024.0
+Inquisitor's armour set,293637420.0,1.0,1.0
+Inquisitor's great helm,56519303.0,300000.0,200000.0
+Inquisitor's hauberk,91915662.0,600000.0,400000.0
+Inquisitor's mace,383481891.0,3000000.0,2000000.0
+Inquisitor's plateskirt,144018865.0,450000.0,300000.0
+Insect repellent,348.0,1.0,1.0
+Insulated boots,585.0,120.0,80.0
+Iorwerth camp teleport,3563.0,6.0,4.0
+Irit leaf,1284.0,24.0,16.0
+Irit potion (unf),1435.0,24.0,16.0
+Irit seed,89.0,3.0,2.0
+Irit tar,8.0,1.0,1.0
+Iron 2h sword,69.0,168.0,112.0
+Iron arrow,7.0,1.0,1.0
+Iron arrow(p),52.0,1.0,1.0
+Iron arrow(p+),28.0,1.0,1.0
+Iron arrow(p++),111.0,1.0,1.0
+Iron arrowtips,9.0,1.0,1.0
+Iron axe,94.0,33.0,22.0
+Iron bar,360.0,16.0,11.0
+Iron battleaxe,53.0,109.0,72.0
+Iron bolts,10.0,1.0,1.0
+Iron bolts (p),213.0,1.0,1.0
+Iron bolts (p+),328.0,1.0,1.0
+Iron bolts (p++),896.0,1.0,1.0
+Iron bolts (unf),17.0,1.0,1.0
+Iron boots,4149.0,50.0,33.0
+Iron brutal,148.0,6.0,4.0
+Iron chainbody,68.0,126.0,84.0
+Iron claws,119.0,30.0,20.0
+Iron crossbow,342.0,94.0,62.0
+Iron crossbow (u),72.0,73.0,49.0
+Iron dagger,98.0,21.0,14.0
+Iron dagger(p),101.0,21.0,14.0
+Iron dagger(p+),2556.0,21.0,14.0
+Iron dagger(p++),4575.0,21.0,14.0
+Iron dart,13.0,1.0,1.0
+Iron dart (p),50.0,1.0,1.0
+Iron dart tip,60.0,1.0,1.0
+Iron dart(p+),36.0,1.0,1.0
+Iron dart(p++),110.0,1.0,1.0
+Iron dragon mask,9103.0,6000.0,4000.0
+Iron felling axe,1350.0,33.0,22.0
+Iron full helm,159.0,92.0,61.0
+Iron full helm (g),176903.0,96.0,64.0
+Iron full helm (t),53208.0,96.0,64.0
+Iron gold-trimmed set (lg),748885.0,540.0,360.0
+Iron gold-trimmed set (sk),710131.0,540.0,360.0
+Iron halberd,842.0,168.0,112.0
+Iron hasta,19.0,54.0,36.0
+Iron hasta(p),2968.0,54.0,36.0
+Iron hasta(p+),3029.0,54.0,36.0
+Iron hasta(p++),3464.0,54.0,36.0
+Iron javelin,3.0,3.0,2.0
+Iron javelin heads,30.0,21.0,14.0
+Iron javelin(p),29.0,3.0,2.0
+Iron javelin(p+),11.0,3.0,2.0
+Iron javelin(p++),14.0,3.0,2.0
+Iron kiteshield,76.0,142.0,95.0
+Iron kiteshield (g),140641.0,144.0,96.0
+Iron kiteshield (t),24363.0,144.0,96.0
+Iron knife,40.0,1.0,1.0
+Iron knife(p),275.0,1.0,1.0
+Iron knife(p+),303.0,1.0,1.0
+Iron knife(p++),1406.0,1.0,1.0
+Iron limbs,101.0,42.0,28.0
+Iron longsword,63.0,84.0,56.0
+Iron mace,40.0,37.0,25.0
+Iron med helm,51.0,50.0,33.0
+Iron nails,16.0,2.0,1.0
+Iron ore,256.0,10.0,6.0
+Iron pickaxe,69.0,84.0,56.0
+Iron platebody,115.0,336.0,224.0
+Iron platebody (g),330242.0,336.0,224.0
+Iron platebody (t),83432.0,336.0,224.0
+Iron platelegs,183.0,168.0,112.0
+Iron platelegs (g),43928.0,168.0,112.0
+Iron platelegs (t),22872.0,168.0,112.0
+Iron plateskirt,64.0,168.0,112.0
+Iron plateskirt (g),3821.0,168.0,112.0
+Iron plateskirt (t),3283.0,168.0,112.0
+Iron scimitar,94.0,67.0,44.0
+Iron set (lg),924.0,540.0,360.0
+Iron set (sk),745.0,540.0,360.0
+Iron spear,996.0,54.0,36.0
+Iron spear(p),1434.0,54.0,36.0
+Iron spear(p+),76.0,54.0,36.0
+Iron spear(p++),5661.0,54.0,36.0
+Iron spit,273.0,38.0,25.0
+Iron sq shield,30.0,100.0,67.0
+Iron sword,90.0,54.0,36.0
+Iron thrownaxe,29.0,4.0,2.0
+Iron trimmed set (lg),226274.0,540.0,360.0
+Iron trimmed set (sk),168615.0,540.0,360.0
+Iron warhammer,26.0,103.0,69.0
+Ivory comb,1019.0,6.0,4.0
+Ixcoztic white,113.0,60.0,40.0
+Jade,248.0,90.0,60.0
+Jade amulet,1022.0,630.0,420.0
+Jade amulet (u),823.0,630.0,420.0
+Jade bolt tips,20.0,6.0,4.0
+Jade bracelet,658.0,780.0,520.0
+Jade dragon bolts,1239.0,360.0,240.0
+Jade dragon bolts (e),1123.0,378.0,252.0
+Jade machete,12468.0,600.0,400.0
+Jade necklace,753.0,765.0,510.0
+Jade ring,728.0,765.0,510.0
+Jaguar fur,976.0,48.0,32.0
+Jangerberries,639.0,1.0,1.0
+Jangerberry seed,2.0,36.0,24.0
+Jar of chemicals,92928.0,1.0,1.0
+Jar of darkness,370442.0,1.0,1.0
+Jar of decay,47590.0,1.0,1.0
+Jar of dirt,28307.0,1.0,1.0
+Jar of dreams,1423023.0,1.0,1.0
+Jar of eyes,114665.0,1.0,1.0
+Jar of miasma,56109.0,1.0,1.0
+Jar of sand,941528.0,1.0,1.0
+Jar of smoke,71302.0,1.0,1.0
+Jar of souls,92452.0,1.0,1.0
+Jar of spirits,147207.0,1.0,1.0
+Jar of stone,3598171.0,1.0,1.0
+Jar of swamp,61493.0,1.0,1.0
+Javelin shaft,1.0,1.0,1.0
+Jerboa tail,111.0,1.0,1.0
+Jester cape,39249.0,600.0,400.0
+Jogre bones,517.0,1.0,1.0
+Jug,4.0,1.0,1.0
+Jug of water,27.0,1.0,1.0
+Jug of wine,3.0,1.0,1.0
+Jungle camo legs,1403.0,12.0,8.0
+Jungle camo top,2021.0,12.0,8.0
+Jungle demon mask,36871.0,2400.0,1600.0
+Justiciar armour set,39127715.0,87000.0,58000.0
+Justiciar chestguard,14393768.0,3600000.0,2400000.0
+Justiciar faceguard,12671583.0,1200000.0,800000.0
+Justiciar legguards,11620051.0,2700000.0,1800000.0
+Jute fibre,1086.0,3.0,2.0
+Jute seed,4.0,3.0,2.0
+Karambwan vessel,1753.0,3.0,2.0
+Karambwan vessel (baited),2301.0,24.0,16.0
+Karidian disguise,366.0,1.0,1.0
+Karil's armour set,2305909.0,120000.0,80000.0
+Karil's coif,55684.0,7800.0,5200.0
+Karil's coif 0,17301.0,7800.0,5200.0
+Karil's crossbow,102890.0,96000.0,64000.0
+Karil's crossbow 0,95073.0,96000.0,64000.0
+Karil's leatherskirt,694449.0,28200.0,18800.0
+Karil's leatherskirt 0,621991.0,28200.0,18800.0
+Karil's leathertop,1341373.0,30000.0,20000.0
+Karil's leathertop 0,1271326.0,30000.0,20000.0
+Katana,104207.0,14400.0,9600.0
+Kebab,71.0,1.0,1.0
+Kebab mix,313.0,5.0,3.0
+Kebbit bolts,76.0,10.0,7.0
+Kebbit claws,620.0,25.0,17.0
+Kebbit spike,590.0,54.0,36.0
+Kebbit teeth,405.0,96.0,64.0
+Kebbit teeth dust,608.0,96.0,64.0
+Keg of beer,806.0,150.0,100.0
+Kharidian headpiece,236.0,1.0,1.0
+Kharyrll teleport (tablet),1124.0,1.0,1.0
+Khazard teleport (tablet),999.0,1.0,1.0
+King worm,365.0,1.0,1.0
+Kitchen knife,8152.0,4800.0,3200.0
+Kitchen table (flatpack),3.0,6.0,4.0
+Knife,49.0,3.0,2.0
+Kodai insignia,110685667.0,90000.0,60000.0
+Kodai wand,114153907.0,90000.0,60000.0
+Kourend castle teleport (tablet),565.0,1.0,1.0
+Kovac's grog,62800.0,1.0,1.0
+Kraken tentacle,610818.0,50004.0,33336.0
+Krandorian hops,88.0,6.0,4.0
+Krandorian seed,4.0,4.0,3.0
+Kwuarm,3183.0,32.0,21.0
+Kwuarm potion (unf),3385.0,32.0,21.0
+Kwuarm seed,1852.0,6.0,4.0
+Kyatt fur,218.0,96.0,64.0
+Kyatt hat,1178.0,600.0,400.0
+Kyatt legs,796.0,120.0,80.0
+Kyatt top,818.0,120.0,80.0
+Lantadyme,1687.0,40.0,27.0
+Lantadyme potion (unf),1827.0,40.0,27.0
+Lantadyme seed,183.0,5.0,3.0
+Lantern lens,16.0,42.0,28.0
+Large oak bed (flatpack),567.0,6.0,4.0
+Large teak bed (flatpack),4025.0,6.0,4.0
+Larran's key,155969.0,1.0,1.0
+Larupia fur,486.0,48.0,32.0
+Larupia hat,1678.0,300.0,200.0
+Larupia legs,722.0,60.0,40.0
+Larupia top,688.0,60.0,40.0
+Lassar teleport (tablet),1060.0,1.0,1.0
+Lava battlestaff,9417.0,10200.0,6800.0
+Lava dragon bones,6599.0,90.0,60.0
+Lava dragon mask,2534802.0,6000.0,4000.0
+Lava rune,20.0,12.0,8.0
+Lava scale,319.0,30.0,20.0
+Lava scale shard,58.0,12.0,8.0
+Lava staff upgrade kit,371775.0,900.0,600.0
+Law rune,129.0,144.0,96.0
+Leaf-bladed battleaxe,60136.0,57600.0,38400.0
+Leaf-bladed sword,40311.0,40800.0,27200.0
+Lean snail,2142.0,6.0,4.0
+Lean snail meat,2534.0,12.0,8.0
+Leaping salmon,24.0,1.0,1.0
+Leaping sturgeon,85.0,2.0,1.0
+Leaping trout,17.0,1.0,1.0
+Leather,323.0,1.0,1.0
+Leather body,10.0,12.0,8.0
+Leather body (g),201055.0,510.0,340.0
+Leather boots,38.0,3.0,2.0
+Leather chaps,11.0,12.0,8.0
+Leather chaps (g),18839.0,510.0,340.0
+Leather cowl,3.0,14.0,9.0
+Leather gloves,4.0,3.0,2.0
+Leather vambraces,3.0,10.0,7.0
+Leaves,75.0,1.0,1.0
+Left eye patch,20036.0,1.0,1.0
+Lemon,94.0,1.0,1.0
+Lemon chunks,115.0,1.0,1.0
+Lemon slices,131.0,1.0,1.0
+Leprechaun hat,12550.0,600.0,400.0
+Lesser demon mask,10144.0,2400.0,1600.0
+Light ballista,989696.0,75000.0,50000.0
+Light bow tie,196076.0,3000.0,2000.0
+Light frame,29489.0,30000.0,20000.0
+Light infinity colour kit,7876.0,3000.0,2000.0
+Light orb,272.0,210.0,140.0
+Light trousers,410386.0,3600.0,2400.0
+Light tuxedo cuffs,448762.0,1800.0,1200.0
+Light tuxedo jacket,3133306.0,6000.0,4000.0
+Light tuxedo shoes,1368351.0,1800.0,1200.0
+Lightbearer,2378378.0,1.0,1.0
+Lily of the sands,2205.0,1.0,1.0
+Lime,175.0,1.0,1.0
+Lime chunks,183.0,1.0,1.0
+Lime slices,166.0,1.0,1.0
+Limestone,209.0,6.0,4.0
+Limestone brick,309.0,12.0,8.0
+Limpwurt root,441.0,4.0,2.0
+Limpwurt seed,35.0,7.0,4.0
+Linen,1324.0,18.0,12.0
+Lizardkicker,175.0,3.0,2.0
+Lizardman fang,19.0,36.0,24.0
+Loar remains,133.0,1.0,1.0
+Lobster,155.0,42.0,28.0
+Lobster pot,141.0,12.0,8.0
+Lockpick,128.0,12.0,8.0
+Locust meat,41.0,1.0,1.0
+Log brace,702901.0,1.0,1.0
+Logs,96.0,2.0,1.0
+Long kebbit bolts,80.0,18.0,12.0
+Long kebbit spike,559.0,90.0,60.0
+Longbow,42.0,48.0,32.0
+Longbow (u),3.0,36.0,24.0
+Loop half of key,13207.0,60.0,40.0
+Looting bag note,41976.0,54.0,36.0
+Lovakengj banner,983.0,42.0,28.0
+Lovakengj hood,2668.0,1.0,1.0
+Lovakengj scarf,5360.0,6000.0,4000.0
+Lumberyard teleport,7662.0,6.0,4.0
+Lumbridge teleport (tablet),427.0,1.0,1.0
+Lunar isle teleport,3696.0,6.0,4.0
+M. treasure chest (flatpack),2959.0,6.0,4.0
+Machete,487.0,24.0,16.0
+Mackerel,24.0,9.0,6.0
+Mage's book,2089433.0,300.0,200.0
+Magic bird house,2148.0,3.0,2.0
+Magic box,419.0,360.0,240.0
+Magic cape rack (flatpack),963264.0,6.0,4.0
+Magic comp bow,1892.0,1500.0,1000.0
+Magic essence mix(1),404.0,78.0,52.0
+Magic essence mix(2),2050.0,108.0,72.0
+Magic fang,4553756.0,61200.0,40800.0
+Magic leaves,587.0,1.0,1.0
+Magic logs,1012.0,192.0,128.0
+Magic longbow,1330.0,1536.0,1024.0
+Magic longbow (u),1065.0,768.0,512.0
+Magic mix(1),296.0,90.0,60.0
+Magic mix(2),138.0,120.0,80.0
+Magic potion(1),42.0,90.0,60.0
+Magic potion(2),49.0,120.0,80.0
+Magic potion(3),90.0,150.0,100.0
+Magic potion(4),156.0,180.0,120.0
+Magic pyre logs,4240.0,384.0,256.0
+Magic roots,8142.0,1.0,1.0
+Magic sapling,104525.0,1.0,1.0
+Magic seed,101465.0,253.0,168.0
+Magic shield,465.0,768.0,512.0
+Magic shortbow,841.0,960.0,640.0
+Magic shortbow (u),783.0,480.0,320.0
+Magic shortbow scroll,68698.0,3000.0,2000.0
+Magic staff,224.0,120.0,80.0
+Magic stock,194.0,168.0,112.0
+Magic stone,988174.0,450000.0,300000.0
+Magic string,3176.0,1.0,1.0
+Magpie impling jar,28626.0,30.0,20.0
+Magus ring,47650793.0,1.0,1.0
+Mahogany armchair (flatpack),125.0,6.0,4.0
+Mahogany armour case (flatpack),4389.0,6.0,4.0
+Mahogany bench (flatpack),82.0,6.0,4.0
+Mahogany bird house,1644.0,3.0,2.0
+Mahogany bookcase (flatpack),9.0,6.0,4.0
+Mahogany cape rack (flatpack),1231.0,6.0,4.0
+Mahogany dresser (flatpack),2091.0,6.0,4.0
+Mahogany fancy dress box (flatpack),3653.0,6.0,4.0
+Mahogany logs,474.0,30.0,20.0
+Mahogany magic wardrobe (flatpack),1385.0,6.0,4.0
+Mahogany plank,2222.0,900.0,600.0
+Mahogany pyre logs,3067.0,120.0,80.0
+Mahogany sapling,2037.0,1.0,1.0
+Mahogany seed,1039.0,28.0,19.0
+Mahogany stock,12.0,79.0,53.0
+Mahogany table (flatpack),13.0,6.0,4.0
+Mahogany toy box (flatpack),844.0,6.0,4.0
+Mahogany wardrobe (flatpack),1362.0,6.0,4.0
+Malediction shard 1,988833.0,18600.0,12400.0
+Malediction shard 2,710005.0,18600.0,12400.0
+Malediction shard 3,103569.0,18600.0,12400.0
+Malediction ward,1931240.0,27000.0,18000.0
+Malicious ashes,1380.0,1.0,1.0
+Manta ray,1637.0,120.0,80.0
+Maple bird house,1012.0,3.0,2.0
+Maple blackjack,1909.0,720.0,480.0
+Maple blackjack(d),1062.0,960.0,640.0
+Maple blackjack(o),813.0,960.0,640.0
+Maple leaves,290.0,1.0,1.0
+Maple logs,14.0,48.0,32.0
+Maple longbow,311.0,384.0,256.0
+Maple longbow (u),108.0,192.0,128.0
+Maple pyre logs,2547.0,96.0,64.0
+Maple roots,78.0,1.0,1.0
+Maple sapling,6417.0,1.0,1.0
+Maple seed,5052.0,28.0,19.0
+Maple shield,13.0,192.0,128.0
+Maple shortbow,195.0,240.0,160.0
+Maple shortbow (u),59.0,120.0,80.0
+Maple stock,11.0,60.0,40.0
+Marble block,335307.0,150000.0,100000.0
+Marble cape rack (flatpack),381629.0,6.0,4.0
+Marble magic wardrobe (flatpack),441334.0,6.0,4.0
+Marigold seed,3.0,1.0,1.0
+Marigolds,250.0,1.0,1.0
+Marrentill,279.0,3.0,2.0
+Marrentill potion (unf),214.0,3.0,2.0
+Marrentill seed,19.0,1.0,1.0
+Marrentill tar,1.0,1.0,1.0
+Mask of ranul,11642.0,3000.0,2000.0
+Masori armour set (f),204628630.0,1.0,1.0
+Masori body,62911069.0,1.0,1.0
+Masori body (f),103409533.0,1.0,1.0
+Masori chaps,50606196.0,1.0,1.0
+Masori chaps (f),80825417.0,1.0,1.0
+Masori mask,9341353.0,1.0,1.0
+Masori mask (f),19437187.0,1.0,1.0
+Master scroll book (empty),209365.0,3000.0,2000.0
+Master wand,1786557.0,60000.0,40000.0
+Mature cider,131053.0,1.0,1.0
+Mature wmb,20992.0,1.0,1.0
+Meat pie,57.0,9.0,6.0
+Meat pizza,328.0,30.0,20.0
+Meat tenderiser,26281.0,24900.0,16600.0
+Menaphite purple hat,1461.0,21.0,14.0
+Menaphite purple kilt,1019.0,12.0,8.0
+Menaphite purple robe,1628.0,24.0,16.0
+Menaphite purple top,1850.0,12.0,8.0
+Menaphite red hat,647.0,21.0,14.0
+Menaphite red kilt,220.0,12.0,8.0
+Menaphite red robe,640.0,24.0,16.0
+Menaphite red top,806.0,12.0,8.0
+Menaphite remedy(1),534.0,1.0,1.0
+Menaphite remedy(2),807.0,1.0,1.0
+Menaphite remedy(3),1202.0,1.0,1.0
+Menaphite remedy(4),2269.0,1.0,1.0
+Merfolk trident,2026536.0,240.0,160.0
+Metztonalli white,914.0,300.0,200.0
+Minced meat,292.0,4.0,3.0
+Mind altar teleport (tablet),1729.0,1.0,1.0
+Mind bomb(4),26757.0,1.0,1.0
+Mind bomb(m4),29863.0,1.0,1.0
+Mind helmet,3533.0,1800.0,1200.0
+Mind rune,3.0,1.0,1.0
+Mind shield,53225.0,1800.0,1200.0
+Mind talisman,2611.0,2.0,1.0
+Mind tiara,14.0,60.0,40.0
+Mining helmet,1491.0,360.0,240.0
+Mint cake,148261.0,150.0,100.0
+Mirror shield,4846.0,3000.0,2000.0
+Mist battlestaff,79550.0,9300.0,6200.0
+Mist rune,119.0,12.0,8.0
+Mith grapple,1739.0,1.0,1.0
+Mith grapple (unf),1251.0,28.0,19.0
+Mith grapple tip,644.0,18.0,12.0
+Mithril 2h sword,1257.0,1560.0,1040.0
+Mithril arrow,5.0,19.0,12.0
+Mithril arrow(p),121.0,19.0,12.0
+Mithril arrow(p+),198.0,19.0,12.0
+Mithril arrow(p++),245.0,19.0,12.0
+Mithril arrowtips,45.0,9.0,6.0
+Mithril axe,119.0,312.0,208.0
+Mithril bar,748.0,180.0,120.0
+Mithril battleaxe,949.0,1014.0,676.0
+Mithril bolts,24.0,12.0,8.0
+Mithril bolts (p),250.0,12.0,8.0
+Mithril bolts (p+),539.0,12.0,8.0
+Mithril bolts (p++),1256.0,12.0,8.0
+Mithril bolts (unf),61.0,1.0,1.0
+Mithril boots,684.0,468.0,312.0
+Mithril brutal,201.0,30.0,20.0
+Mithril chainbody,951.0,1170.0,780.0
+Mithril claws,667.0,285.0,190.0
+Mithril crossbow,1638.0,469.0,313.0
+Mithril crossbow (u),663.0,450.0,300.0
+Mithril dagger,111.0,195.0,130.0
+Mithril dagger(p),62.0,195.0,130.0
+Mithril dagger(p+),3212.0,195.0,130.0
+Mithril dagger(p++),3234.0,195.0,130.0
+Mithril dart,5.0,15.0,10.0
+Mithril dart tip,97.0,7.0,4.0
+Mithril dart(p),142.0,15.0,10.0
+Mithril dart(p+),184.0,15.0,10.0
+Mithril dart(p++),810.0,15.0,10.0
+Mithril dragon mask,8326.0,6000.0,4000.0
+Mithril felling axe,18856.0,312.0,208.0
+Mithril full helm,775.0,858.0,572.0
+Mithril full helm (g),9268.0,858.0,572.0
+Mithril full helm (t),4042.0,858.0,572.0
+Mithril gold-trimmed set (lg),37486.0,3000.0,2000.0
+Mithril gold-trimmed set (sk),45364.0,3000.0,2000.0
+Mithril halberd,6135.0,1560.0,1040.0
+Mithril hasta,272.0,507.0,338.0
+Mithril hasta(p),5507.0,507.0,338.0
+Mithril hasta(p+),9289.0,507.0,338.0
+Mithril hasta(p++),7637.0,507.0,338.0
+Mithril javelin,10.0,38.0,25.0
+Mithril javelin heads,136.0,99.0,66.0
+Mithril javelin(p),50.0,38.0,25.0
+Mithril javelin(p+),23.0,38.0,25.0
+Mithril javelin(p++),28.0,38.0,25.0
+Mithril kiteshield,1047.0,1326.0,884.0
+Mithril kiteshield (g),10536.0,1326.0,884.0
+Mithril kiteshield (t),4848.0,1326.0,884.0
+Mithril knife,134.0,16.0,10.0
+Mithril knife(p),390.0,16.0,10.0
+Mithril knife(p+),422.0,16.0,10.0
+Mithril knife(p++),1302.0,16.0,10.0
+Mithril limbs,529.0,390.0,260.0
+Mithril longsword,576.0,780.0,520.0
+Mithril mace,155.0,351.0,234.0
+Mithril med helm,226.0,468.0,312.0
+Mithril nails,48.0,10.0,7.0
+Mithril ore,161.0,97.0,64.0
+Mithril pickaxe,426.0,780.0,520.0
+Mithril platebody,2779.0,3120.0,2080.0
+Mithril platebody (g),5478.0,3120.0,2080.0
+Mithril platebody (t),4704.0,3120.0,2080.0
+Mithril platelegs,1239.0,1560.0,1040.0
+Mithril platelegs (g),3586.0,1560.0,1040.0
+Mithril platelegs (t),5937.0,1560.0,1040.0
+Mithril plateskirt,1369.0,1560.0,1040.0
+Mithril plateskirt (g),2048.0,1560.0,1040.0
+Mithril plateskirt (t),2035.0,1560.0,1040.0
+Mithril scimitar,460.0,624.0,416.0
+Mithril seeds,1114.0,120.0,80.0
+Mithril set (lg),7010.0,3000.0,2000.0
+Mithril set (sk),6848.0,3000.0,2000.0
+Mithril spear,299.0,507.0,338.0
+Mithril spear(p),257.0,507.0,338.0
+Mithril spear(p+),5417.0,507.0,338.0
+Mithril spear(p++),3916.0,507.0,338.0
+Mithril sq shield,778.0,936.0,624.0
+Mithril sword,283.0,507.0,338.0
+Mithril thrownaxe,188.0,42.0,28.0
+Mithril trimmed set (lg),32362.0,3000.0,2000.0
+Mithril trimmed set (sk),34433.0,3000.0,2000.0
+Mithril warhammer,939.0,996.0,664.0
+Mixed flowers,72.0,60.0,40.0
+Mixed hide base,13927.0,5400.0,3600.0
+Mixed hide boots,16141.0,2400.0,1600.0
+Mixed hide cape,15697.0,2400.0,1600.0
+Mixed hide legs,17082.0,2400.0,1600.0
+Mixed hide top,15784.0,2400.0,1600.0
+Mole claw,9047.0,360.0,240.0
+Mole skin,8515.0,240.0,160.0
+Mole slippers,623281.0,600.0,400.0
+Molten glass,85.0,1.0,1.0
+Monk's robe,480.0,18.0,12.0
+Monk's robe (g),2856171.0,18.0,12.0
+Monk's robe (t),14211.0,300.0,200.0
+Monk's robe top,762.0,24.0,16.0
+Monk's robe top (g),8122522.0,30.0,20.0
+Monk's robe top (t),40546.0,300.0,200.0
+Monkey bar,570.0,30.0,20.0
+Monkey bones,574.0,1.0,1.0
+Monkey nuts,90.0,1.0,1.0
+Monkey tail,913761.0,30000.0,20000.0
+Monkfish,370.0,138.0,92.0
+Monocle,19476.0,720.0,480.0
+Moon-lite,20.0,9.0,6.0
+Moonclan teleport (tablet),974.0,1.0,1.0
+Moonlight antelope antler,2406.0,1.0,1.0
+Moonlight antelope fur,519.0,6.0,4.0
+Moonlight antler bolts,219.0,18.0,12.0
+Moonlight mead,123.0,3.0,2.0
+Moonlight mead(4),37596.0,1.0,1.0
+Moonlight mead(m),5093.0,3.0,2.0
+Moonlight mead(m4),135145.0,1.0,1.0
+Moonlight moth (item),946.0,1.0,1.0
+Moonlight moth mix (1),791.0,18.0,12.0
+Moonlight moth mix (2),2683.0,18.0,12.0
+Morrigan's javelin,20000.0,2400.0,1600.0
+Morrigan's throwing axe,20000.0,2400.0,1600.0
+Mort myre fungus,396.0,1.0,1.0
+Mort myre pear,3160.0,1.0,1.0
+Mort myre stem,1155.0,1.0,1.0
+Mort'ton teleport,37582.0,6.0,4.0
+Mos le'harmless teleport,2739.0,6.0,4.0
+Mottled eel,319.0,1.0,1.0
+Mud battlestaff,23062.0,10200.0,6800.0
+Mud pie,1345.0,32.0,21.0
+Mud rune,105.0,12.0,8.0
+Muddy key,6357.0,48.0,32.0
+Mummy's body,3126977.0,1.0,1.0
+Mummy's feet,604200.0,1.0,1.0
+Mummy's hands,516637.0,1.0,1.0
+Mummy's head,2056455.0,1.0,1.0
+Mummy's legs,2026149.0,1.0,1.0
+Mushroom,304.0,22.0,15.0
+Mushroom & onion,298.0,27.0,18.0
+Mushroom pie,2776.0,18.0,12.0
+Mushroom potato,1004.0,27.0,18.0
+Mushroom spore,86.0,51.0,34.0
+Musketeer hat,118513.0,2100.0,1400.0
+Musketeer pants,17036.0,1122.0,748.0
+Musketeer tabard,18761.0,1128.0,752.0
+Myre snelm,41.0,180.0,120.0
+Mystic air staff,25297.0,25500.0,17000.0
+Mystic boots,5984.0,6000.0,4000.0
+Mystic boots (dark),89630.0,6000.0,4000.0
+Mystic boots (dusk),28574.0,6000.0,4000.0
+Mystic boots (light),11359.0,6000.0,4000.0
+Mystic dust staff,48972.0,25500.0,17000.0
+Mystic earth staff,25166.0,25500.0,17000.0
+Mystic fire staff,25539.0,25500.0,17000.0
+Mystic gloves,5673.0,6000.0,4000.0
+Mystic gloves (dark),5617.0,6000.0,4000.0
+Mystic gloves (dusk),27302.0,6000.0,4000.0
+Mystic gloves (light),7701.0,6000.0,4000.0
+Mystic hat,14118.0,9000.0,6000.0
+Mystic hat (dark),84665.0,9000.0,6000.0
+Mystic hat (dusk),27341.0,9000.0,6000.0
+Mystic hat (light),9536.0,9000.0,6000.0
+Mystic lava staff,26265.0,27000.0,18000.0
+Mystic mist staff,115839.0,25500.0,17000.0
+Mystic mud staff,65570.0,27000.0,18000.0
+Mystic robe bottom,47442.0,48000.0,32000.0
+Mystic robe bottom (dark),48208.0,48000.0,32000.0
+Mystic robe bottom (dusk),75127.0,48000.0,32000.0
+Mystic robe bottom (light),47418.0,48000.0,32000.0
+Mystic robe top,71542.0,72000.0,48000.0
+Mystic robe top (dark),71755.0,72000.0,48000.0
+Mystic robe top (dusk),90346.0,72000.0,48000.0
+Mystic robe top (light),71407.0,72000.0,48000.0
+Mystic set (blue),156247.0,141000.0,94000.0
+Mystic set (dark),317793.0,141000.0,94000.0
+Mystic set (dusk),272672.0,141000.0,94000.0
+Mystic set (light),156158.0,141000.0,94000.0
+Mystic smoke staff,2148159.0,25500.0,17000.0
+Mystic steam staff,89541.0,27000.0,18000.0
+Mystic water staff,25165.0,25500.0,17000.0
+Nail beast nails,1602.0,180.0,120.0
+Nardah teleport,33095.0,6.0,4.0
+Nasturtium seed,2.0,6.0,4.0
+Nasturtiums,316.0,2.0,1.0
+Nature impling jar,7143.0,30.0,20.0
+Nature offerings,62.0,1.0,1.0
+Nature rune,109.0,108.0,72.0
+Nature talisman,328.0,2.0,1.0
+Nature tiara,26.0,60.0,40.0
+Navy cavalier,5304.0,120.0,80.0
+Necklace mould,193.0,3.0,2.0
+Necklace of anguish,22835388.0,121200.0,80800.0
+Necklace of faith,951.0,855.0,570.0
+Necklace of passage(5),1184.0,765.0,510.0
+Needle,20.0,1.0,1.0
+Neitiznot shield,2087.0,300.0,200.0
+Nice hedge (bagged),11575.0,6000.0,4000.0
+Nightmare staff,66762749.0,360000.0,240000.0
+Nihil dust,4832.0,300.0,200.0
+Nihil horn,285385042.0,90000.0,60000.0
+Nihil shard,4971.0,300.0,200.0
+Ninja impling jar,58718.0,30.0,20.0
+Noose wand,2.0,2.0,1.0
+Nose peg,741.0,120.0,80.0
+Noxious halberd,38843922.0,300000.0,200000.0
+Numulite,51.0,6.0,4.0
+Nunchaku,8839.0,3600.0,2400.0
+Oak armchair (flatpack),46.0,6.0,4.0
+Oak armour case (flatpack),19.0,6.0,4.0
+Oak bed (flatpack),3912.0,6.0,4.0
+Oak bench (flatpack),96.0,6.0,4.0
+Oak bird house,1052.0,3.0,2.0
+Oak blackjack(d),763.0,240.0,160.0
+Oak blackjack(o),1532.0,240.0,160.0
+Oak bookcase (flatpack),11.0,6.0,4.0
+Oak cape rack (flatpack),25.0,6.0,4.0
+Oak chair (flatpack),219.0,6.0,4.0
+Oak clock (flatpack),332.0,6.0,4.0
+Oak dining table (flatpack),7.0,6.0,4.0
+Oak drawers (flatpack),32.0,6.0,4.0
+Oak dresser (flatpack),140.0,6.0,4.0
+Oak fancy dress box (flatpack),19.0,6.0,4.0
+Oak kitchen table (flatpack),16.0,6.0,4.0
+Oak leaves,75.0,1.0,1.0
+Oak logs,64.0,12.0,8.0
+Oak longbow,36.0,96.0,64.0
+Oak longbow (u),30.0,48.0,32.0
+Oak magic wardrobe (flatpack),20.0,6.0,4.0
+Oak plank,540.0,150.0,100.0
+Oak pyre logs,2087.0,24.0,16.0
+Oak roots,114.0,1.0,1.0
+Oak sapling,580.0,1.0,1.0
+Oak shaving stand (flatpack),85.0,6.0,4.0
+Oak shield,3.0,48.0,32.0
+Oak shortbow,40.0,60.0,40.0
+Oak shortbow (u),32.0,30.0,20.0
+Oak stock,10.0,16.0,10.0
+Oak toy box (flatpack),16.0,6.0,4.0
+Oak treasure chest (flatpack),24.0,6.0,4.0
+Oak wardrobe (flatpack),9.0,6.0,4.0
+Obsidian armour set,2942631.0,75600.0,50400.0
+Obsidian cape,781834.0,36000.0,24000.0
+Obsidian cape (r),787010.0,36000.0,24000.0
+Obsidian helmet,774527.0,33792.0,22528.0
+Obsidian platebody,1167539.0,50400.0,33600.0
+Obsidian platelegs,932268.0,40200.0,26800.0
+Occult necklace,686064.0,27000.0,18000.0
+Occult ornament kit,3949327.0,3000.0,2000.0
+Ochre snelm,34.0,180.0,120.0
+Odium shard 1,2924356.0,18600.0,12400.0
+Odium shard 2,1386138.0,18600.0,12400.0
+Odium shard 3,120111.0,18600.0,12400.0
+Odium ward,4847066.0,27000.0,18000.0
+Ogre arrow,164.0,15.0,10.0
+Ogre arrow shaft,79.0,1.0,1.0
+Ogre coffin key,3110.0,60.0,40.0
+Oil lamp,1250.0,16.0,11.0
+Oil lantern,820.0,75.0,50.0
+Oil lantern frame,50.0,54.0,36.0
+Old demon mask,41967.0,2400.0,1600.0
+Old school bond,13765659.0,,
+Olive oil(1),20.0,8.0,5.0
+Olive oil(2),33.0,10.0,6.0
+Olive oil(3),50.0,12.0,8.0
+Olive oil(4),56.0,13.0,8.0
+Onion,105.0,1.0,1.0
+Onion & tomato,14.0,3.0,2.0
+Onion seed,2.0,1.0,1.0
+Onions(10),1774.0,1.0,1.0
+Onyx,2681867.0,120000.0,80000.0
+Onyx amulet,2567019.0,120600.0,80400.0
+Onyx amulet (u),2306622.0,120600.0,80400.0
+Onyx bolt tips,8724.0,600.0,400.0
+Onyx bolts,8875.0,8179.0,5453.0
+Onyx bolts (e),8711.0,9000.0,6000.0
+Onyx bracelet,2451115.0,120600.0,80400.0
+Onyx dragon bolts,10953.0,8340.0,5560.0
+Onyx dragon bolts (e),9678.0,9480.0,6320.0
+Onyx necklace,2409717.0,120600.0,80400.0
+Onyx ring,2094396.0,120600.0,80400.0
+Opal,391.0,60.0,40.0
+Opal amulet,635.0,540.0,360.0
+Opal amulet (u),536.0,540.0,360.0
+Opal bolt tips,44.0,4.0,2.0
+Opal bolts,49.0,4.0,2.0
+Opal bolts (e),6.0,4.0,2.0
+Opal bracelet,887.0,690.0,460.0
+Opal dragon bolts,2420.0,330.0,220.0
+Opal dragon bolts (e),2950.0,348.0,232.0
+Opal machete,340.0,300.0,200.0
+Opal necklace,1098.0,630.0,420.0
+Opal ring,876.0,630.0,420.0
+Opulent table (flatpack),67503.0,6.0,4.0
+Orange,66.0,1.0,1.0
+Orange boater,6580.0,135.0,90.0
+Orange cape,1282.0,19.0,12.0
+Orange chunks,92.0,1.0,1.0
+Orange dye,514.0,3.0,2.0
+Orange feather,18.0,9.0,6.0
+Orange flowers,141.0,60.0,40.0
+Orange salamander,113.0,60.0,40.0
+Orange sapling,181.0,1.0,1.0
+Orange slices,258.0,1.0,1.0
+Orange tree seed,31.0,18.0,12.0
+Oranges(5),689.0,1.0,1.0
+Ornate maul handle,670726.0,1.0,1.0
+Osman's report,2.0,1.0,1.0
+Osmumten's fang,11860177.0,1.0,1.0
+Ourania teleport (tablet),975.0,1.0,1.0
+Ourg bones,72095.0,1.0,1.0
+Oyster,79.0,120.0,80.0
+Oyster pearl,83.0,67.0,44.0
+Oyster pearls,1000.0,840.0,560.0
+Paddewwa teleport (tablet),972.0,1.0,1.0
+Palm sapling,21835.0,1.0,1.0
+Palm tree seed,19537.0,152.0,101.0
+Pantaloons,5528.0,1200.0,800.0
+Papaya fruit,2325.0,38.0,25.0
+Papaya sapling,2547.0,1.0,1.0
+Papaya tree seed,1643.0,69.0,46.0
+Papyrus,280.0,6.0,4.0
+Partyhat & specs,1243604.0,1080.0,720.0
+Partyhat set,64729.0,6.0,4.0
+Pastry dough,245.0,1.0,1.0
+Pat of butter,26.0,2.0,1.0
+Peaceful blessing,5706.0,48.0,32.0
+Pearl bolt tips,63.0,7.0,4.0
+Pearl bolts,80.0,7.0,5.0
+Pearl bolts (e),9.0,9.0,6.0
+Pearl dragon bolts,973.0,390.0,260.0
+Pearl dragon bolts (e),1240.0,408.0,272.0
+Pegasian boots,38403503.0,45000.0,30000.0
+Pegasian crystal,525554.0,27000.0,18000.0
+Penguin mask,30680.0,720.0,480.0
+Perfected quetzal whistle blueprint,14928.0,4500.0,3000.0
+Pest control teleport,931.0,6.0,4.0
+Pestle and mortar,188.0,2.0,1.0
+Pharaoh's sceptre (uncharged),7220606.0,1.0,1.0
+Phoenix necklace,2245.0,2430.0,1620.0
+Phrin remains,3424.0,1.0,1.0
+Pie dish,23.0,1.0,1.0
+Pie recipe book,109.0,3.0,2.0
+Pie shell,424.0,2.0,1.0
+Pike,33.0,12.0,8.0
+Pile of salt,302.0,12.0,8.0
+Pineapple,153.0,1.0,1.0
+Pineapple chunks,203.0,1.0,1.0
+Pineapple pizza,909.0,60.0,40.0
+Pineapple punch,76.0,18.0,12.0
+Pineapple ring,89.0,1.0,1.0
+Pineapple sapling,492.0,1.0,1.0
+Pineapple seed,100.0,44.0,29.0
+Pink boater,6977.0,135.0,90.0
+Pink boots,1257.0,120.0,80.0
+Pink cape,5574.0,1.0,1.0
+Pink elegant blouse,88771.0,1200.0,800.0
+Pink elegant legs,6050.0,1200.0,800.0
+Pink elegant shirt,3738.0,1200.0,800.0
+Pink elegant skirt,50242.0,1200.0,800.0
+Pink hat,1111.0,96.0,64.0
+Pink headband,3006.0,24.0,16.0
+Pink robe bottoms,223.0,108.0,72.0
+Pink robe top,957.0,108.0,72.0
+Pink skirt,99.0,1.0,1.0
+Pirate bandana (blue),667.0,60.0,40.0
+Pirate bandana (brown),1303.0,60.0,40.0
+Pirate bandana (red),866.0,60.0,40.0
+Pirate bandana (white),469.0,60.0,40.0
+Pirate boots,855.0,210.0,140.0
+Pirate hat & patch,867620.0,1800.0,1200.0
+Pirate leggings (beige),422.0,210.0,140.0
+Pirate leggings (blue),631.0,210.0,140.0
+Pirate leggings (brown),596.0,210.0,140.0
+Pirate leggings (red),728.0,210.0,140.0
+Pirate's hat,97084.0,108.0,72.0
+Pirate's hook,2799164.0,53.0,35.0
+Piscarilius banner,9689.0,42.0,28.0
+Piscarilius hood,5232.0,1.0,1.0
+Piscarilius scarf,5867.0,6000.0,4000.0
+Piscatoris teleport,7804.0,6.0,4.0
+Pith helmet,4988.0,516.0,344.0
+Pitta bread,73.0,6.0,4.0
+Pizza base,206.0,2.0,1.0
+Plain pizza,552.0,24.0,16.0
+Plank,301.0,1.0,1.0
+Plant cure,144.0,24.0,16.0
+Pointed blood'n'tar snelm,1023.0,180.0,120.0
+Pointed bruise blue snelm,4519.0,180.0,120.0
+Pointed myre snelm,108.0,180.0,120.0
+Pointed ochre snelm,522.0,180.0,120.0
+Poison (item),713.0,1.0,1.0
+Poison chalice,2028.0,12.0,8.0
+Poison ivy berries,103.0,39.0,26.0
+Poison ivy seed,17.0,99.0,66.0
+Polar camo legs,12783.0,12.0,8.0
+Polar camo top,11930.0,12.0,8.0
+Polar kebbit fur,2141.0,6.0,4.0
+Polished buttons,1070.0,1.0,1.0
+Pot,15.0,1.0,1.0
+Pot lid,640.0,9.0,6.0
+Pot of cornflour,1420.0,6.0,4.0
+Pot of cream,7.0,1.0,1.0
+Pot of flour,119.0,6.0,4.0
+Potato,55.0,1.0,1.0
+Potato cactus,52.0,1.0,1.0
+Potato cactus seed,12.0,84.0,56.0
+Potato seed,2.0,1.0,1.0
+Potato with butter,421.0,4.0,3.0
+Potato with cheese,225.0,4.0,3.0
+Potatoes(10),1065.0,1.0,1.0
+Pottery scarab,100.0,6.0,4.0
+Pottery statuette,99.0,6.0,4.0
+Prayer mix(1),2111.0,45.0,30.0
+Prayer mix(2),4443.0,68.0,45.0
+Prayer potion(1),2149.0,45.0,30.0
+Prayer potion(2),4255.0,68.0,45.0
+Prayer potion(3),6423.0,91.0,60.0
+Prayer potion(4),8753.0,114.0,76.0
+Prayer regeneration potion(1),26265.0,90.0,60.0
+Prayer regeneration potion(2),64412.0,120.0,80.0
+Prayer regeneration potion(3),68421.0,150.0,100.0
+Prayer regeneration potion(4),119879.0,180.0,120.0
+Premade blurb' sp.,849.0,18.0,12.0
+Premade c+t batta,46.0,72.0,48.0
+Premade ch' crunch,52.0,51.0,34.0
+Premade choc bomb,119.0,96.0,64.0
+Premade choc s'dy,51.0,18.0,12.0
+Premade dr' dragon,30.0,18.0,12.0
+Premade fr' blast,31.0,18.0,12.0
+Premade fr't batta,43.0,72.0,48.0
+Premade p' punch,27.0,18.0,12.0
+Premade s'y crunch,47.0,51.0,34.0
+Premade sgg,25.0,18.0,12.0
+Premade t'd batta,43.0,72.0,48.0
+Premade t'd crunch,663.0,51.0,34.0
+Premade ttl,84.0,96.0,64.0
+Premade veg ball,47.0,90.0,60.0
+Premade veg batta,43.0,72.0,48.0
+Premade w'm batta,44.0,72.0,48.0
+Premade w'm crun',44.0,51.0,34.0
+Premade wiz blz'd,26.0,18.0,12.0
+Premade worm hole,52.0,90.0,60.0
+Priest gown (bottom),19.0,3.0,2.0
+Priest gown (top),58.0,3.0,2.0
+Primordial boots,26521143.0,45000.0,30000.0
+Primordial crystal,26480618.0,27000.0,18000.0
+Proboscis,319.0,3.0,2.0
+Proselyte cuisse,7020.0,6000.0,4000.0
+Proselyte harness f,28599.0,15000.0,10000.0
+Proselyte harness m,28927.0,15000.0,10000.0
+Proselyte hauberk,7218.0,7200.0,4800.0
+Proselyte sallet,4657.0,4800.0,3200.0
+Proselyte tasset,5667.0,6000.0,4000.0
+Pumpkin,11063.0,18.0,12.0
+Pure essence,1.0,2.0,1.0
+Purple boater,8246.0,135.0,90.0
+Purple boots,1373.0,300.0,200.0
+Purple cape,1060.0,19.0,12.0
+Purple dye,472.0,3.0,2.0
+Purple elegant blouse,36633.0,1200.0,800.0
+Purple elegant legs,5487.0,1200.0,800.0
+Purple elegant shirt,5441.0,1200.0,800.0
+Purple elegant skirt,17207.0,1200.0,800.0
+Purple firelighter,91.0,9.0,6.0
+Purple flowers,597.0,60.0,40.0
+Purple gloves,1148.0,300.0,200.0
+Purple hat,1560.0,300.0,200.0
+Purple partyhat,9762.0,1.0,1.0
+Purple robe bottoms,631.0,300.0,200.0
+Purple robe top,485.0,300.0,200.0
+Purple sweets,10656.0,9.0,6.0
+Pyre logs,2108.0,4.0,3.0
+Pyrophosphite,98.0,18.0,12.0
+Quetzal feed,7871.0,30.0,20.0
+Rabbit foot,1780.0,18.0,12.0
+Rabbit snare,1.0,9.0,6.0
+Raging echoes banner,11173.0,600.0,400.0
+Raging echoes boots (t1),152506.0,1.0,1.0
+Raging echoes boots (t2),704237.0,1.0,1.0
+Raging echoes boots (t3),945385.0,1.0,1.0
+Raging echoes cane,299534.0,1.0,1.0
+Raging echoes curtains,270540.0,1.0,1.0
+Raging echoes death scroll,176815.0,1.0,1.0
+Raging echoes hat (t1),195705.0,1.0,1.0
+Raging echoes hat (t2),739872.0,1.0,1.0
+Raging echoes hat (t3),2042448.0,1.0,1.0
+Raging echoes nexus scroll,180113.0,1.0,1.0
+Raging echoes npc contact scroll,178511.0,1.0,1.0
+Raging echoes portal scroll,142169.0,1.0,1.0
+Raging echoes relic hunter (t1) armour set,272852.0,1.0,1.0
+Raging echoes relic hunter (t2) armour set,1196816.0,1.0,1.0
+Raging echoes relic hunter (t3) armour set,6664782.0,1.0,1.0
+Raging echoes robeskirt (t1),150975.0,1.0,1.0
+Raging echoes robeskirt (t2),732992.0,1.0,1.0
+Raging echoes robeskirt (t3),862135.0,1.0,1.0
+Raging echoes rug,268697.0,1.0,1.0
+Raging echoes scrying pool scroll,147380.0,1.0,1.0
+Raging echoes spirit tree scroll,128102.0,15000.0,10000.0
+Raging echoes top (t1),154035.0,1.0,1.0
+Raging echoes top (t2),738372.0,1.0,1.0
+Raging echoes top (t3),1442838.0,1.0,1.0
+Rain bow,276319.0,300.0,200.0
+Rainbow fish,117.0,72.0,48.0
+Rake,108.0,3.0,2.0
+Ranarr potion (unf),6180.0,15.0,10.0
+Ranarr seed,24154.0,30.0,20.0
+Ranarr weed,5927.0,15.0,10.0
+Ranger boots,37606972.0,120.0,80.0
+Ranger gloves,645068.0,2040.0,1360.0
+Rangers' tights,198147.0,12000.0,8000.0
+Rangers' tunic,5510311.0,7200.0,4800.0
+Ranging mix(1),450.0,86.0,57.0
+Ranging mix(2),1035.0,129.0,86.0
+Ranging potion(1),552.0,86.0,57.0
+Ranging potion(2),1083.0,129.0,86.0
+Ranging potion(3),1650.0,172.0,115.0
+Ranging potion(4),2260.0,216.0,144.0
+Raurg bones,8776.0,1.0,1.0
+Raw admiral pie,1334.0,93.0,62.0
+Raw anchovies,34.0,9.0,6.0
+Raw anglerfish,1530.0,270.0,180.0
+Raw barb-tailed kebbit,348.0,1.0,1.0
+Raw bass,16.0,24.0,16.0
+Raw bear meat,47.0,1.0,1.0
+Raw beast meat,87.0,15.0,10.0
+Raw beef,49.0,1.0,1.0
+Raw bird meat,33.0,10.0,6.0
+Raw boar meat,495.0,1.0,1.0
+Raw cave eel,173.0,9.0,6.0
+Raw chicken,41.0,1.0,1.0
+Raw chompy,2158.0,51.0,34.0
+Raw cod,49.0,6.0,4.0
+Raw dark crab,1219.0,195.0,130.0
+Raw dashing kebbit,1381.0,1.0,1.0
+Raw fish pie,1339.0,30.0,20.0
+Raw garden pie,1280.0,7.0,4.0
+Raw graahk,172.0,1.0,1.0
+Raw herring,154.0,6.0,4.0
+Raw jubbly,739.0,60.0,40.0
+Raw karambwan,338.0,120.0,80.0
+Raw kyatt,116.0,1.0,1.0
+Raw larupia,196.0,1.0,1.0
+Raw lobster,74.0,42.0,28.0
+Raw mackerel,33.0,9.0,6.0
+Raw manta ray,1386.0,120.0,80.0
+Raw monkfish,230.0,138.0,92.0
+Raw moonlight antelope,2478.0,1.0,1.0
+Raw mud pie,1457.0,16.0,10.0
+Raw mystery meat,471.0,1.0,1.0
+Raw oomlie,3547.0,6.0,4.0
+Raw pike,121.0,12.0,8.0
+Raw pyre fox,137.0,1.0,1.0
+Raw rabbit,173.0,12.0,8.0
+Raw rainbow fish,601.0,72.0,48.0
+Raw rat meat,50.0,1.0,1.0
+Raw salmon,60.0,18.0,12.0
+Raw sardine,94.0,6.0,4.0
+Raw sea turtle,753.0,120.0,80.0
+Raw shark,758.0,102.0,68.0
+Raw shrimps,110.0,3.0,2.0
+Raw slimy eel,220.0,1.0,1.0
+Raw summer pie,1152.0,42.0,28.0
+Raw sunlight antelope,420.0,1.0,1.0
+Raw swordfish,94.0,48.0,32.0
+Raw trout,191.0,6.0,4.0
+Raw tuna,64.0,24.0,16.0
+Raw ugthanki meat,1161.0,1.0,1.0
+Raw wild kebbit,726.0,1.0,1.0
+Raw wild pie,4267.0,54.0,36.0
+Raw yak meat,110.0,1.0,1.0
+Red bead,1820.0,2.0,1.0
+Red beret,21698.0,48.0,32.0
+Red boater,29912.0,135.0,90.0
+Red boots,1906.0,300.0,200.0
+Red cape,80.0,1.0,1.0
+Red cavalier,4601.0,120.0,80.0
+Red chinchompa,2076.0,96.0,64.0
+Red d'hide body,6070.0,6738.0,4492.0
+Red d'hide body (g),6539.0,6738.0,4492.0
+Red d'hide body (t),6297.0,6738.0,4492.0
+Red d'hide chaps,2663.0,3108.0,2072.0
+Red d'hide chaps (g),11875.0,3108.0,2072.0
+Red d'hide chaps (t),3878.0,3108.0,2072.0
+Red d'hide shield,6859.0,6600.0,4400.0
+Red d'hide vambraces,1775.0,2160.0,1440.0
+Red dragon leather,3135.0,54.0,36.0
+Red dragon mask,6655.0,6000.0,4000.0
+Red dragonhide,2905.0,87.0,58.0
+Red dragonhide set,12849.0,3000.0,2000.0
+Red dye,392.0,3.0,2.0
+Red elegant blouse,87797.0,1200.0,800.0
+Red elegant legs,8344.0,1200.0,800.0
+Red elegant shirt,12540.0,1200.0,800.0
+Red elegant skirt,12758.0,1200.0,800.0
+Red feather,21.0,6.0,4.0
+Red firelighter,76.0,9.0,6.0
+Red flowers,95.0,60.0,40.0
+Red gloves,1248.0,300.0,200.0
+Red halloween mask,9480.0,9.0,6.0
+Red hat,1753.0,300.0,200.0
+Red headband,2896.0,24.0,16.0
+Red partyhat,5871.0,1.0,1.0
+Red robe bottoms,1091.0,300.0,200.0
+Red robe top,881.0,300.0,200.0
+Red salamander,50.0,90.0,60.0
+Red spiders' eggs,381.0,4.0,2.0
+Red spiky vambraces,1738.0,2160.0,1440.0
+Red topaz,2013.0,120.0,80.0
+Red topaz machete,14923.0,1200.0,800.0
+Redberries,53.0,1.0,1.0
+Redberry pie,121.0,7.0,4.0
+Redberry seed,2.0,2.0,1.0
+Redwood bird house,1750.0,3.0,2.0
+Redwood logs,514.0,270.0,180.0
+Redwood pyre logs,3820.0,537.0,358.0
+Redwood sapling,22535.0,1.0,1.0
+Redwood shield,365.0,768.0,512.0
+Redwood tree seed,21040.0,390.0,260.0
+Regen bracelet,2783531.0,121200.0,80800.0
+Relicym's balm(1),141.0,45.0,30.0
+Relicym's balm(2),308.0,90.0,60.0
+Relicym's balm(3),393.0,120.0,80.0
+Relicym's balm(4),640.0,135.0,90.0
+Relicym's mix(1),274.0,45.0,30.0
+Relicym's mix(2),499.0,90.0,60.0
+Restore mix(1),198.0,26.0,17.0
+Restore mix(2),107.0,39.0,26.0
+Restore potion(1),24.0,26.0,17.0
+Restore potion(2),38.0,39.0,26.0
+Restore potion(3),40.0,52.0,35.0
+Restore potion(4),100.0,66.0,44.0
+Revenant cave teleport,529.0,6.0,4.0
+Revenant ether,179.0,150.0,100.0
+Ribcage piece,18197.0,36.0,24.0
+Right eye patch,156.0,1.0,1.0
+Ring mould,98.0,3.0,2.0
+Ring of 3rd age,4647811.0,7200.0,4800.0
+Ring of coins,16178773.0,4800.0,3200.0
+Ring of dueling(8),674.0,765.0,510.0
+Ring of endurance (uncharged),8497625.0,38400.0,25600.0
+Ring of forging,1033.0,1215.0,810.0
+Ring of life,1921.0,2115.0,1410.0
+Ring of nature,9686864.0,4800.0,3200.0
+Ring of pursuit,1543.0,630.0,420.0
+Ring of recoil,839.0,540.0,360.0
+Ring of returning(5),917.0,765.0,510.0
+Ring of stone,1340029.0,121200.0,80800.0
+Ring of suffering,22828899.0,120600.0,80400.0
+Ring of the elements,1102552.0,1.0,1.0
+Ring of the gods,2316276.0,30000.0,20000.0
+Ring of wealth,11979.0,10575.0,7050.0
+Ring of wealth (5),13851.0,10575.0,7050.0
+Ring of wealth scroll,5620.0,3000.0,2000.0
+Ritual mulch,6975.0,1.0,1.0
+Riyl remains,4031.0,1.0,1.0
+Roast beast meat,26.0,15.0,10.0
+Roast bird meat,17.0,10.0,6.0
+Roast rabbit,106.0,12.0,8.0
+Robe bottom of darkness,62545.0,48000.0,32000.0
+Robe top of darkness,75158.0,72000.0,48000.0
+Robin hood hat,1502027.0,270.0,180.0
+Rock hammer,633.0,300.0,200.0
+Rock thrownhammer,249.0,120.0,80.0
+Rock-climbing boots,82610.0,1.0,1.0
+Rock-shell boots,347.0,390.0,260.0
+Rock-shell chunk,11378.0,36.0,24.0
+Rock-shell gloves,681.0,390.0,260.0
+Rock-shell helm,36004.0,21120.0,14080.0
+Rock-shell legs,39638.0,38400.0,25600.0
+Rock-shell plate,38266.0,39000.0,26000.0
+Rock-shell shard,16009.0,36.0,24.0
+Rock-shell splinter,18713.0,36.0,24.0
+Rocking chair (flatpack),74.0,6.0,4.0
+Roe,132.0,12.0,8.0
+Rolling pin,20476.0,8640.0,5760.0
+Rope,79.0,10.0,7.0
+Rosemary,111.0,1.0,1.0
+Rosemary seed,3.0,2.0,1.0
+Royal crown,209388.0,3600.0,2400.0
+Royal gown bottom,6213.0,3000.0,2000.0
+Royal gown top,22695.0,3000.0,2000.0
+Royal sceptre,13749.0,3000.0,2000.0
+Ruby,814.0,600.0,400.0
+Ruby amulet,1227.0,1215.0,810.0
+Ruby amulet (u),1093.0,1215.0,810.0
+Ruby bolt tips,85.0,40.0,26.0
+Ruby bolts,138.0,75.0,50.0
+Ruby bolts (e),52.0,82.0,55.0
+Ruby bracelet,1200.0,1395.0,930.0
+Ruby dragon bolts,2821.0,480.0,320.0
+Ruby dragon bolts (e),2893.0,498.0,332.0
+Ruby harvest (item),199.0,10.0,7.0
+Ruby harvest mix (1),800.0,10.0,7.0
+Ruby harvest mix (2),700.0,10.0,7.0
+Ruby necklace,1106.0,1305.0,870.0
+Ruby ring,1049.0,1215.0,810.0
+Rum,21.0,3.0,2.0
+Rune 2h sword,37952.0,38400.0,25600.0
+Rune armour set (lg),132105.0,45000.0,30000.0
+Rune armour set (sk),131941.0,45000.0,30000.0
+Rune arrow,62.0,240.0,160.0
+Rune arrow(p),212.0,240.0,160.0
+Rune arrow(p+),397.0,240.0,160.0
+Rune arrow(p++),1033.0,240.0,160.0
+Rune arrowtips,329.0,120.0,80.0
+Rune axe,7255.0,7680.0,5120.0
+Rune battleaxe,24579.0,24960.0,16640.0
+Rune boots,7546.0,7500.0,5000.0
+Rune brutal,1028.0,270.0,180.0
+Rune cane,8081.0,8640.0,5760.0
+Rune chainbody,29549.0,30000.0,20000.0
+Rune claws,8281.0,7200.0,4800.0
+Rune crossbow,10261.0,9720.0,6480.0
+Rune dagger,4447.0,4800.0,3200.0
+Rune dagger(p),5706.0,4800.0,3200.0
+Rune dagger(p+),4243.0,4800.0,3200.0
+Rune dagger(p++),9455.0,4800.0,3200.0
+Rune dart,171.0,210.0,140.0
+Rune dart tip,1194.0,105.0,70.0
+Rune dart(p),167.0,210.0,140.0
+Rune dart(p+),676.0,210.0,140.0
+Rune dart(p++),1231.0,210.0,140.0
+Rune defender ornament kit,12740.0,3000.0,2000.0
+Rune dragon mask,26500.0,6000.0,4000.0
+Rune essence,10.0,2.0,1.0
+Rune felling axe,2068591.0,7680.0,5120.0
+Rune full helm,20629.0,21120.0,14080.0
+Rune full helm (g),124024.0,21120.0,14080.0
+Rune full helm (t),24993.0,21120.0,14080.0
+Rune gold-trimmed set (lg),416160.0,48000.0,32000.0
+Rune gold-trimmed set (sk),389429.0,48000.0,32000.0
+Rune halberd,37402.0,38400.0,25600.0
+Rune hasta,11873.0,12480.0,8320.0
+Rune hasta(p),20992.0,12480.0,8320.0
+Rune hasta(p+),21969.0,12480.0,8320.0
+Rune hasta(p++),19601.0,12480.0,8320.0
+Rune helm (h1),74499.0,21120.0,14080.0
+Rune helm (h2),23303.0,21120.0,14080.0
+Rune helm (h3),24538.0,21120.0,14080.0
+Rune helm (h4),20896.0,21120.0,14080.0
+Rune helm (h5),21840.0,21120.0,14080.0
+Rune javelin,184.0,240.0,160.0
+Rune javelin heads,626.0,810.0,540.0
+Rune javelin(p),535.0,240.0,160.0
+Rune javelin(p+),699.0,240.0,160.0
+Rune javelin(p++),1334.0,240.0,160.0
+Rune kiteshield,32117.0,32640.0,21760.0
+Rune kiteshield (g),127522.0,32640.0,21760.0
+Rune kiteshield (t),33647.0,32640.0,21760.0
+Rune knife,115.0,100.0,66.0
+Rune knife(p),390.0,99.0,66.0
+Rune knife(p+),512.0,99.0,66.0
+Rune knife(p++),329.0,99.0,66.0
+Rune longsword,18770.0,19200.0,12800.0
+Rune mace,8168.0,8640.0,5760.0
+Rune med helm,11104.0,11520.0,7680.0
+Rune nails,806.0,132.0,88.0
+Rune pickaxe,18655.0,19200.0,12800.0
+Rune platebody,38531.0,39000.0,26000.0
+Rune platebody (g),88704.0,39000.0,26000.0
+Rune platebody (h1),68769.0,39000.0,26000.0
+Rune platebody (h2),42675.0,39000.0,26000.0
+Rune platebody (h3),43857.0,39000.0,26000.0
+Rune platebody (h4),48029.0,39000.0,26000.0
+Rune platebody (h5),42381.0,39000.0,26000.0
+Rune platebody (t),39077.0,39000.0,26000.0
+Rune platelegs,37883.0,38400.0,25600.0
+Rune platelegs (g),54889.0,38400.0,25600.0
+Rune platelegs (t),38933.0,38400.0,25600.0
+Rune plateskirt,37845.0,38400.0,25600.0
+Rune plateskirt (g),37994.0,38400.0,25600.0
+Rune plateskirt (t),38618.0,38400.0,25600.0
+Rune pouch note,3379649.0,1.0,1.0
+Rune scimitar,14870.0,15360.0,10240.0
+Rune scimitar ornament kit (guthix),5552.0,3000.0,2000.0
+Rune scimitar ornament kit (saradomin),20256.0,3000.0,2000.0
+Rune scimitar ornament kit (zamorak),20850.0,3000.0,2000.0
+Rune shield (h1),65806.0,32640.0,21760.0
+Rune shield (h2),34448.0,32640.0,21760.0
+Rune shield (h3),34150.0,32640.0,21760.0
+Rune shield (h4),33941.0,32640.0,21760.0
+Rune shield (h5),34420.0,32640.0,21760.0
+Rune spear,11954.0,12480.0,8320.0
+Rune spear(p),17995.0,12480.0,8320.0
+Rune spear(p+),21409.0,12480.0,8320.0
+Rune spear(p++),19808.0,12480.0,8320.0
+Rune sq shield,22588.0,23040.0,15360.0
+Rune sword,11985.0,12480.0,8320.0
+Rune thrownaxe,201.0,264.0,176.0
+Rune trimmed set (lg),169087.0,48000.0,32000.0
+Rune trimmed set (sk),186503.0,48000.0,32000.0
+Rune warhammer,25271.0,24900.0,16600.0
+Runescroll of bloodbark,1518.0,360.0,240.0
+Runescroll of swampbark,1162.0,240.0,160.0
+Runite bar,12401.0,3000.0,2000.0
+Runite bolts,69.0,180.0,120.0
+Runite bolts (p),272.0,180.0,120.0
+Runite bolts (p+),395.0,180.0,120.0
+Runite bolts (p++),1010.0,180.0,120.0
+Runite bolts (unf),149.0,1.0,1.0
+Runite crossbow (u),9489.0,9700.0,6466.0
+Runite limbs,9334.0,9600.0,6400.0
+Runite ore,10703.0,1920.0,1280.0
+Sacred oil(1),785.0,36.0,24.0
+Sacred oil(2),1414.0,45.0,30.0
+Sacred oil(3),2635.0,54.0,36.0
+Sacred oil(4),2699.0,60.0,40.0
+Sagacious spectacles,1116924.0,840.0,560.0
+Salmon,65.0,18.0,12.0
+Saltpetre,7.0,3.0,2.0
+Salve graveyard teleport (tablet),2356.0,1.0,1.0
+Samurai boots,12883.0,2700.0,1800.0
+Samurai gloves,49536.0,1920.0,1280.0
+Samurai greaves,40180.0,1920.0,1280.0
+Samurai kasa,35113.0,2400.0,1600.0
+Samurai shirt,47939.0,4200.0,2800.0
+Sandstone (10kg),2775.0,1.0,1.0
+Sandstone (1kg),2.0,1.0,1.0
+Sandstone (2kg),41.0,1.0,1.0
+Sandstone (5kg),11.0,1.0,1.0
+Sandwich lady bottom,4599.0,180.0,120.0
+Sandwich lady hat,4991.0,120.0,80.0
+Sandwich lady top,5384.0,300.0,200.0
+Sandworms,95.0,54.0,36.0
+Sanfew serum(1),3508.0,72.0,48.0
+Sanfew serum(2),6889.0,108.0,72.0
+Sanfew serum(3),11047.0,144.0,96.0
+Sanfew serum(4),15486.0,180.0,120.0
+Sanguinesti staff (uncharged),70653767.0,3000000.0,2000000.0
+Santa hat,13891.0,96.0,64.0
+Sapphire,262.0,150.0,100.0
+Sapphire amulet,559.0,540.0,360.0
+Sapphire amulet (u),419.0,540.0,360.0
+Sapphire bolt tips,30.0,10.0,6.0
+Sapphire bolts,73.0,22.0,14.0
+Sapphire bolts (e),13.0,24.0,16.0
+Sapphire bracelet,579.0,690.0,460.0
+Sapphire dragon bolts,2688.0,450.0,300.0
+Sapphire dragon bolts (e),2930.0,468.0,312.0
+Sapphire glacialis (item),581.0,18.0,12.0
+Sapphire glacialis mix (1),700.0,18.0,12.0
+Sapphire glacialis mix (2),700.0,18.0,12.0
+Sapphire necklace,498.0,630.0,420.0
+Sapphire ring,515.0,540.0,360.0
+Sarachnis cudgel,175080.0,72000.0,48000.0
+Saradomin armour set (lg),269359.0,48000.0,32000.0
+Saradomin armour set (sk),273170.0,48000.0,32000.0
+Saradomin bracers,59323.0,2400.0,1600.0
+Saradomin brew(1),3065.0,75.0,50.0
+Saradomin brew(2),5911.0,90.0,60.0
+Saradomin brew(3),8857.0,105.0,70.0
+Saradomin brew(4),12203.0,120.0,80.0
+Saradomin chaps,356613.0,3600.0,2400.0
+Saradomin cloak,86032.0,1200.0,800.0
+Saradomin coif,61204.0,1200.0,800.0
+Saradomin crozier,6895.0,3000.0,2000.0
+Saradomin d'hide body,162206.0,7800.0,5200.0
+Saradomin d'hide boots,465077.0,5580.0,3720.0
+Saradomin d'hide shield,445244.0,17000.0,11333.0
+Saradomin dragonhide set,693100.0,5400.0,3600.0
+Saradomin full helm,79246.0,21120.0,14080.0
+Saradomin godsword,34975209.0,750000.0,500000.0
+Saradomin godsword ornament kit,1921660.0,3000.0,2000.0
+Saradomin hilt,33723590.0,300000.0,200000.0
+Saradomin kiteshield,66071.0,32640.0,21760.0
+Saradomin mitre,22218.0,3000.0,2000.0
+Saradomin mjolnir,8782.0,375.0,250.0
+Saradomin page 1,1550.0,120.0,80.0
+Saradomin page 2,1662.0,120.0,80.0
+Saradomin page 3,1647.0,120.0,80.0
+Saradomin page 4,1490.0,120.0,80.0
+Saradomin platebody,60808.0,39000.0,26000.0
+Saradomin platelegs,49671.0,38400.0,25600.0
+Saradomin plateskirt,37901.0,38400.0,25600.0
+Saradomin robe legs,99382.0,4200.0,2800.0
+Saradomin robe top,105412.0,4200.0,2800.0
+Saradomin stole,5810.0,1500.0,1000.0
+Saradomin sword,185987.0,78000.0,52000.0
+Saradomin's light,46934.0,20760.0,13840.0
+Saradomin's tear,4991730.0,24000.0,16000.0
+Sardine,36.0,6.0,4.0
+Saturated heart,108173782.0,1.0,1.0
+Saw,275.0,6.0,4.0
+Sawmill voucher,752.0,1.0,1.0
+Scaly blue dragonhide,571.0,1.0,1.0
+Scrambled egg,30.0,4.0,3.0
+Scythe of vitur (uncharged),1685278557.0,2400000.0,1600000.0
+Sea turtle,1025.0,120.0,80.0
+Searing page,13432.0,120.0,80.0
+Seasoned sardine,883.0,6.0,4.0
+Seaweed,14.0,1.0,1.0
+Seaweed spore,269.0,12.0,8.0
+Secateurs,50.0,3.0,2.0
+Secateurs attachment,135.0,1.0,1.0
+Secateurs blade,5196.0,1.0,1.0
+Security book,99.0,1.0,1.0
+Seed dibber,227.0,3.0,2.0
+Seercull,54467.0,4800.0,3200.0
+Seers icon,419049.0,1.0,1.0
+Seers ring,422061.0,6000.0,4000.0
+Senntisten teleport (tablet),1278.0,1.0,1.0
+Serpentine helm (uncharged),4596194.0,66000.0,44000.0
+Serpentine visage,4540457.0,63000.0,42000.0
+Serum 207 (1),9.0,6.0,4.0
+Serum 207 (2),5.0,7.0,5.0
+Serum 207 (3),6.0,7.0,5.0
+Serum 207 (4),16.0,8.0,5.0
+Shade robe,482.0,18.0,12.0
+Shade robe top,958.0,24.0,16.0
+Shaikahan bones,7871.0,1.0,1.0
+Shaman mask,15609.0,4800.0,3200.0
+Shantay pass (item),26.0,3.0,2.0
+Shark,985.0,102.0,68.0
+Shattered banner,165997.0,1.0,1.0
+Shattered boots (t1),118369.0,1.0,1.0
+Shattered boots (t2),197703.0,1.0,1.0
+Shattered boots (t3),397851.0,1.0,1.0
+Shattered cane,889554.0,1.0,1.0
+Shattered cannon ornament kit,695728.0,1.0,1.0
+Shattered hood (t1),266820.0,1.0,1.0
+Shattered hood (t2),309801.0,1.0,1.0
+Shattered hood (t3),871177.0,1.0,1.0
+Shattered relic hunter (t1) armour set,453367.0,1.0,1.0
+Shattered relic hunter (t2) armour set,2005872.0,1.0,1.0
+Shattered relic hunter (t3) armour set,6941077.0,1.0,1.0
+Shattered relics mystic ornament kit,70403.0,1.0,1.0
+Shattered relics variety ornament kit,942850.0,1.0,1.0
+Shattered relics void ornament kit,666936.0,1.0,1.0
+Shattered teleport scroll,585790.0,1.0,1.0
+Shattered top (t1),110952.0,1.0,1.0
+Shattered top (t2),198347.0,1.0,1.0
+Shattered top (t3),593912.0,1.0,1.0
+Shattered trousers (t1),105631.0,1.0,1.0
+Shattered trousers (t2),195782.0,1.0,1.0
+Shattered trousers (t3),421963.0,1.0,1.0
+Shaving stand (flatpack),13.0,6.0,4.0
+Shayzien banner,1442.0,42.0,28.0
+Shayzien hood,5491.0,1.0,1.0
+Shayzien scarf,5235.0,6000.0,4000.0
+Shears,54.0,1.0,1.0
+Shield left half,65257.0,66000.0,44000.0
+Shield right half,769569.0,300000.0,200000.0
+Ship ticket,229.0,3.0,2.0
+Shirt (brown),819.0,270.0,180.0
+Shirt (lilac),1001.0,375.0,250.0
+Shirt (yellow),1083.0,360.0,240.0
+Shoe box (flatpack),6.0,6.0,4.0
+Short green guy,72.0,18.0,12.0
+Shortbow,44.0,30.0,20.0
+Shortbow (u),28.0,13.0,9.0
+Shorts (blue),2980.0,234.0,156.0
+Shorts (brown),1304.0,168.0,112.0
+Shorts (yellow),852.0,216.0,144.0
+Shoulder parrot,320576.0,600.0,400.0
+Shrimps,25.0,3.0,2.0
+Shrunk ogleroot,607.0,1.0,1.0
+Sickle mould,24.0,6.0,4.0
+Sigil of adroit,50000.0,1.0,1.0
+Sigil of aggression,200000.0,1.0,1.0
+Sigil of agile fortune,50000.0,,
+Sigil of arcane swiftness,50000.0,1.0,1.0
+Sigil of barrows,50000.0,1.0,1.0
+Sigil of binding,100000.0,1.0,1.0
+Sigil of consistency,50000.0,1.0,1.0
+Sigil of deception,50000.0,1.0,1.0
+Sigil of deft strikes,50000.0,1.0,1.0
+Sigil of devotion,100000.0,1.0,1.0
+Sigil of enhanced harvest,50000.0,1.0,1.0
+Sigil of escaping,100000.0,1.0,1.0
+Sigil of exaggeration,50000.0,1.0,1.0
+Sigil of faith,50000.0,,
+Sigil of finality,200000.0,1.0,1.0
+Sigil of fortification,50000.0,1.0,1.0
+Sigil of freedom,50000.0,1.0,1.0
+Sigil of garments,100000.0,1.0,1.0
+Sigil of gunslinger,50000.0,1.0,1.0
+Sigil of hoarding,50000.0,,
+Sigil of last recall,200000.0,1.0,1.0
+Sigil of lithe,50000.0,1.0,1.0
+Sigil of meticulousness,200000.0,1.0,1.0
+Sigil of mobility,50000.0,1.0,1.0
+Sigil of nature,100000.0,1.0,1.0
+Sigil of onslaught,50000.0,1.0,1.0
+Sigil of pious protection,200000.0,1.0,1.0
+Sigil of precision,50000.0,,
+Sigil of preservation,100000.0,1.0,1.0
+Sigil of prosperity,100000.0,1.0,1.0
+Sigil of rampage,200000.0,1.0,1.0
+Sigil of rampart,50000.0,1.0,1.0
+Sigil of remote storage,200000.0,1.0,1.0
+Sigil of resilience,50000.0,1.0,1.0
+Sigil of resistance,50000.0,,
+Sigil of restoration,50000.0,1.0,1.0
+Sigil of revoked limitation,200000.0,1.0,1.0
+Sigil of slaughter,100000.0,1.0,1.0
+Sigil of specialised strikes,100000.0,1.0,1.0
+Sigil of stamina,50000.0,1.0,1.0
+Sigil of storage,50000.0,1.0,1.0
+Sigil of supreme stamina,100000.0,1.0,1.0
+Sigil of sustenance,50000.0,,
+Sigil of swashbuckler,50000.0,1.0,1.0
+Sigil of the abyss,50000.0,1.0,1.0
+Sigil of the alchemaniac,50000.0,,
+Sigil of the alchemist,50000.0,1.0,1.0
+Sigil of the augmented thrall,50000.0,,
+Sigil of the barbarians,100000.0,1.0,1.0
+Sigil of the bloodhound,50000.0,,
+Sigil of the chef,50000.0,1.0,1.0
+Sigil of the craftsman,50000.0,1.0,1.0
+Sigil of the dwarves,100000.0,1.0,1.0
+Sigil of the elves,100000.0,1.0,1.0
+Sigil of the eternal jeweller,50000.0,1.0,1.0
+Sigil of the feral fighter,100000.0,1.0,1.0
+Sigil of the fletcher,50000.0,1.0,1.0
+Sigil of the food master,200000.0,,
+Sigil of the forager,100000.0,1.0,1.0
+Sigil of the formidable fighter,50000.0,1.0,1.0
+Sigil of the fortune farmer,100000.0,1.0,1.0
+Sigil of the gnomes,100000.0,1.0,1.0
+Sigil of the guardian angel,200000.0,1.0,1.0
+Sigil of the hunter,100000.0,,
+Sigil of the infernal chef,50000.0,,
+Sigil of the infernal smith,50000.0,,
+Sigil of the lightbearer,50000.0,,
+Sigil of the menacing mage,100000.0,1.0,1.0
+Sigil of the meticulous mage,50000.0,1.0,1.0
+Sigil of the ninja,50000.0,,
+Sigil of the porcupine,100000.0,1.0,1.0
+Sigil of the potion master,50000.0,1.0,1.0
+Sigil of the rigorous ranger,50000.0,1.0,1.0
+Sigil of the ruthless ranger,100000.0,1.0,1.0
+Sigil of the serpent,100000.0,1.0,1.0
+Sigil of the skiller,200000.0,1.0,1.0
+Sigil of the smith,50000.0,1.0,1.0
+Sigil of the treasure hunter,50000.0,1.0,1.0
+Sigil of the well-fed,50000.0,,
+Sigil of titanium,50000.0,,
+Sigil of versatility,100000.0,1.0,1.0
+Sigil of woodcraft,50000.0,,
+Silk,120.0,18.0,12.0
+Silver bar,136.0,90.0,60.0
+Silver bolts,5.0,3.0,2.0
+Silver bolts (p),49.0,3.0,2.0
+Silver bolts (p+),127.0,3.0,2.0
+Silver bolts (p++),165.0,3.0,2.0
+Silver bolts (unf),10.0,1.0,1.0
+Silver dust,790.0,120.0,80.0
+Silver locks,11001.0,11520.0,7680.0
+Silver ore,66.0,45.0,30.0
+Silver sickle,162.0,105.0,70.0
+Sinew,216.0,1.0,1.0
+Sinister key,25446.0,48.0,32.0
+Skeletal boots,52935.0,390.0,260.0
+Skeletal bottoms,23538.0,24000.0,16000.0
+Skeletal gloves,135265.0,390.0,260.0
+Skeletal helm,99130.0,6000.0,4000.0
+Skeletal top,27039.0,27000.0,18000.0
+Skeletal visage,15328375.0,900000.0,600000.0
+Skewer,2161.0,1920.0,1280.0
+Skewer stick,33.0,6.0,4.0
+Skills necklace,12148.0,12120.0,8080.0
+Skills necklace(4),12512.0,12120.0,8080.0
+Skills necklace(6),12512.0,12120.0,8080.0
+Skirt (blue),903.0,375.0,250.0
+Skirt (brown),619.0,210.0,140.0
+Skirt (lilac),1136.0,330.0,220.0
+Skull of vet'ion,51423.0,1.0,1.0
+Skull piece,71300.0,36.0,24.0
+Slayer bell,151.0,90.0,60.0
+Slayer's enchantment,2092.0,720.0,480.0
+Slayer's respite,26.0,1.0,1.0
+Slayer's respite(4),15978.0,1.0,1.0
+Slayer's respite(m),68623.0,1.0,1.0
+Slayer's respite(m4),224647.0,1.0,1.0
+Slayer's staff,22485.0,12600.0,8400.0
+Sleeping cap,30336.0,1200.0,800.0
+Sliced banana,79.0,1.0,1.0
+Sliced mushrooms,112.0,25.0,16.0
+Small box hedge (bagged),15908.0,9000.0,6000.0
+Small fishing net,257.0,3.0,2.0
+Smoke battlestaff,2095053.0,9300.0,6200.0
+Smoke rune,52.0,12.0,8.0
+Smouldering stone,2203594.0,27000.0,18000.0
+Snake hide,119.0,21.0,14.0
+Snake hide (swamp),323.0,21.0,14.0
+Snakeskin,12.0,30.0,20.0
+Snakeskin bandana,259.0,180.0,120.0
+Snakeskin body,735.0,750.0,500.0
+Snakeskin boots,211.0,150.0,100.0
+Snakeskin chaps,510.0,705.0,470.0
+Snakeskin shield,349.0,552.0,368.0
+Snakeskin vambraces,195.0,260.0,173.0
+Snapdragon,7838.0,35.0,23.0
+Snapdragon potion (unf),8108.0,35.0,23.0
+Snapdragon seed,41646.0,36.0,24.0
+Snape grass,517.0,6.0,4.0
+Snape grass seed,7096.0,56.0,37.0
+Snowy knight (item),1076.0,30.0,20.0
+Snowy knight mix (1),90.0,30.0,20.0
+Snowy knight mix (2),730.0,30.0,20.0
+Soaked page,2157.0,102.0,68.0
+Soda ash,37.0,1.0,1.0
+Soft clay,127.0,1.0,1.0
+Soiled page,1124.0,120.0,80.0
+Soul rune,182.0,180.0,120.0
+Soulreaper axe,442094148.0,1.0,1.0
+Spade,139.0,1.0,1.0
+Spatula,1551.0,1152.0,768.0
+Spectral sigil,43441293.0,450000.0,300000.0
+Spectral spirit shield,44143561.0,1200000.0,800000.0
+Spice,50.0,138.0,92.0
+Spicy crunchies,1736.0,1.0,1.0
+Spicy minced meat,868.0,4.0,3.0
+Spicy sauce,607.0,5.0,3.0
+Spicy tomato,520.0,1.0,1.0
+Spider carcass,133.0,9.0,6.0
+Spider cave teleport,49248.0,6.0,4.0
+Spider on shaft,213.0,24.0,16.0
+Spider on stick,254.0,30.0,20.0
+Spiked boots,3939.0,18.0,12.0
+Spiked manacles,1165704.0,1500.0,1000.0
+Spiky vambraces,10.0,96.0,64.0
+Spinach roll,378.0,1.0,1.0
+Spined body,4469.0,4680.0,3120.0
+Spined boots,7920.0,390.0,260.0
+Spined chaps,8932.0,2340.0,1560.0
+Spined gloves,2642.0,390.0,260.0
+Spined helm,50414.0,36000.0,24000.0
+Spiny helmet,898.0,390.0,260.0
+Spirit shield,120990.0,42000.0,28000.0
+Split log,762.0,54.0,36.0
+Splitbark body,28758.0,27000.0,18000.0
+Splitbark boots,6631.0,3000.0,2000.0
+Splitbark gauntlets,2451.0,3000.0,2000.0
+Splitbark helm,6392.0,6000.0,4000.0
+Splitbark legs,24284.0,24000.0,16000.0
+Spork,306.0,195.0,130.0
+Spotted cape,1219.0,240.0,160.0
+Spotted kebbit fur,32.0,90.0,60.0
+Spottier cape,591.0,480.0,320.0
+Staff,84.0,9.0,6.0
+Staff of air,1863.0,900.0,600.0
+Staff of balance,23730475.0,1.0,1.0
+Staff of bob the cat,151248.0,900.0,600.0
+Staff of earth,792.0,900.0,600.0
+Staff of fire,1243.0,900.0,600.0
+Staff of light,8009915.0,600003.0,400002.0
+Staff of the dead,8348961.0,600003.0,400002.0
+Staff of water,1604.0,900.0,600.0
+Stale baguette,1548708.0,135.0,90.0
+Stamina mix(1),3054.0,54.0,36.0
+Stamina mix(2),5116.0,96.0,64.0
+Stamina potion(1),1663.0,60.0,40.0
+Stamina potion(2),3080.0,120.0,80.0
+Stamina potion(3),4739.0,180.0,120.0
+Stamina potion(4),6496.0,240.0,160.0
+Statius's warhammer,10000000.0,180000.0,120000.0
+Steam battlestaff,52953.0,10200.0,6800.0
+Steam rune,99.0,12.0,8.0
+Steam staff upgrade kit,384895.0,900.0,600.0
+Steamforge brew,18.0,4.0,3.0
+Steel 2h sword,353.0,600.0,400.0
+Steel arrow,16.0,7.0,4.0
+Steel arrow(p),78.0,7.0,4.0
+Steel arrow(p+),251.0,7.0,4.0
+Steel arrow(p++),1048.0,7.0,4.0
+Steel arrowtips,24.0,3.0,2.0
+Steel axe,67.0,120.0,80.0
+Steel bar,540.0,60.0,40.0
+Steel battleaxe,175.0,390.0,260.0
+Steel bolts,53.0,4.0,3.0
+Steel bolts (p),186.0,4.0,3.0
+Steel bolts (p+),274.0,4.0,3.0
+Steel bolts (p++),916.0,4.0,3.0
+Steel bolts (unf),62.0,1.0,1.0
+Steel boots,233.0,180.0,120.0
+Steel brutal,117.0,12.0,8.0
+Steel chainbody,248.0,450.0,300.0
+Steel claws,143.0,105.0,70.0
+Steel crossbow,173.0,216.0,144.0
+Steel crossbow (u),121.0,196.0,130.0
+Steel dagger,112.0,75.0,50.0
+Steel dagger(p),365.0,75.0,50.0
+Steel dagger(p+),1891.0,75.0,50.0
+Steel dagger(p++),3945.0,75.0,50.0
+Steel dart,3.0,6.0,4.0
+Steel dart tip,88.0,3.0,2.0
+Steel dart(p),43.0,6.0,4.0
+Steel dart(p+),74.0,6.0,4.0
+Steel dart(p++),102.0,6.0,4.0
+Steel dragon mask,6632.0,6000.0,4000.0
+Steel felling axe,1311.0,120.0,80.0
+Steel full helm,138.0,330.0,220.0
+Steel full helm (g),9203.0,330.0,220.0
+Steel full helm (t),9751.0,330.0,220.0
+Steel gold-trimmed set (lg),65417.0,540.0,360.0
+Steel gold-trimmed set (sk),65971.0,540.0,360.0
+Steel halberd,3010.0,600.0,400.0
+Steel hasta,148.0,195.0,130.0
+Steel hasta(p),7716.0,195.0,130.0
+Steel hasta(p+),9472.0,195.0,130.0
+Steel hasta(p++),7339.0,195.0,130.0
+Steel javelin,3.0,14.0,9.0
+Steel javelin heads,67.0,54.0,36.0
+Steel javelin(p),96.0,14.0,9.0
+Steel javelin(p+),14.0,14.0,9.0
+Steel javelin(p++),32.0,14.0,9.0
+Steel kiteshield,295.0,510.0,340.0
+Steel kiteshield (g),9534.0,510.0,340.0
+Steel kiteshield (t),11638.0,510.0,340.0
+Steel knife,48.0,6.0,4.0
+Steel knife(p),157.0,6.0,4.0
+Steel knife(p+),122.0,6.0,4.0
+Steel knife(p++),487.0,6.0,4.0
+Steel limbs,121.0,150.0,100.0
+Steel locks,1516.0,960.0,640.0
+Steel longsword,181.0,300.0,200.0
+Steel mace,55.0,135.0,90.0
+Steel med helm,87.0,180.0,120.0
+Steel nails,26.0,1.0,1.0
+Steel pickaxe,458.0,300.0,200.0
+Steel platebody,886.0,1200.0,800.0
+Steel platebody (g),11523.0,1200.0,800.0
+Steel platebody (t),7230.0,1200.0,800.0
+Steel platelegs,347.0,600.0,400.0
+Steel platelegs (g),4173.0,600.0,400.0
+Steel platelegs (t),4606.0,600.0,400.0
+Steel plateskirt,375.0,600.0,400.0
+Steel plateskirt (g),6311.0,600.0,400.0
+Steel plateskirt (t),3338.0,600.0,400.0
+Steel scimitar,91.0,240.0,160.0
+Steel set (lg),2103.0,840.0,560.0
+Steel set (sk),2128.0,840.0,560.0
+Steel spear,192.0,195.0,130.0
+Steel spear(p),44.0,195.0,130.0
+Steel spear(p+),224.0,195.0,130.0
+Steel spear(p++),495.0,195.0,130.0
+Steel sq shield,144.0,360.0,240.0
+Steel studs,346.0,90.0,60.0
+Steel sword,72.0,195.0,130.0
+Steel thrownaxe,46.0,15.0,10.0
+Steel trimmed set (lg),43774.0,540.0,360.0
+Steel trimmed set (sk),68433.0,540.0,360.0
+Steel warhammer,155.0,384.0,256.0
+Stew,68.0,12.0,8.0
+Stone scarab,177.0,12.0,8.0
+Stone seal,155.0,12.0,8.0
+Stone statuette,237.0,12.0,8.0
+Stony basalt,1021.0,54.0,36.0
+Strange fruit,493.0,1.0,1.0
+Strange old lockpick (full),37136.0,1.0,1.0
+Strawberries(5),623.0,1.0,1.0
+Strawberry,110.0,10.0,6.0
+Strawberry seed,16.0,10.0,7.0
+Strength amulet (t),46563.0,1215.0,810.0
+Strength mix(1),263.0,6.0,4.0
+Strength mix(2),65.0,7.0,5.0
+Strength potion(1),26.0,6.0,4.0
+Strength potion(2),51.0,7.0,5.0
+Strength potion(3),74.0,7.0,5.0
+Strength potion(4),113.0,8.0,5.0
+Stretched hide,1957.0,36.0,24.0
+Stripy feather,12.0,12.0,8.0
+Stripy pirate shirt (beige),392.0,180.0,120.0
+Stripy pirate shirt (blue),810.0,180.0,120.0
+Stripy pirate shirt (brown),765.0,180.0,120.0
+Stripy pirate shirt (red),1058.0,180.0,120.0
+Stronghold notes,320.0,1.0,1.0
+Strung rabbit foot,3279.0,18.0,12.0
+Studded body,449.0,510.0,340.0
+Studded body (g),15861.0,510.0,340.0
+Studded body (t),4874.0,510.0,340.0
+Studded chaps,271.0,450.0,300.0
+Studded chaps (g),34177.0,450.0,300.0
+Studded chaps (t),6982.0,450.0,300.0
+Sturdy harness,924611.0,1.0,1.0
+Sulliuscep cap,4682.0,1.0,1.0
+Sulphur blades,42100.0,18000.0,12000.0
+Summer pie,643.0,84.0,56.0
+Sun-shine,188.0,60.0,40.0
+Sunbeam ale,19.0,4.0,3.0
+Sunfire fanatic armour set,15075369.0,33000.0,22000.0
+Sunfire fanatic chausses,6998177.0,12000.0,8000.0
+Sunfire fanatic cuirass,4910468.0,12000.0,8000.0
+Sunfire fanatic helm,2893548.0,9000.0,6000.0
+Sunfire rune,114.0,12.0,8.0
+Sunfire splinters,558.0,60.0,40.0
+Sunlight antelope antler,2460.0,1.0,1.0
+Sunlight antelope fur,79.0,6.0,4.0
+Sunlight antler bolts,197.0,18.0,12.0
+Sunlight moth (item),462.0,1.0,1.0
+Sunlight moth mix (1),710.0,18.0,12.0
+Sunlight moth mix (2),859.0,18.0,12.0
+Super antifire mix(1),423.0,79.0,52.0
+Super antifire mix(2),2007.0,118.0,79.0
+Super antifire potion(1),3856.0,408.0,272.0
+Super antifire potion(2),7304.0,432.0,288.0
+Super antifire potion(3),15377.0,456.0,304.0
+Super antifire potion(4),23896.0,480.0,320.0
+Super attack(1),298.0,54.0,36.0
+Super attack(2),582.0,81.0,54.0
+Super attack(3),999.0,108.0,72.0
+Super attack(4),1410.0,135.0,90.0
+Super combat potion(1),3542.0,24.0,16.0
+Super combat potion(2),7051.0,54.0,36.0
+Super combat potion(3),10917.0,102.0,68.0
+Super combat potion(4),13756.0,150.0,100.0
+Super def. mix(1),356.0,79.0,52.0
+Super def. mix(2),667.0,118.0,79.0
+Super defence(1),1167.0,79.0,52.0
+Super defence(2),2198.0,118.0,79.0
+Super defence(3),3536.0,158.0,105.0
+Super defence(4),4821.0,198.0,132.0
+Super energy mix(1),992.0,54.0,36.0
+Super energy mix(2),2052.0,96.0,64.0
+Super energy(1),1185.0,54.0,36.0
+Super energy(2),2361.0,96.0,64.0
+Super energy(3),2455.0,138.0,92.0
+Super energy(4),3252.0,180.0,120.0
+Super kebab,991.0,1.0,1.0
+Super potion set,11426.0,60.0,40.0
+Super restore mix(1),4086.0,72.0,48.0
+Super restore mix(2),5013.0,108.0,72.0
+Super restore(1),2584.0,72.0,48.0
+Super restore(2),4980.0,108.0,72.0
+Super restore(3),7683.0,144.0,96.0
+Super restore(4),10461.0,180.0,120.0
+Super str. mix(1),705.0,66.0,44.0
+Super str. mix(2),1494.0,99.0,66.0
+Super strength(1),1076.0,66.0,44.0
+Super strength(2),2141.0,99.0,66.0
+Super strength(3),3364.0,132.0,88.0
+Super strength(4),4587.0,165.0,110.0
+Superantipoison(1),429.0,86.0,57.0
+Superantipoison(2),753.0,129.0,86.0
+Superantipoison(3),998.0,172.0,115.0
+Superantipoison(4),1406.0,216.0,144.0
+Superattack mix(1),214.0,54.0,36.0
+Superattack mix(2),162.0,81.0,54.0
+Supercompost,68.0,51.0,34.0
+Superior dragon bones,25600.0,96.0,64.0
+Swamp lizard,127.0,30.0,20.0
+Swamp paste,6.0,18.0,12.0
+Swamp tar,3.0,1.0,1.0
+Swamp toad (item),261.0,1.0,1.0
+Swamp weed,428.0,1.0,1.0
+Swampbark body,86833.0,1.0,1.0
+Swampbark boots,22109.0,1.0,1.0
+Swampbark gauntlets,18847.0,6000.0,4000.0
+Swampbark helm,32891.0,1.0,1.0
+Swampbark legs,83469.0,1.0,1.0
+Sweetcorn,53.0,5.0,3.0
+Sweetcorn (bowl),418.0,7.0,5.0
+Sweetcorn seed,4.0,4.0,3.0
+Swift blade,12243530.0,1.0,1.0
+Swordfish,166.0,48.0,32.0
+Tai bwo wannai teleport,4926.0,6.0,4.0
+Tall box hedge (bagged),109968.0,60000.0,40000.0
+Tall fancy hedge (bagged),47884.0,30000.0,20000.0
+Tan cavalier,3446.0,120.0,80.0
+Tangled toad's legs,1024.0,1.0,1.0
+Tanzanite fang,6685207.0,66000.0,44000.0
+Target teleport,8624.0,1.0,1.0
+Target teleport scroll,8831966.0,18000.0,12000.0
+Tarromin,331.0,6.0,4.0
+Tarromin potion (unf),398.0,6.0,4.0
+Tarromin seed,17.0,1.0,1.0
+Tarromin tar,1.0,1.0,1.0
+Tatty graahk fur,197.0,54.0,36.0
+Tatty kyatt fur,70.0,72.0,48.0
+Tatty larupia fur,274.0,36.0,24.0
+Te salt,66.0,6.0,4.0
+Teacher wand,1848868.0,1200.0,800.0
+Teak armchair (flatpack),38.0,6.0,4.0
+Teak armour case (flatpack),186.0,6.0,4.0
+Teak bed (flatpack),2091.0,6.0,4.0
+Teak bird house,1410.0,3.0,2.0
+Teak cape rack (flatpack),54.0,6.0,4.0
+Teak clock (flatpack),1804.0,6.0,4.0
+Teak dining bench (flatpack),116.0,6.0,4.0
+Teak drawers (flatpack),94.0,6.0,4.0
+Teak dresser (flatpack),173.0,6.0,4.0
+Teak fancy dress box (flatpack),263.0,6.0,4.0
+Teak kitchen table (flatpack),50.0,6.0,4.0
+Teak logs,256.0,18.0,12.0
+Teak magic wardrobe (flatpack),66.0,6.0,4.0
+Teak plank,981.0,300.0,200.0
+Teak pyre logs,3572.0,60.0,40.0
+Teak sapling,623.0,1.0,1.0
+Teak seed,156.0,28.0,19.0
+Teak stock,42.0,46.0,30.0
+Teak table (flatpack),1.0,6.0,4.0
+Teak toy box (flatpack),43.0,6.0,4.0
+Teak treasure chest (flatpack),182.0,6.0,4.0
+Teak wardrobe (flatpack),160.0,6.0,4.0
+Teal boots,1621.0,300.0,200.0
+Teal gloves,664.0,300.0,200.0
+Teal hat,1681.0,300.0,200.0
+Teal robe bottoms,407.0,300.0,200.0
+Teal robe top,556.0,300.0,200.0
+Team cape i,1701010.0,30.0,20.0
+Team cape x,1939271.0,30.0,20.0
+Team cape zero,4627078.0,30.0,20.0
+Team-1 cape,873.0,30.0,20.0
+Team-10 cape,393.0,30.0,20.0
+Team-11 cape,867.0,30.0,20.0
+Team-12 cape,683.0,30.0,20.0
+Team-13 cape,400.0,30.0,20.0
+Team-14 cape,896.0,30.0,20.0
+Team-15 cape,1001.0,30.0,20.0
+Team-16 cape,129.0,30.0,20.0
+Team-17 cape,424.0,30.0,20.0
+Team-18 cape,933.0,30.0,20.0
+Team-19 cape,486.0,30.0,20.0
+Team-2 cape,441.0,30.0,20.0
+Team-20 cape,294.0,30.0,20.0
+Team-21 cape,621.0,30.0,20.0
+Team-22 cape,846.0,30.0,20.0
+Team-23 cape,296.0,30.0,20.0
+Team-24 cape,886.0,30.0,20.0
+Team-25 cape,928.0,30.0,20.0
+Team-26 cape,46.0,30.0,20.0
+Team-27 cape,536.0,30.0,20.0
+Team-28 cape,498.0,30.0,20.0
+Team-29 cape,142.0,30.0,20.0
+Team-3 cape,221.0,30.0,20.0
+Team-30 cape,431.0,30.0,20.0
+Team-31 cape,441.0,30.0,20.0
+Team-32 cape,586.0,30.0,20.0
+Team-33 cape,335.0,30.0,20.0
+Team-34 cape,619.0,30.0,20.0
+Team-35 cape,948.0,30.0,20.0
+Team-36 cape,31.0,30.0,20.0
+Team-37 cape,101.0,30.0,20.0
+Team-38 cape,546.0,30.0,20.0
+Team-39 cape,230.0,30.0,20.0
+Team-4 cape,472.0,30.0,20.0
+Team-40 cape,491.0,30.0,20.0
+Team-41 cape,686.0,30.0,20.0
+Team-42 cape,726.0,30.0,20.0
+Team-43 cape,365.0,30.0,20.0
+Team-44 cape,503.0,30.0,20.0
+Team-45 cape,939.0,30.0,20.0
+Team-46 cape,134.0,30.0,20.0
+Team-47 cape,612.0,30.0,20.0
+Team-48 cape,733.0,30.0,20.0
+Team-49 cape,279.0,30.0,20.0
+Team-5 cape,513.0,30.0,20.0
+Team-50 cape,291.0,30.0,20.0
+Team-6 cape,136.0,30.0,20.0
+Team-7 cape,382.0,30.0,20.0
+Team-8 cape,417.0,30.0,20.0
+Team-9 cape,106.0,30.0,20.0
+Teasing stick,4.0,30.0,20.0
+Tecu salamander,379446.0,120.0,80.0
+Teleport anchoring scroll,1301601.0,1.0,1.0
+Teleport card,183.0,,
+Teleport to house (tablet),485.0,1.0,1.0
+Thammaron's sceptre (au),3100050.0,1.0,1.0
+Thammaron's sceptre (u),2909033.0,72000.0,48000.0
+Thatch spar dense,108.0,12.0,8.0
+Thatch spar light,3.0,6.0,4.0
+Thatch spar med,6.0,9.0,6.0
+Thieving bag,16156.0,600.0,400.0
+Thin snail,145.0,3.0,2.0
+Thin snail meat,409.0,6.0,4.0
+Thorny hedge (bagged),5477.0,3000.0,2000.0
+Thread,11.0,1.0,1.0
+Tiara,101.0,60.0,40.0
+Tiara mould,126.0,60.0,40.0
+Timber beam,558.0,1.0,1.0
+Tin ore,17.0,1.0,1.0
+Tinderbox,84.0,1.0,1.0
+Toad batta,1629.0,1.0,1.0
+Toad crunchies,4343.0,1.0,1.0
+Toad's legs,546.0,1.0,1.0
+Toadflax,3178.0,28.0,19.0
+Toadflax potion (unf),3334.0,28.0,19.0
+Toadflax seed,995.0,6.0,4.0
+Toktz-ket-xil,530584.0,27000.0,18000.0
+Toktz-mej-tal,465930.0,21000.0,14000.0
+Toktz-xil-ak,456342.0,24000.0,16000.0
+Toktz-xil-ek,59309.0,15000.0,10000.0
+Toktz-xil-ul,2464.0,150.0,100.0
+Tomato,24.0,2.0,1.0
+Tomato seed,3.0,2.0,1.0
+Tomatoes(5),271.0,1.0,1.0
+Tome of earth (empty),557046.0,12000.0,8000.0
+Tome of fire (empty),648153.0,12000.0,8000.0
+Tome of water (empty),564620.0,11700.0,7800.0
+Tonalztics of ralos (uncharged),89209701.0,90000.0,60000.0
+Tonameyo white,626.0,360.0,240.0
+Tooth half of key,11334.0,60.0,40.0
+Top hat,114393.0,1080.0,720.0
+Top hat & monocle,196165.0,2400.0,1600.0
+Topaz amulet,3070.0,750.0,500.0
+Topaz amulet (u),2856.0,765.0,510.0
+Topaz bolt tips,205.0,7.0,5.0
+Topaz bolts,313.0,13.0,8.0
+Topaz bolts (e),9.0,14.0,9.0
+Topaz bracelet,2431.0,900.0,600.0
+Topaz dragon bolts,1184.0,420.0,280.0
+Topaz dragon bolts (e),1007.0,438.0,292.0
+Topaz necklace,1325.0,855.0,570.0
+Topaz ring,2449.0,855.0,570.0
+Topiary hedge (bagged),24195.0,12000.0,8000.0
+Torag's armour set,770057.0,240000.0,160000.0
+Torag's hammers,95434.0,96000.0,64000.0
+Torag's hammers 0,95828.0,96000.0,64000.0
+Torag's helm,126977.0,61800.0,41200.0
+Torag's helm 0,90893.0,61800.0,41200.0
+Torag's platebody,223333.0,168000.0,112000.0
+Torag's platebody 0,171205.0,168000.0,112000.0
+Torag's platelegs,300919.0,165000.0,110000.0
+Torag's platelegs 0,236572.0,165000.0,110000.0
+Tormented bracelet,22816461.0,120600.0,80400.0
+Tormented ornament kit,1569214.0,3000.0,2000.0
+Tormented synapse,48194936.0,1.0,1.0
+Torn prayer scroll,47077.0,48000.0,32000.0
+Torstol,2939.0,45.0,30.0
+Torstol potion (unf),3155.0,15.0,10.0
+Torstol seed,4827.0,42.0,28.0
+Tortoise shell,6232.0,600.0,400.0
+Torture ornament kit,276597.0,3000.0,2000.0
+Torva full helm,193981041.0,120000.0,80000.0
+Torva full helm (damaged),183686836.0,120000.0,80000.0
+Torva platebody,333563131.0,360000.0,240000.0
+Torva platebody (damaged),312734037.0,360000.0,240000.0
+Torva platelegs,274064890.0,240000.0,160000.0
+Torva platelegs (damaged),255590013.0,240000.0,160000.0
+Toxic blowpipe (empty),6764931.0,72000.0,48000.0
+Toxic staff (uncharged),13159653.0,600003.0,400002.0
+Toy cat,3455.0,6.0,4.0
+Toy doll,2796.0,6.0,4.0
+Toy doll (wound),4086.0,6.0,4.0
+Toy mouse,3006.0,6.0,4.0
+Toy mouse (wound),4331.0,6.0,4.0
+Toy soldier,2755.0,6.0,4.0
+Toy soldier (wound),3935.0,6.0,4.0
+Trading sticks,8.0,1.0,1.0
+Trailblazer banner,144880.0,600.0,400.0
+Trailblazer boots (t1),21065.0,9000.0,6000.0
+Trailblazer boots (t2),170737.0,9000.0,6000.0
+Trailblazer boots (t3),836035.0,90000.0,60000.0
+Trailblazer cane,860125.0,90000.0,60000.0
+Trailblazer globe,2384285.0,24000.0,16000.0
+Trailblazer graceful ornament kit,344090.0,15000.0,10000.0
+Trailblazer hood (t1),25763.0,9000.0,6000.0
+Trailblazer hood (t2),149305.0,9000.0,6000.0
+Trailblazer hood (t3),724866.0,90000.0,60000.0
+Trailblazer relic hunter (t1) armour set,701936.0,30000.0,20000.0
+Trailblazer relic hunter (t2) armour set,1907795.0,30000.0,20000.0
+Trailblazer relic hunter (t3) armour set,6564354.0,30000.0,20000.0
+Trailblazer reloaded alchemy scroll,1231527.0,15000.0,10000.0
+Trailblazer reloaded banner,47611.0,600.0,400.0
+Trailblazer reloaded blowpipe ornament kit,3198172.0,3000.0,2000.0
+Trailblazer reloaded boots (t1),123640.0,9000.0,6000.0
+Trailblazer reloaded boots (t2),194702.0,9000.0,6000.0
+Trailblazer reloaded boots (t3),284527.0,9000.0,6000.0
+Trailblazer reloaded bulwark ornament kit,5058200.0,3000.0,2000.0
+Trailblazer reloaded death scroll,1789449.0,15000.0,10000.0
+Trailblazer reloaded headband (t1),120208.0,9000.0,6000.0
+Trailblazer reloaded headband (t2),206398.0,9000.0,6000.0
+Trailblazer reloaded headband (t3),311812.0,9000.0,6000.0
+Trailblazer reloaded home teleport scroll,597075.0,15000.0,10000.0
+Trailblazer reloaded rejuvenation pool scroll,5176020.0,15000.0,10000.0
+Trailblazer reloaded relic hunter (t1) armour set,258554.0,30000.0,20000.0
+Trailblazer reloaded relic hunter (t2) armour set,1251568.0,30000.0,20000.0
+Trailblazer reloaded relic hunter (t3) armour set,6607182.0,30000.0,20000.0
+Trailblazer reloaded top (t1),119727.0,9000.0,6000.0
+Trailblazer reloaded top (t2),208529.0,9000.0,6000.0
+Trailblazer reloaded top (t3),327477.0,9000.0,6000.0
+Trailblazer reloaded torch,461876.0,9000.0,6000.0
+Trailblazer reloaded trousers (t1),128786.0,9000.0,6000.0
+Trailblazer reloaded trousers (t2),196573.0,9000.0,6000.0
+Trailblazer reloaded trousers (t3),273662.0,9000.0,6000.0
+Trailblazer reloaded vengeance scroll,4150876.0,15000.0,10000.0
+Trailblazer rug,2880221.0,30000.0,20000.0
+Trailblazer teleport scroll,581562.0,15000.0,10000.0
+Trailblazer tool ornament kit,917247.0,15000.0,10000.0
+Trailblazer top (t1),24652.0,9000.0,6000.0
+Trailblazer top (t2),169604.0,9000.0,6000.0
+Trailblazer top (t3),1548656.0,90000.0,60000.0
+Trailblazer trousers (t1),17119.0,9000.0,6000.0
+Trailblazer trousers (t2),134071.0,9000.0,6000.0
+Trailblazer trousers (t3),713377.0,90000.0,60000.0
+Trapper's tipple,247.0,1.0,1.0
+Treasonous ring,114936.0,30000.0,20000.0
+Triangle sandwich,767.0,15.0,10.0
+Tribal mask (combat),2273.0,300.0,200.0
+Tribal mask (disease),3141.0,300.0,200.0
+Tribal mask (poison),3802.0,300.0,200.0
+Tribal top (blue),4889.0,180.0,120.0
+Tribal top (brown),4357.0,180.0,120.0
+Tribal top (pink),5046.0,180.0,120.0
+Tribal top (yellow),4410.0,180.0,120.0
+Trident of the seas (full),774547.0,41400.0,27600.0
+Trinket of advanced weaponry,131122.0,1.0,1.0
+Trinket of fairies,61720.0,1.0,1.0
+Trinket of undead,78009.0,1.0,1.0
+Trinket of vengeance,129739.0,1.0,1.0
+Trousers (blue),758.0,450.0,300.0
+Trousers (brown),604.0,330.0,220.0
+Trousers (lilac),931.0,420.0,280.0
+Trout,40.0,6.0,4.0
+Trouver parchment,799988.0,1.0,1.0
+Tumeken's shadow (uncharged),1205407638.0,1.0,1.0
+Tuna,100.0,24.0,16.0
+Tuna and corn,880.0,67.0,45.0
+Tuna potato,1637.0,67.0,45.0
+Turquoise boots,445.0,120.0,80.0
+Turquoise hat,1010.0,96.0,64.0
+Turquoise robe bottoms,1100.0,108.0,72.0
+Turquoise robe top,958.0,108.0,72.0
+Twinflame staff,9274955.0,1.0,1.0
+Twisted banner,315241.0,600.0,400.0
+Twisted blueprints,2434683.0,15000.0,10000.0
+Twisted boots (t1),50653.0,600.0,400.0
+Twisted boots (t2),108810.0,6000.0,4000.0
+Twisted boots (t3),512171.0,60000.0,40000.0
+Twisted bow,1583805435.0,2400000.0,1600000.0
+Twisted buckler,15100860.0,54000.0,36000.0
+Twisted cane,1220417.0,600.0,400.0
+Twisted coat (t1),447856.0,600.0,400.0
+Twisted coat (t2),446769.0,6000.0,4000.0
+Twisted coat (t3),3636647.0,60000.0,40000.0
+Twisted hat (t1),211059.0,600.0,400.0
+Twisted hat (t2),185116.0,6000.0,4000.0
+Twisted hat (t3),894856.0,60000.0,40000.0
+Twisted horns,2744481.0,60000.0,40000.0
+Twisted relic hunter (t1) armour set,683899.0,30000.0,20000.0
+Twisted relic hunter (t2) armour set,1646451.0,30000.0,20000.0
+Twisted relic hunter (t3) armour set,5031393.0,30000.0,20000.0
+Twisted teleport scroll,406803.0,15000.0,10000.0
+Twisted trousers (t1),42749.0,600.0,400.0
+Twisted trousers (t2),102991.0,6000.0,4000.0
+Twisted trousers (t3),440023.0,60000.0,40000.0
+Tyrannical ring,202043.0,30000.0,20000.0
+Tyras helm,1316.0,330.0,220.0
+Tzhaar-ket-em,291691.0,18000.0,12000.0
+Tzhaar-ket-om,457002.0,30000.0,20000.0
+Tzhaar-ket-om ornament kit,4341.0,3000.0,2000.0
+Ugthanki & onion,9.0,4.0,2.0
+Ugthanki & tomato,10.0,4.0,2.0
+Ugthanki kebab,732.0,12.0,8.0
+Ugthanki meat,782.0,3.0,2.0
+Ultor ring,196644099.0,1.0,1.0
+Ultracompost,390.0,51.0,34.0
+Unblessed symbol,90.0,120.0,80.0
+Uncharged toxic trident,4674934.0,46800.0,31200.0
+Uncharged toxic trident (e),10571900.0,64800.0,43200.0
+Uncharged trident,39999.0,40800.0,27200.0
+Uncharged trident (e),6012555.0,58800.0,39200.0
+Uncooked apple pie,451.0,9.0,6.0
+Uncooked berry pie,511.0,3.0,2.0
+Uncooked botanical pie,2370.0,9.0,6.0
+Uncooked dragonfruit pie,2093.0,24.0,16.0
+Uncooked egg,16.0,4.0,3.0
+Uncooked meat pie,555.0,4.0,3.0
+Uncooked mushroom pie,6122.0,9.0,6.0
+Uncut diamond,2687.0,120.0,80.0
+Uncut dragonstone,17789.0,600.0,400.0
+Uncut emerald,496.0,30.0,20.0
+Uncut jade,88.0,18.0,12.0
+Uncut onyx,2752558.0,120000.0,80000.0
+Uncut opal,210.0,12.0,8.0
+Uncut red topaz,1587.0,24.0,16.0
+Uncut ruby,1052.0,60.0,40.0
+Uncut sapphire,267.0,15.0,10.0
+Uncut zenyte,14777709.0,45000.0,30000.0
+Unfinished broad bolts,55.0,33.0,22.0
+Unfinished potion,369.0,6.0,4.0
+Unfired bowl,181.0,1.0,1.0
+Unfired cup,37.0,1.0,1.0
+Unfired pie dish,160.0,1.0,1.0
+Unfired plant pot,130.0,1.0,1.0
+Unfired pot,168.0,1.0,1.0
+Unfired pot lid,112.0,6.0,4.0
+Unholy blessing,27857.0,48.0,32.0
+Unholy book page set,34560.0,4200.0,2800.0
+Unholy symbol,135.0,120.0,80.0
+Unicorn horn,801.0,12.0,8.0
+Unicorn horn dust,899.0,12.0,8.0
+Unlit bug lantern,439.0,78.0,52.0
+Unlit torch,1.0,2.0,1.0
+Unpowered orb,72.0,60.0,40.0
+Unpowered symbol,144.0,120.0,80.0
+Unstrung comp bow,716.0,54.0,36.0
+Unstrung emblem,154.0,120.0,80.0
+Unstrung heavy ballista,275980.0,30000.0,20000.0
+Unstrung light ballista,86471.0,30000.0,20000.0
+Unstrung symbol,84.0,120.0,80.0
+Uri's hat,15255.0,600.0,400.0
+Urium remains,6112.0,1.0,1.0
+Ursine chainmace (u),7362217.0,1.0,1.0
+Urt salt,65.0,6.0,4.0
+Vampyre dust,1116.0,1.0,1.0
+Varlamorian kebab,99.0,1.0,1.0
+Varrock teleport (tablet),407.0,1.0,1.0
+Veg ball,1356.0,1.0,1.0
+Vegetable batta,3744.0,1.0,1.0
+Venator bow (uncharged),69624596.0,1.0,1.0
+Venator ring,69910655.0,1.0,1.0
+Venator shard,13747513.0,1.0,1.0
+Verac's armour set,765516.0,240000.0,160000.0
+Verac's brassard,198435.0,168000.0,112000.0
+Verac's brassard 0,166164.0,168000.0,112000.0
+Verac's flail,103969.0,96000.0,64000.0
+Verac's flail 0,95568.0,96000.0,64000.0
+Verac's helm,119937.0,61800.0,41200.0
+Verac's helm 0,75783.0,61800.0,41200.0
+Verac's plateskirt,285611.0,165000.0,110000.0
+Verac's plateskirt 0,229618.0,165000.0,110000.0
+Vesta's longsword,10000000.0,180000.0,120000.0
+Vesta's spear,10000000.0,180000.0,120000.0
+Vial,3.0,1.0,1.0
+Vial of blood,14816.0,60.0,40.0
+Vial of water,4.0,1.0,1.0
+Viggora's chainmace (u),7226888.0,72000.0,48000.0
+Vile ashes,270.0,1.0,1.0
+Villager armband (blue),921.0,90.0,60.0
+Villager armband (brown),1113.0,90.0,60.0
+Villager armband (pink),1142.0,90.0,60.0
+Villager armband (yellow),864.0,90.0,60.0
+Villager hat (blue),4042.0,120.0,80.0
+Villager hat (brown),3417.0,120.0,80.0
+Villager hat (pink),2808.0,120.0,80.0
+Villager hat (yellow),3708.0,120.0,80.0
+Villager robe (blue),4041.0,150.0,100.0
+Villager robe (brown),3874.0,150.0,100.0
+Villager robe (pink),3013.0,150.0,100.0
+Villager robe (yellow),2507.0,150.0,100.0
+Villager sandals (blue),3130.0,60.0,40.0
+Villager sandals (brown),3397.0,60.0,40.0
+Villager sandals (pink),4191.0,60.0,40.0
+Villager sandals (yellow),3668.0,60.0,40.0
+Virtus mask,4179393.0,120000.0,80000.0
+Virtus robe bottom,28976997.0,240000.0,160000.0
+Virtus robe top,58529730.0,360000.0,240000.0
+Vodka,195.0,3.0,2.0
+Voidwaker,71702727.0,1.0,1.0
+Voidwaker blade,7177600.0,1.0,1.0
+Voidwaker gem,46176665.0,1.0,1.0
+Voidwaker hilt,17051175.0,1.0,1.0
+Volatile orb,129316885.0,2400000.0,1600000.0
+Volcanic ash,66.0,120.0,80.0
+Volcanic whip mix,962798.0,1.0,1.0
+Vyrewatch legs,3967.0,300.0,200.0
+Vyrewatch shoes,3123.0,300.0,200.0
+Vyrewatch top,3198.0,300.0,200.0
+War blessing,10283.0,48.0,32.0
+Ward upgrade kit,695580.0,900.0,600.0
+Warped sceptre (uncharged),92274.0,1.0,1.0
+Warrior helm,41636.0,36000.0,24000.0
+Warrior icon,84926.0,1.0,1.0
+Warrior ring,68524.0,6000.0,4000.0
+Watchtower teleport (tablet),383.0,1.0,1.0
+Water battlestaff,9037.0,9300.0,6200.0
+Water orb,782.0,180.0,120.0
+Water rune,5.0,2.0,1.0
+Water talisman,157.0,2.0,1.0
+Water tiara,12.0,60.0,40.0
+Waterbirth teleport (tablet),812.0,1.0,1.0
+Watering can,211.0,4.0,3.0
+Watermelon,35.0,28.0,19.0
+Watermelon seed,59.0,33.0,22.0
+Watermelon slice,75.0,9.0,6.0
+Waterskin(0),41.0,9.0,6.0
+Waterskin(4),107.0,18.0,12.0
+Watson teleport,13928.0,6.0,4.0
+Weapon poison,307.0,86.0,57.0
+Weapon poison(+),713.0,172.0,115.0
+Weapon poison(++),3369.0,259.0,172.0
+Webweaver bow (u),19992084.0,1.0,1.0
+Weeds,252.0,1.0,1.0
+West ardougne teleport (tablet),2435.0,1.0,1.0
+Whisky,183.0,3.0,2.0
+White 2h sword,1541.0,1152.0,768.0
+White apron,50.0,1.0,1.0
+White battleaxe,3784.0,748.0,499.0
+White bead,3536.0,2.0,1.0
+White beret,61257.0,48.0,32.0
+White berries,897.0,6.0,4.0
+White boater,3607.0,135.0,90.0
+White boots,1836.0,345.0,230.0
+White cavalier,11377.0,120.0,80.0
+White chainbody,1193.0,864.0,576.0
+White claws,2194.0,216.0,144.0
+White dagger,240.0,144.0,96.0
+White dagger(p),151.0,144.0,96.0
+White dagger(p+),174.0,144.0,96.0
+White dagger(p++),424.0,144.0,96.0
+White dark bow paint,764761.0,1.0,1.0
+White elegant blouse,67368.0,1200.0,800.0
+White elegant skirt,22666.0,1200.0,800.0
+White firelighter,85.0,9.0,6.0
+White flowers,239042.0,60.0,40.0
+White full helm,1954.0,633.0,422.0
+White gloves,931.0,3.0,2.0
+White halberd,2416.0,1152.0,768.0
+White headband,2970.0,24.0,16.0
+White kiteshield,2042.0,979.0,652.0
+White lily,406.0,3.0,2.0
+White lily seed,4263.0,180.0,120.0
+White longsword,1574.0,576.0,384.0
+White mace,601.0,259.0,172.0
+White magic staff,1970.0,120.0,80.0
+White med helm,1371.0,345.0,230.0
+White partyhat,9361.0,1.0,1.0
+White platebody,5783.0,2304.0,1536.0
+White platelegs,3026.0,1152.0,768.0
+White plateskirt,2337.0,1152.0,768.0
+White scimitar,1049.0,460.0,307.0
+White sq shield,1916.0,691.0,460.0
+White sword,1696.0,374.0,249.0
+White toy horsey,283.0,60.0,40.0
+White unicorn mask,8918.0,600.0,400.0
+White warhammer,1561.0,588.0,392.0
+Whiteberry seed,12.0,79.0,53.0
+Wild pie,592.0,109.0,72.0
+Wildblood hops,29.0,9.0,6.0
+Wildblood seed,35.0,8.0,5.0
+Wilderness crabs teleport,36132.0,37.0,24.0
+Willow bird house,1055.0,3.0,2.0
+Willow blackjack,169.0,360.0,240.0
+Willow blackjack(d),1434.0,480.0,320.0
+Willow blackjack(o),2180.0,480.0,320.0
+Willow branch,2120.0,1.0,1.0
+Willow comp bow,2271.0,180.0,120.0
+Willow leaves,140.0,1.0,1.0
+Willow logs,83.0,24.0,16.0
+Willow longbow,116.0,192.0,128.0
+Willow longbow (u),79.0,96.0,64.0
+Willow pyre logs,3198.0,48.0,32.0
+Willow roots,56.0,1.0,1.0
+Willow sapling,692.0,1.0,1.0
+Willow seed,145.0,9.0,6.0
+Willow shield,2.0,96.0,64.0
+Willow shortbow,109.0,120.0,80.0
+Willow shortbow (u),42.0,60.0,40.0
+Willow stock,4.0,31.0,21.0
+Wine of zamorak,953.0,1.0,1.0
+Wizard blizzard,78.0,18.0,12.0
+Wizard boots,277711.0,120.0,80.0
+Wizard hat,372.0,1.0,1.0
+Wizard's mind bomb,90.0,1.0,1.0
+Woad leaf,58.0,1.0,1.0
+Woad seed,11.0,6.0,4.0
+Wolf bones,481.0,1.0,1.0
+Wolf cloak,27994.0,600.0,400.0
+Wolf mask,30389.0,1440.0,960.0
+Wolfbone arrowtips,76.0,1.0,1.0
+Wood camo legs,6344.0,12.0,8.0
+Wood camo top,6981.0,12.0,8.0
+Wood dining table (flatpack),2.0,6.0,4.0
+Wooden bed (flatpack),1009.0,6.0,4.0
+Wooden bench (flatpack),30.0,6.0,4.0
+Wooden cat,4270.0,1.0,1.0
+Wooden chair (flatpack),1527.0,6.0,4.0
+Wooden shield,178.0,12.0,8.0
+Wooden shield (g),363826.0,12.0,8.0
+Wooden spoon,108.0,21.0,14.0
+Wooden stock,10.0,12.0,8.0
+Wool,124.0,1.0,1.0
+Worm batta,2347.0,1.0,1.0
+Worm crunchies,4028.0,1.0,1.0
+Worm hole,3257.0,1.0,1.0
+Woven top (blue),1731.0,390.0,260.0
+Woven top (brown),952.0,300.0,200.0
+Woven top (yellow),918.0,375.0,250.0
+Wrapped oomlie,7318.0,9.0,6.0
+Wrath rune,321.0,300.0,200.0
+Wrath talisman,491.0,2.0,1.0
+Wrath tiara,97.0,300.0,200.0
+Wyrm bones,2338.0,96.0,64.0
+Wyrmling bones,480.0,1.0,1.0
+Wyvern bones,3850.0,96.0,64.0
+Wyvern visage,27883960.0,450000.0,300000.0
+Xerician fabric,1348.0,1.0,1.0
+Xerician hat,4305.0,36.0,24.0
+Xerician robe,5440.0,42.0,28.0
+Xerician top,6635.0,48.0,32.0
+Yak-hide,301.0,30.0,20.0
+Yak-hide armour (legs),576.0,300.0,200.0
+Yak-hide armour (top),1688.0,300.0,200.0
+Yanillian hops,965.0,4.0,2.0
+Yanillian seed,5.0,3.0,2.0
+Yellow bead,2014.0,2.0,1.0
+Yellow boots,1864.0,300.0,200.0
+Yellow cape,206.0,19.0,12.0
+Yellow dark bow paint,68240.0,1.0,1.0
+Yellow dye,439.0,3.0,2.0
+Yellow feather,76.0,7.0,5.0
+Yellow flowers,59.0,60.0,40.0
+Yellow gloves,1564.0,300.0,200.0
+Yellow hat,1411.0,300.0,200.0
+Yellow partyhat,6279.0,1.0,1.0
+Yellow robe bottoms,740.0,300.0,200.0
+Yellow robe top,802.0,300.0,200.0
+Yew bird house,1413.0,3.0,2.0
+Yew comp bow,1990.0,1080.0,720.0
+Yew leaves,450.0,1.0,1.0
+Yew logs,286.0,96.0,64.0
+Yew longbow,586.0,768.0,512.0
+Yew longbow (u),357.0,384.0,256.0
+Yew pyre logs,3279.0,192.0,128.0
+Yew roots,146.0,1.0,1.0
+Yew sapling,30519.0,1.0,1.0
+Yew seed,28245.0,85.0,57.0
+Yew shield,125.0,384.0,256.0
+Yew shortbow,407.0,480.0,320.0
+Yew shortbow (u),175.0,240.0,160.0
+Yew stock,135.0,100.0,66.0
+Young impling jar,2088.0,30.0,20.0
+Zalcano shard,90210.0,960.0,640.0
+Zamorak armour set (lg),1024671.0,48000.0,32000.0
+Zamorak armour set (sk),1009875.0,48000.0,32000.0
+Zamorak bracers,120904.0,2400.0,1600.0
+Zamorak brew(1),481.0,75.0,50.0
+Zamorak brew(2),812.0,90.0,60.0
+Zamorak brew(3),733.0,105.0,70.0
+Zamorak brew(4),962.0,120.0,80.0
+Zamorak chaps,427618.0,3600.0,2400.0
+Zamorak cloak,37375.0,1200.0,800.0
+Zamorak coif,65060.0,1200.0,800.0
+Zamorak crozier,6948.0,3000.0,2000.0
+Zamorak d'hide body,239859.0,7800.0,5200.0
+Zamorak d'hide boots,723860.0,5580.0,3720.0
+Zamorak d'hide shield,399216.0,17000.0,11333.0
+Zamorak dragonhide set,908299.0,5400.0,3600.0
+Zamorak full helm,858728.0,21120.0,14080.0
+Zamorak godsword,16671507.0,750000.0,500000.0
+Zamorak godsword ornament kit,240021.0,3000.0,2000.0
+Zamorak hilt,16115120.0,300000.0,200000.0
+Zamorak kiteshield,43166.0,32640.0,21760.0
+Zamorak mitre,28753.0,3000.0,2000.0
+Zamorak mix(1),263.0,75.0,50.0
+Zamorak mix(2),595.0,90.0,60.0
+Zamorak mjolnir,7668.0,375.0,250.0
+Zamorak monk bottom,6456.0,18.0,12.0
+Zamorak monk top,599.0,24.0,16.0
+Zamorak page 1,4790.0,120.0,80.0
+Zamorak page 2,5256.0,120.0,80.0
+Zamorak page 3,4804.0,120.0,80.0
+Zamorak page 4,5789.0,120.0,80.0
+Zamorak platebody,41075.0,39000.0,26000.0
+Zamorak platelegs,47186.0,38400.0,25600.0
+Zamorak plateskirt,38239.0,38400.0,25600.0
+Zamorak robe legs,57089.0,4200.0,2800.0
+Zamorak robe top,112797.0,4200.0,2800.0
+Zamorak stole,5410.0,1500.0,1000.0
+Zamorak's grapes,1271.0,30.0,20.0
+Zamorakian hasta,2591434.0,180000.0,120000.0
+Zamorakian spear,2330678.0,60003.0,40002.0
+Zaryte crossbow,343253458.0,594000.0,396000.0
+Zaryte vambraces,84532728.0,120000.0,80000.0
+Zenyte,14929098.0,45000.0,30000.0
+Zenyte amulet,17212368.0,121200.0,80800.0
+Zenyte amulet (u),14601928.0,45000.0,30000.0
+Zenyte bracelet,19673251.0,120600.0,80400.0
+Zenyte necklace,20891062.0,121200.0,80800.0
+Zenyte ring,19994180.0,120600.0,80400.0
+Zenyte shard,19887165.0,45000.0,30000.0
+Zogre bones,852.0,1.0,1.0
+Zombie axe,1497038.0,1.0,1.0
+Zombie head (Treasure Trails),5177.0,3000.0,2000.0
+Zombie helmet,253782.0,1.0,1.0
+Zombie pirate key,23721.0,1.0,1.0
+Zul-andra teleport,11991.0,6.0,4.0
+Zulrah's scales,227.0,12.0,8.0
+Zuriel's staff,10000000.0,180000.0,120000.0
+Blighted bind sack,,1.0,1.0
+Blighted snare sack,,1.0,1.0
+Crystal 2h axe,,1.0,1.0
+Crystal 2h axe (inactive),,1.0,1.0
+Desert camo legs (equipped),,12.0,8.0
+Desert camo top (equipped),,12.0,8.0
+Jungle camo legs (equipped),,12.0,8.0
+Jungle camo top (equipped),,12.0,8.0
+Not meat,,1.0,1.0
+Polar camo legs (equipped),,12.0,8.0
+Polar camo top (equipped),,12.0,8.0
+Warped sceptre,,1.0,1.0
+Wood camo legs (equipped),,12.0,8.0
+Wood camo top (equipped),,12.0,8.0
